@@ -78,6 +78,14 @@ npm install
 npm run start
 ```
 
+### With Nix
+
+```bash
+nix develop
+npm install
+npm run start
+```
+
 ## Tech Stack
 
 - TypeScript

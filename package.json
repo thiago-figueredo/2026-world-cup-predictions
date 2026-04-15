@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "npm run build && TF_CPP_MIN_LOG_LEVEL=2 TF_ENABLE_ONEDNN_OPTS=0 node --no-warnings dist/index.js"
+    "start": "npm run build && TF_CPP_MIN_LOG_LEVEL=2 TF_ENABLE_ONEDNN_OPTS=0 node --no-warnings dist/index.js",
+    "aggregate": "npm run build && node --no-warnings dist/src/aggregate.js",
+    "fill-matches": "npm run build && node --no-warnings dist/src/fill-matches.js"
   },
   "keywords": [],
   "author": "",

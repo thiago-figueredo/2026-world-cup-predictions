@@ -1,0 +1,981 @@
+Year,Datetime,Stage,Stadium,City,Referee,Assistant1,Assistant2,Host,TournamentGoals,QualifiedTeams,TournamentMatches,Winner
+1930,13 Jul 1930 - 15:00,Group 1,Pocitos,Montevideo,LOMBARDI Domingo (URU),CRISTOPHE Henry (BEL),REGO Gilberto (BRA),Uruguay,70,13,18,Uruguay
+1930,13 Jul 1930 - 15:00,Group 4,Parque Central,Montevideo,MACIAS Jose (ARG),MATEUCCI Francisco (URU),WARNKEN Alberto (CHI),Uruguay,70,13,18,Uruguay
+1930,14 Jul 1930 - 12:45,Group 2,Parque Central,Montevideo,TEJADA Anibal (URU),VALLARINO Ricardo (URU),BALWAY Thomas (FRA),Uruguay,70,13,18,Uruguay
+1930,14 Jul 1930 - 14:50,Group 3,Pocitos,Montevideo,WARNKEN Alberto (CHI),LANGENUS Jean (BEL),MATEUCCI Francisco (URU),Uruguay,70,13,18,Uruguay
+1930,15 Jul 1930 - 16:00,Group 1,Parque Central,Montevideo,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),RADULESCU Constantin (ROU),Uruguay,70,13,18,Uruguay
+1930,16 Jul 1930 - 14:45,Group 1,Parque Central,Montevideo,CRISTOPHE Henry (BEL),APHESTEGUY Martin (URU),LANGENUS Jean (BEL),Uruguay,70,13,18,Uruguay
+1930,17 Jul 1930 - 12:45,Group 2,Parque Central,Montevideo,MATEUCCI Francisco (URU),LOMBARDI Domingo (URU),WARNKEN Alberto (CHI),Uruguay,70,13,18,Uruguay
+1930,17 Jul 1930 - 14:45,Group 4,Parque Central,Montevideo,MACIAS Jose (ARG),APHESTEGUY Martin (URU),TEJADA Anibal (URU),Uruguay,70,13,18,Uruguay
+1930,18 Jul 1930 - 14:30,Group 3,Estadio Centenario,Montevideo,LANGENUS Jean (BEL),BALWAY Thomas (FRA),CRISTOPHE Henry (BEL),Uruguay,70,13,18,Uruguay
+1930,19 Jul 1930 - 12:50,Group 1,Estadio Centenario,Montevideo,TEJADA Anibal (URU),LOMBARDI Domingo (URU),REGO Gilberto (BRA),Uruguay,70,13,18,Uruguay
+1930,19 Jul 1930 - 15:00,Group 1,Estadio Centenario,Montevideo,SAUCEDO Ulises (BOL),ALONSO Gualberto (URU),RADULESCU Constantin (ROU),Uruguay,70,13,18,Uruguay
+1930,20 Jul 1930 - 13:00,Group 2,Estadio Centenario,Montevideo,BALWAY Thomas (FRA),MATEUCCI Francisco (URU),VALLEJO Gaspar (MEX),Uruguay,70,13,18,Uruguay
+1930,20 Jul 1930 - 15:00,Group 4,Estadio Centenario,Montevideo,VALLARINO Ricardo (URU),MACIAS Jose (ARG),LOMBARDI Domingo (URU),Uruguay,70,13,18,Uruguay
+1930,21 Jul 1930 - 14:50,Group 3,Estadio Centenario,Montevideo,REGO Gilberto (BRA),WARNKEN Alberto (CHI),SAUCEDO Ulises (BOL),Uruguay,70,13,18,Uruguay
+1930,22 Jul 1930 - 14:45,Group 1,Estadio Centenario,Montevideo,LANGENUS Jean (BEL),CRISTOPHE Henry (BEL),SAUCEDO Ulises (BOL),Uruguay,70,13,18,Uruguay
+1930,26 Jul 1930 - 14:45,Semi-finals,Estadio Centenario,Montevideo,LANGENUS Jean (BEL),VALLEJO Gaspar (MEX),WARNKEN Alberto (CHI),Uruguay,70,13,18,Uruguay
+1930,27 Jul 1930 - 14:45,Semi-finals,Estadio Centenario,Montevideo,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),BALWAY Thomas (FRA),Uruguay,70,13,18,Uruguay
+1930,30 Jul 1930 - 14:15,Final,Estadio Centenario,Montevideo,LANGENUS Jean (BEL),SAUCEDO Ulises (BOL),CRISTOPHE Henry (BEL),Uruguay,70,13,18,Uruguay
+1934,27 May 1934 - 16:30,Preliminary round,Stadio Benito Mussolini,Turin,VAN MOORSEL Johannes (NED),CAIRONI Camillo (ITA),BAERT Louis (BEL),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,Giorgio Ascarelli,Naples,BARLASSINA Rinaldo (ITA),DATTILO Generoso (ITA),SASSI Otello (ITA),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,San Siro,Milan,EKLIND Ivan (SWE),BERANEK Alois (AUT),BONIVENTO Ferruccio (ITA),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,Littorale,Bologna,BRAUN Eugen (AUT),CARRARO Albino (ITA),TURBIANI Giuseppe (ITA),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,Giovanni Berta,Florence,MATTEA Francesco (ITA),MELANDRI Ermenegildo (ITA),BAERT Jacques (FRA),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,Luigi Ferraris,Genoa,BIRLEM Alfred (GER),CARMINATI Ettore (ITA),IVANCSICS Mihaly (HUN),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,Nazionale PNF,Rome,MERCET Rene (SUI),ESCARTIN Pedro (ESP),ZENISEK Bohumil (TCH),Italy,70,16,17,Italy
+1934,27 May 1934 - 16:30,Preliminary round,Littorio,Trieste,LANGENUS Jean (BEL),SCARPI Giuseppe (ITA),SCORZONI Raffaele (ITA),Italy,70,16,17,Italy
+1934,31 May 1934 - 16:30,Quarter-finals,Stadio Benito Mussolini,Turin,BERANEK Alois (AUT),MOHAMED Youssuf (EGY),BAERT Jacques (FRA),Italy,70,16,17,Italy
+1934,31 May 1934 - 16:30,Quarter-finals,San Siro,Milan,BARLASSINA Rinaldo (ITA),MERCET Rene (SUI),VAN MOORSEL Johannes (NED),Italy,70,16,17,Italy
+1934,31 May 1934 - 16:30,Quarter-finals,Giovanni Berta,Florence,BAERT Louis (BEL),ZENISEK Bohumil (TCH),IVANCSICS Mihaly (HUN),Italy,70,16,17,Italy
+1934,31 May 1934 - 16:30,Quarter-finals,Littorale,Bologna,MATTEA Francesco (ITA),ESCARTIN Pedro (ESP),BIRLEM Alfred (GER),Italy,70,16,17,Italy
+1934,01 Jun 1934 - 16:30,Quarter-finals,Giovanni Berta,Florence,MERCET Rene (SUI),IVANCSICS Mihaly (HUN),ZENISEK Bohumil (TCH),Italy,70,16,17,Italy
+1934,03 Jun 1934 - 16:30,Semi-finals,San Siro,Milan,EKLIND Ivan (SWE),BAERT Louis (BEL),ZENISEK Bohumil (TCH),Italy,70,16,17,Italy
+1934,03 Jun 1934 - 16:30,Semi-finals,Nazionale PNF,Rome,BARLASSINA Rinaldo (ITA),BERANEK Alois (AUT),ESCARTIN Pedro (ESP),Italy,70,16,17,Italy
+1934,07 Jun 1934 - 18:00,Match for third place,Giorgio Ascarelli,Naples,CARRARO Albino (ITA),CAIRONI Camillo (ITA),ESCARTIN Pedro (ESP),Italy,70,16,17,Italy
+1934,10 Jun 1934 - 17:30,Final,Nazionale PNF,Rome,EKLIND Ivan (SWE),BAERT Louis (BEL),IVANCSICS Mihaly (HUN),Italy,70,16,17,Italy
+1938,04 Jun 1938 - 17:00,First round,Parc des Princes,Paris,LANGENUS Jean (BEL),MARENCO Paul (FRA),VAN MOORSEL Johannes (NED),France,84,15,18,Italy
+1938,05 Jun 1938 - 17:00,First round,Velodrome Municipale,Reims,CONRIE Roger (FRA),DE LA SALLE Charles (FRA),WEINGARTNER Karl (AUT),France,84,15,18,Italy
+1938,05 Jun 1938 - 17:00,First round,Stade Olympique,Colombes,WUETHRICH Hans (SUI),KRIST Gustav (TCH),BIRLEM Alfred (GER),France,84,15,18,Italy
+1938,05 Jun 1938 - 17:00,First round,Stade Municipal,Toulouse,SCARPI Giuseppe (ITA),VALPREDE Ferdinand (FRA),MERKCX Jean (FRA),France,84,15,18,Italy
+1938,05 Jun 1938 - 17:00,First round,Stade V�lodrome,Marseilles,BERANEK Alois (AUT),BOUTOURE D. (FRA),TREHOU D. (FRA),France,84,15,18,Italy
+1938,05 Jun 1938 - 17:30,First round,Stade de la Meinau,Strasbourg,EKLIND Ivan (SWE),POISSANT Louis (FRA),KISSENBERGER Ernest (FRA),France,84,15,18,Italy
+1938,05 Jun 1938 - 18:30,First round,Cavee Verte,Le Havre,LECLERCQ Lucien (FRA),OLIVE D. (FRA),SDEZ Victor (FRA),France,84,15,18,Italy
+1938,09 Jun 1938 - 18:00,First round,Stade Municipal,Toulouse,BIRLEM Alfred (GER),CAPDEVILLE Pierre (FRA),MARENCO Paul (FRA),France,84,15,18,Italy
+1938,09 Jun 1938 - 18:00,First round,Parc des Princes,Paris,EKLIND Ivan (SWE),BAERT Louis (BEL),VAN MOORSEL Johannes (NED),France,84,15,18,Italy
+1938,12 Jun 1938 - 17:00,Quarter-finals,Stade du Parc Lescure,Bordeaux,VON HERTZKA Pal (HUN),SCARPI Giuseppe (ITA),DE LA SALLE Charles (FRA),France,84,15,18,Italy
+1938,12 Jun 1938 - 17:00,Quarter-finals,Victor Boucquey,Lille,BARLASSINA Rinaldo (ITA),BERANEK Alois (AUT),BOUTOURE D. (FRA),France,84,15,18,Italy
+1938,12 Jun 1938 - 17:00,Quarter-finals,Fort Carree,Antibes,KRIST Gustav (TCH),WEINGARTNER Karl (AUT),SDEZ Victor (FRA),France,84,15,18,Italy
+1938,12 Jun 1938 - 17:00,Quarter-finals,Stade Olympique,Colombes,BAERT Louis (BEL),WUETHRICH Hans (SUI),EKLIND Ivan (SWE),France,84,15,18,Italy
+1938,14 Jun 1938 - 18:00,Quarter-finals,Stade du Parc Lescure,Bordeaux,CAPDEVILLE Georges (FRA),MARENCO Paul (FRA),KISSENBERGER Ernest (FRA),France,84,15,18,Italy
+1938,16 Jun 1938 - 18:00,Semi-finals,Parc des Princes,Paris,LECLERCQ Lucien (FRA),VAN MOORSEL Johannes (NED),SCARPI Giuseppe (ITA),France,84,15,18,Italy
+1938,16 Jun 1938 - 18:00,Semi-finals,Stade V�lodrome,Marseilles,WUETHRICH Hans (SUI),BERANEK Alois (AUT),MARENCO Paul (FRA),France,84,15,18,Italy
+1938,19 Jun 1938 - 17:00,Match for third place,Stade du Parc Lescure,Bordeaux,LANGENUS Jean (BEL),OLIVE D. (FRA),VALPREDE Ferdinand (FRA),France,84,15,18,Italy
+1938,19 Jun 1938 - 17:00,Final,Stade Olympique,Colombes,CAPDEVILLE Georges (FRA),WUETHRICH Hans (SUI),KRIST Gustav (TCH),France,84,15,18,Italy
+1950,24 Jun 1950 - 15:00,Group 1,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,READER George (ENG),GRIFFITHS Benjamin (WAL),MITCHELL George (SCO),Brazil,88,13,22,Uruguay
+1950,25 Jun 1950 - 15:00,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,VAN DER MEER Karel (NED),GARDELLI Mario (BRA),DAHLNER Gunnar (SWE),Brazil,88,13,22,Uruguay
+1950,25 Jun 1950 - 15:00,Group 2,Durival de Brito,Curitiba,VIANA Mario (BRA),DA COSTA VIEIRA Jose (POR),DE LA SALLE Charles (FRA),Brazil,88,13,22,Uruguay
+1950,25 Jun 1950 - 15:00,Group 3,Pacaembu,Sao Paulo,LUTZ Jean (SUI),BERANEK Alois (AUT),TEJADA Carlos (MEX),Brazil,88,13,22,Uruguay
+1950,25 Jun 1950 - 15:00,Group 1,Independencia,Belo Horizonte,GALEATI Giovanni (ITA),EKLIND Ivan (SWE),DATTILO Generoso (ITA),Brazil,88,13,22,Uruguay
+1950,28 Jun 1950 - 15:00,Group 1,Pacaembu,Sao Paulo,AZON ROMA Ramon (ESP),BUSTAMANTE Sergio (CHI),DE NICOLA Cayetano (PAR),Brazil,88,13,22,Uruguay
+1950,28 Jun 1950 - 15:00,Group 1,Eucaliptos,Porto Alegre,LEAFE Reginald (ENG),DAHLNER Gunnar (SWE),VAN DER MEER Karel (NED),Brazil,88,13,22,Uruguay
+1950,29 Jun 1950 - 15:00,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,MALCHER Alberto (BRA),MARINO Esteban (URU),ALVAREZ Alfredo (BOL),Brazil,88,13,22,Uruguay
+1950,29 Jun 1950 - 15:30,Group 3,Durival de Brito,Curitiba,MITCHELL Robert (SCO),LEMESIC Leo (YUG),GARCIA Prudencio (USA),Brazil,88,13,22,Uruguay
+1950,29 Jun 1950 - 15:00,Group 2,Independencia,Belo Horizonte,DATTILO Generoso (ITA),DE LA SALLE Charles (FRA),GALEATI Giovanni (ITA),Brazil,88,13,22,Uruguay
+1950,01 Jul 1950 - 15:00,Group 1,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,GRIFFITHS Benjamin (WAL),BERANEK Alois (AUT),DA COSTA VIEIRA Jose (POR),Brazil,88,13,22,Uruguay
+1950,02 Jul 1950 - 15:00,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,GALEATI Giovanni (ITA),LUTZ Jean (SUI),DATTILO Generoso (ITA),Brazil,88,13,22,Uruguay
+1950,02 Jul 1950 - 15:00,Group 3,Pacaembu,Sao Paulo,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),Brazil,88,13,22,Uruguay
+1950,02 Jul 1950 - 15:00,Group 4,Independencia,Belo Horizonte,READER George (ENG),VIANA Mario (BRA),LEMESIC Leo (YUG),Brazil,88,13,22,Uruguay
+1950,02 Jul 1950 - 15:40,Group 1,Eucaliptos,Porto Alegre,EKLIND Ivan (SWE),DAHLNER Gunnar (SWE),BUSTAMANTE Sergio (CHI),Brazil,88,13,22,Uruguay
+1950,02 Jul 1950 - 15:00,Group 2,Ilha do Retiro,Recife,GARDELLI Mario (BRA),HEYEN Mario Ruben (PAR),ALVAREZ Alfredo (BOL),Brazil,88,13,22,Uruguay
+1950,09 Jul 1950 - 15:00,Group 6,Pacaembu,Sao Paulo,GRIFFITHS Benjamin (WAL),DATTILO Generoso (ITA),ALVAREZ Alfredo (BOL),Brazil,88,13,22,Uruguay
+1950,09 Jul 1950 - 15:00,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),Brazil,88,13,22,Uruguay
+1950,13 Jul 1950 - 15:00,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,LEAFE Reginald (ENG),MITCHELL George (SCO),DA COSTA VIEIRA Jose (POR),Brazil,88,13,22,Uruguay
+1950,13 Jul 1950 - 15:00,Group 6,Pacaembu,Sao Paulo,GALEATI Giovanni (ITA),BERANEK Alois (AUT),DE NICOLA Cayetano (PAR),Brazil,88,13,22,Uruguay
+1950,16 Jul 1950 - 15:00,Group 6,Pacaembu,Sao Paulo,VAN DER MEER Karel (NED),LUTZ Jean (SUI),GARCIA Prudencio (USA),Brazil,88,13,22,Uruguay
+1950,16 Jul 1950 - 15:00,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro,READER George (ENG),ELLIS Arthur (ENG),MITCHELL George (SCO),Brazil,88,13,22,Uruguay
+1954,16 Jun 1954 - 18:00,Group 3,Wankdorf Stadium,Berne,ELLIS Arthur (ENG),LING William (ENG),SCHICKER Werner (SUI),Switzerland,140,16,26,Germany
+1954,16 Jun 1954 - 18:00,Group 3,Hardturm,Zurich,FRANKEN Laurent (BEL),VIANA Mario (BRA),GULDE Josef (SUI),Switzerland,140,16,26,Germany
+1954,16 Jun 1954 - 18:00,Group 1,Charmilles,Geneva,WYSSLING Paul (SUI),SCHONHOLZER Ernest (SUI),DA COSTA VIEIRA Jose (POR),Switzerland,140,16,26,Germany
+1954,16 Jun 1954 - 18:00,Group 1,La Pontaise,Lausanne,GRIFFITHS Benjamin (WAL),BAUMBERGER Rene (SUI),ASENSI Manuel (ESP),Switzerland,140,16,26,Germany
+1954,17 Jun 1954 - 18:00,Group 2,Wankdorf Stadium,Berne,DA COSTA VIEIRA Jose (POR),ZSOLT Istvan (HUN),MERLOTTI Armand (SUI),Switzerland,140,16,26,Germany
+1954,17 Jun 1954 - 18:00,Group 2,Hardturm,Zurich,VINCENTI Raymond (FRA),VON GUNTER Albert (SUI),STEINER Carl (AUT),Switzerland,140,16,26,Germany
+1954,17 Jun 1954 - 18:10,Group 4,St. Jakob,Basel,SCHMETZER Emil (FRG),BUCHMUELLER Fritz (SUI),RUFFLI Willy (SUI),Switzerland,140,16,26,Germany
+1954,17 Jun 1954 - 17:50,Group 4,La Pontaise,Lausanne,VIANA Mario (BRA),ASENSI Manuel (ESP),MARINO Esteban (URU),Switzerland,140,16,26,Germany
+1954,19 Jun 1954 - 16:50,Group 3,St. Jakob,Basel,ORLANDINI Vincenzo (ITA),WYSSLING Paul (SUI),GUIDI Denilo (SUI),Switzerland,140,16,26,Germany
+1954,19 Jun 1954 - 17:00,Group 3,Hardturm,Zurich,STEFANOVIC Vasa (YUG),DOERFLINGER Ernst (SUI),GULDE Josef (SUI),Switzerland,140,16,26,Germany
+1954,19 Jun 1954 - 17:10,Group 1,Charmilles,Geneva,ASENSI Manuel (ESP),FRANKEN Laurent (BEL),BAUMBERGER Rene (SUI),Switzerland,140,16,26,Germany
+1954,19 Jun 1954 - 17:00,Group 1,La Pontaise,Lausanne,FAULTLESS Charlie (SCO),ELLIS Arthur (ENG),VON GUNTER Albert (SUI),Switzerland,140,16,26,Germany
+1954,20 Jun 1954 - 16:50,Group 2,St. Jakob,Basel,LING William (ENG),SCHICKER Werner (SUI),GRIFFITHS Benjamin (WAL),Switzerland,140,16,26,Germany
+1954,20 Jun 1954 - 17:00,Group 2,Charmilles,Geneva,MARINO Esteban (URU),ORLANDINI Vincenzo (ITA),SCHONHOLZER Ernest (SUI),Switzerland,140,16,26,Germany
+1954,20 Jun 1954 - 17:10,Group 4,Wankdorf Stadium,Berne,ZSOLT Istvan (HUN),DA COSTA VIEIRA Jose (POR),STEFANOVIC Vasa (YUG),Switzerland,140,16,26,Germany
+1954,20 Jun 1954 - 17:00,Group 4,Comunale di Cornaredo,Lugano,STEINER Carl (AUT),VINCENTI Raymond (FRA),SCHMETZER Emil (FRG),Switzerland,140,16,26,Germany
+1954,23 Jun 1954 - 18:00,Group 2,Hardturm,Zurich,VINCENTI Raymond (FRA),FAULTLESS Charlie (SCO),DOERFLINGER Ernst (SUI),Switzerland,140,16,26,Germany
+1954,23 Jun 1954 - 18:00,Group 4,St. Jakob,Basel,GRIFFITHS Benjamin (WAL),DA COSTA VIEIRA Jose (POR),LING William (ENG),Switzerland,140,16,26,Germany
+1954,26 Jun 1954 - 17:00,Quarter-finals,St. Jakob,Basel,STEINER Carl (AUT),STEFANOVIC Vasa (YUG),ORLANDINI Vincenzo (ITA),Switzerland,140,16,26,Germany
+1954,26 Jun 1954 - 17:00,Quarter-finals,La Pontaise,Lausanne,FAULTLESS Charlie (SCO),ASENSI Manuel (ESP),SCHMETZER Emil (FRG),Switzerland,140,16,26,Germany
+1954,27 Jun 1954 - 17:00,Quarter-finals,Charmilles,Geneva,ZSOLT Istvan (HUN),FRANKEN Laurent (BEL),BUCHMUELLER Fritz (SUI),Switzerland,140,16,26,Germany
+1954,27 Jun 1954 - 17:00,Quarter-finals,Wankdorf Stadium,Berne,ELLIS Arthur (ENG),LING William (ENG),WYSSLING Paul (SUI),Switzerland,140,16,26,Germany
+1954,30 Jun 1954 - 18:00,Semi-finals,St. Jakob,Basel,ORLANDINI Vincenzo (ITA),ELLIS Arthur (ENG),BUCHMUELLER Fritz (SUI),Switzerland,140,16,26,Germany
+1954,30 Jun 1954 - 18:00,Semi-finals,La Pontaise,Lausanne,GRIFFITHS Benjamin (WAL),FAULTLESS Charlie (SCO),VINCENTI Raymond (FRA),Switzerland,140,16,26,Germany
+1954,03 Jul 1954 - 17:00,Match for third place,Hardturm,Zurich,WYSSLING Paul (SUI),ZSOLT Istvan (HUN),ELLIS Arthur (ENG),Switzerland,140,16,26,Germany
+1954,04 Jul 1954 - 17:00,Final,Wankdorf Stadium,Berne,LING William (ENG),ORLANDINI Vincenzo (ITA),GRIFFITHS Benjamin (WAL),Switzerland,140,16,26,Germany
+1958,08 Jun 1958 - 14:00,Group 3,Rasunda Stadium,Solna,LATYCHEV Nikolaj (URS),MOWAT Jack (SCO),ERIKSSON Arne (FIN),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 4,Nya Ullevi,Gothenburg,ZSOLT Istvan (HUN),NILSEN Birger (NOR),JORGENSEN Carl Frederik (DEN),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 1,Malmo Stadion,Malm�,LEAFE Reginald (ENG),HELGE Leo (DEN),AHLNER Sten (SWE),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 3,Jarnvallen,Sandviken,CODESAL Jose Maria (URU),LEMESIC Leo (YUG),VAN NUFFEL Lucien (BEL),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 2,Idrottsparken,Norrk�Ping,GARDEAZABAL Juan (ESP),GRIFFITHS Benjamin (WAL),BROZZI Juan (ARG),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 2,Arosvallen,Vasteras,WYSSLING Paul (SUI),ORLANDINI Vincenzo (ITA),MACKO Martin (TCH),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 4,Rimnersvallen,Udevalla,GUIGUE Maurice (FRA),DUSCH Albert (GER),BRONKHORST Jan (NED),Sweden,126,16,35,Brazil
+1958,08 Jun 1958 - 19:00,Group 1,Orjans Vall,Halmstad,SEIPELT Fritz (AUT),ELLIS Arthur (ENG),FERNANDES CAMPOS Joaquim (POR),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 4,Nya Ullevi,Gothenburg,DUSCH Albert (GER),LOEOEW Bertil (SWE),ZSOLT Istvan (HUN),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 3,Rasunda Stadium,Solna,LEMESIC Leo (YUG),LATYCHEV Nikolaj (URS),CODESAL Jose Maria (URU),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 2,Idrottsparken,Norrk�Ping,ORLANDINI Vincenzo (ITA),GARDEAZABAL Juan (ESP),ANDREN Bengt (SWE),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 2,Arosvallen,Vasteras,GRIFFITHS Benjamin (WAL),WYSSLING Paul (SUI),DRAGVOLL Georg (NOR),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 4,Ryavallen,Boras,JORGENSEN Carl Frederik (DEN),NILSEN Birger (NOR),ACKEBORN Gosta (SWE),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 1,Olympia Stadium,Helsingborg,ELLIS Arthur (ENG),LEAFE Reginald (ENG),SEIPELT Fritz (AUT),Sweden,126,16,35,Brazil
+1958,11 Jun 1958 - 19:00,Group 1,Orjans Vall,Halmstad,AHLNER Sten (SWE),FERNANDES CAMPOS Joaquim (POR),HELGE Leo (DEN),Sweden,126,16,35,Brazil
+1958,12 Jun 1958 - 19:00,Group 3,Rasunda Stadium,Solna,MOWAT Jack (SCO),VAN NUFFEL Lucien (BEL),DRAGVOLL Georg (NOR),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 14:00,Group 3,Rasunda Stadium,Solna,VAN NUFFEL Lucien (BEL),LEMESIC Leo (YUG),LATYCHEV Nikolaj (URS),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 4,Nya Ullevi,Gothenburg,GUIGUE Maurice (FRA),NILSEN Birger (NOR),JORGENSEN Carl Frederik (DEN),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 1,Malmo Stadion,Malm�,FERNANDES CAMPOS Joaquim (POR),AHLNER Sten (SWE),HELGE Leo (DEN),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 3,Jarnvallen,Sandviken,ERIKSSON Arne (FIN),CODESAL Jose Maria (URU),MOWAT Jack (SCO),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 2,Tunavallen,Eskilstuna,MACKO Martin (TCH),GRIFFITHS Benjamin (WAL),GARDEAZABAL Juan (ESP),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 2,Eyravallen,Orebro,BROZZI Juan (ARG),ORLANDINI Vincenzo (ITA),WYSSLING Paul (SUI),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 4,Ryavallen,Boras,BRONKHORST Jan (NED),DUSCH Albert (GER),ZSOLT Istvan (HUN),Sweden,126,16,35,Brazil
+1958,15 Jun 1958 - 19:00,Group 1,Olympia Stadium,Helsingborg,ELLIS Arthur (ENG),LEAFE Reginald (ENG),SEIPELT Fritz (AUT),Sweden,126,16,35,Brazil
+1958,17 Jun 1958 - 19:00,Group 4,Nya Ullevi,Gothenburg,DUSCH Albert (GER),BRONKHORST Jan (NED),SEIPELT Fritz (AUT),Sweden,126,16,35,Brazil
+1958,17 Jun 1958 - 19:00,Group 1,Malmo Stadion,Malm�,GUIGUE Maurice (FRA),FERNANDES CAMPOS Joaquim (POR),AHLNER Sten (SWE),Sweden,126,16,35,Brazil
+1958,17 Jun 1958 - 19:00,Group 3,Rasunda Stadium,Solna,LATYCHEV Nikolaj (URS),CODESAL Jose Maria (URU),ERIKSSON Arne (FIN),Sweden,126,16,35,Brazil
+1958,19 Jun 1958 - 19:00,Quarter-finals,Nya Ullevi,Gothenburg,SEIPELT Fritz (AUT),GUIGUE Maurice (FRA),DUSCH Albert (GER),Sweden,126,16,35,Brazil
+1958,19 Jun 1958 - 19:00,Quarter-finals,Malmo Stadion,Malm�,WYSSLING Paul (SUI),FERNANDES CAMPOS Joaquim (POR),HELGE Leo (DEN),Sweden,126,16,35,Brazil
+1958,19 Jun 1958 - 19:00,Quarter-finals,Rasunda Stadium,Solna,LEAFE Reginald (ENG),BROZZI Juan (ARG),DRAGVOLL Georg (NOR),Sweden,126,16,35,Brazil
+1958,19 Jun 1958 - 19:00,Quarter-finals,Idrottsparken,Norrk�Ping,GARDEAZABAL Juan (ESP),LATYCHEV Nikolaj (URS),ANDREN Bengt (SWE),Sweden,126,16,35,Brazil
+1958,24 Jun 1958 - 19:00,Semi-finals,Nya Ullevi,Gothenburg,ZSOLT Istvan (HUN),SEIPELT Fritz (AUT),ELLIS Arthur (ENG),Sweden,126,16,35,Brazil
+1958,24 Jun 1958 - 19:00,Semi-finals,Rasunda Stadium,Solna,GRIFFITHS Benjamin (WAL),WYSSLING Paul (SUI),LEAFE Reginald (ENG),Sweden,126,16,35,Brazil
+1958,28 Jun 1958 - 17:00,Match for third place,Nya Ullevi,Gothenburg,BROZZI Juan (ARG),ELLIS Arthur (ENG),LUNDELL Bengt (SWE),Sweden,126,16,35,Brazil
+1958,29 Jun 1958 - 15:00,Final,Rasunda Stadium,Solna,GUIGUE Maurice (FRA),DUSCH Albert (GER),GARDEAZABAL Juan (ESP),Sweden,126,16,35,Brazil
+1962,30 May 1962 - 15:00,Group 1,Carlos Dittborn,Arica,DOROGI Andor (HUN),ETZEL FILHO Joao (BRA),GALBA Karol (TCH),Chile,89,16,32,Brazil
+1962,30 May 1962 - 15:00,Group 3,Estadio Sausalito,Vina Del Mar,DIENST Gottfried (SUI),STEINER Carl (AUT),SCHWINTE Pierre (FRA),Chile,89,16,32,Brazil
+1962,30 May 1962 - 15:00,Group 4,Estadio El Teniente-Codelco,Rancagua,GARDEAZABAL Juan (ESP),BUERGO Fernando (MEX),MORGAN Raymond (CAN),Chile,89,16,32,Brazil
+1962,30 May 1962 - 15:00,Group 2,Nacional,Santiago De Chile,ASTON Ken (ENG),BLAVIER Arthur (BEL),YAMASAKI MALDONADO Arturo (MEX),Chile,89,16,32,Brazil
+1962,31 May 1962 - 15:00,Group 1,Carlos Dittborn,Arica,DUSCH Albert (GER),ETZEL FILHO Joao (BRA),ROBLES Carlos (CHI),Chile,89,16,32,Brazil
+1962,31 May 1962 - 15:00,Group 3,Estadio Sausalito,Vina Del Mar,STEINER Carl (AUT),MARINO Esteban (URU),VAN ROSBERG Walter Jose (CUW),Chile,89,16,32,Brazil
+1962,31 May 1962 - 15:00,Group 4,Estadio El Teniente-Codelco,Rancagua,HORN Leo (NED),BLAVIER Arthur (BEL),GOLDSTEIN Leo (USA),Chile,89,16,32,Brazil
+1962,31 May 1962 - 15:00,Group 2,Nacional,Santiago De Chile,DAVIDSON Bob (SCO),MORGAN Raymond (CAN),VENTRE Luis Antonio (ARG),Chile,89,16,32,Brazil
+1962,02 Jun 1962 - 15:00,Group 1,Carlos Dittborn,Arica,GALBA Karol (TCH),DUSCH Albert (GER),JONNI Cesare (ITA),Chile,89,16,32,Brazil
+1962,02 Jun 1962 - 15:00,Group 3,Estadio Sausalito,Vina Del Mar,SCHWINTE Pierre (FRA),MASSARO Artur (CHI),DIENST Gottfried (SUI),Chile,89,16,32,Brazil
+1962,02 Jun 1962 - 15:00,Group 4,Estadio El Teniente-Codelco,Rancagua,LATYCHEV Nikolaj (URS),REGINATO Adolfe Molina (CHI),MORGAN Raymond (CAN),Chile,89,16,32,Brazil
+1962,02 Jun 1962 - 15:00,Group 2,Nacional,Santiago De Chile,ASTON Ken (ENG),GOLDSTEIN Leo (USA),BUERGO Fernando (MEX),Chile,89,16,32,Brazil
+1962,03 Jun 1962 - 15:00,Group 1,Carlos Dittborn,Arica,ETZEL FILHO Joao (BRA),DOROGI Andor (HUN),ROBLES Carlos (CHI),Chile,89,16,32,Brazil
+1962,03 Jun 1962 - 15:00,Group 3,Estadio Sausalito,Vina Del Mar,TESANIC Branko (YUG),VICUNA Claudio (CHI),VAN ROSBERG Walter Jose (CUW),Chile,89,16,32,Brazil
+1962,03 Jun 1962 - 15:00,Group 4,Estadio El Teniente-Codelco,Rancagua,GARDEAZABAL Juan (ESP),DAVIDSON Bob (SCO),SILVA Luis (CHI),Chile,89,16,32,Brazil
+1962,03 Jun 1962 - 15:00,Group 2,Nacional,Santiago De Chile,HORN Leo (NED),LATYCHEV Nikolaj (URS),VENTRE Luis Antonio (ARG),Chile,89,16,32,Brazil
+1962,06 Jun 1962 - 15:00,Group 1,Carlos Dittborn,Arica,JONNI Cesare (ITA),DOROGI Andor (HUN),DUSCH Albert (GER),Chile,89,16,32,Brazil
+1962,06 Jun 1962 - 15:00,Group 3,Estadio Sausalito,Vina Del Mar,BUSTAMANTE Sergio (CHI),MARINO Esteban (URU),SUNDHEIM Jose Antonio (COL),Chile,89,16,32,Brazil
+1962,06 Jun 1962 - 15:00,Group 4,Estadio El Teniente-Codelco,Rancagua,YAMASAKI MALDONADO Arturo (MEX),BULNES R. (CHI),GARDEAZABAL Juan (ESP),Chile,89,16,32,Brazil
+1962,06 Jun 1962 - 15:00,Group 2,Nacional,Santiago De Chile,DAVIDSON Bob (SCO),ASTON Ken (ENG),HORN Leo (NED),Chile,89,16,32,Brazil
+1962,07 Jun 1962 - 15:00,Group 1,Carlos Dittborn,Arica,ROBLES Carlos (CHI),JONNI Cesare (ITA),GALBA Karol (TCH),Chile,89,16,32,Brazil
+1962,07 Jun 1962 - 15:00,Group 3,Estadio Sausalito,Vina Del Mar,DIENST Gottfried (SUI),TESANIC Branko (YUG),SUNDHEIM Jose Antonio (COL),Chile,89,16,32,Brazil
+1962,07 Jun 1962 - 15:00,Group 4,Estadio El Teniente-Codelco,Rancagua,BLAVIER Arthur (BEL),REGINATO Adolfe Molina (CHI),BULNES R. (CHI),Chile,89,16,32,Brazil
+1962,07 Jun 1962 - 15:00,Group 2,Nacional,Santiago De Chile,LATYCHEV Nikolaj (URS),DAVIDSON Bob (SCO),RUMENTCHEV Dimitar (BUL),Chile,89,16,32,Brazil
+1962,10 Jun 1962 - 14:30,Quarter-finals,Carlos Dittborn,Arica,HORN Leo (NED),ETZEL FILHO Joao (BRA),GALBA Karol (TCH),Chile,89,16,32,Brazil
+1962,10 Jun 1962 - 14:30,Quarter-finals,Estadio Sausalito,Vina Del Mar,SCHWINTE Pierre (FRA),DIENST Gottfried (SUI),BUSTAMANTE Sergio (CHI),Chile,89,16,32,Brazil
+1962,10 Jun 1962 - 14:30,Quarter-finals,Estadio El Teniente-Codelco,Rancagua,LATYCHEV Nikolaj (URS),BUERGO Fernando (MEX),RUMENTCHEV Dimitar (BUL),Chile,89,16,32,Brazil
+1962,10 Jun 1962 - 14:30,Quarter-finals,Nacional,Santiago De Chile,YAMASAKI MALDONADO Arturo (MEX),VENTRE Luis Antonio (ARG),SILVA Jose Antonio (CHI),Chile,89,16,32,Brazil
+1962,13 Jun 1962 - 14:30,Semi-finals,Estadio Sausalito,Vina Del Mar,DIENST Gottfried (SUI),STEINER Carl (AUT),JONNI Cesare (ITA),Chile,89,16,32,Brazil
+1962,13 Jun 1962 - 14:30,Semi-finals,Nacional,Santiago De Chile,YAMASAKI MALDONADO Arturo (MEX),MARINO Esteban (URU),VENTRE Luis Antonio (ARG),Chile,89,16,32,Brazil
+1962,16 Jun 1962 - 14:30,Match for third place,Nacional,Santiago De Chile,GARDEAZABAL Juan (ESP),DUSCH Albert (GER),DOROGI Andor (HUN),Chile,89,16,32,Brazil
+1962,17 Jun 1962 - 14:30,Final,Nacional,Santiago De Chile,LATYCHEV Nikolaj (URS),HORN Leo (NED),DAVIDSON Bob (SCO),Chile,89,16,32,Brazil
+1966,11 Jul 1966 - 19:30,Group 1,Wembley Stadium,London,ZSOLT Istvan (HUN),BAKHRAMOV Tofik (URS),RUMENTCHEV Dimitar (BUL),England,89,16,32,England
+1966,12 Jul 1966 - 19:30,Group 2,Hillsborough,Sheffield,PHILLIPS Hugh (SCO),ADAIR John (NIR),LOEOEW Bertil (SWE),England,89,16,32,England
+1966,12 Jul 1966 - 19:30,Group 3,Goodison Park,Liverpool,TSCHENSCHER Kurt (GER),McCABE George (ENG),TAYLOR John (ENG),England,89,16,32,England
+1966,12 Jul 1966 - 19:30,Group 4,Ayresome Park,Middlesbrough,GARDEAZABAL Juan (ESP),KANDIL Aly Hussein (EGY),DIENST Gottfried (SUI),England,89,16,32,England
+1966,13 Jul 1966 - 19:30,Group 1,Wembley Stadium,London,ASHKENAZI Menachem (ISR),FERNANDES CAMPOS Joaquim (POR),GALBA Karol (TCH),England,89,16,32,England
+1966,13 Jul 1966 - 19:30,Group 3,Old Trafford Stadium,Manchester,CALLAGHAN Leo (WAL),HOWLEY Kevin (ENG),CLEMENTS William (ENG),England,89,16,32,England
+1966,13 Jul 1966 - 19:30,Group 2,Villa Park,Birmingham,RUMENTCHEV Dimitar (BUL),YAMASAKI MALDONADO Arturo (MEX),ZECEVIC Konstantin (YUG),England,89,16,32,England
+1966,13 Jul 1966 - 19:30,Group 4,Roker Park Ground,Sunderland,DIENST Gottfried (SUI),FINNEY Jim (ENG),KREITLEIN Rudolf (GER),England,89,16,32,England
+1966,15 Jul 1966 - 19:30,Group 1,White City,London,GALBA Karol (TCH),CALLAGHAN Leo (WAL),MARQUES Armando (BRA),England,89,16,32,England
+1966,15 Jul 1966 - 19:30,Group 2,Hillsborough,Sheffield,BAKHRAMOV Tofik (URS),ZSOLT Istvan (HUN),PHILLIPS Hugh (SCO),England,89,16,32,England
+1966,15 Jul 1966 - 19:30,Group 3,Goodison Park,Liverpool,DAGNALL Kenneth (ENG),HOWLEY Kevin (ENG),YAMASAKI MALDONADO Arturo (MEX),England,89,16,32,England
+1966,15 Jul 1966 - 19:30,Group 4,Ayresome Park,Middlesbrough,KANDIL Aly Hussein (EGY),CRAWFORD William (SCO),FINNEY Jim (ENG),England,89,16,32,England
+1966,16 Jul 1966 - 15:00,Group 3,Old Trafford Stadium,Manchester,CODESAL Jose Maria (URU),GOICOECHEA Roberto (ARG),TSCHENSCHER Kurt (GER),England,89,16,32,England
+1966,16 Jul 1966 - 15:00,Group 2,Villa Park,Birmingham,ZECEVIC Konstantin (YUG),FERNANDES CAMPOS Joaquim (POR),LOEOEW Bertil (SWE),England,89,16,32,England
+1966,16 Jul 1966 - 15:00,Group 4,Roker Park Ground,Sunderland,KREITLEIN Rudolf (GER),CRAWFORD William (SCO),KANDIL Aly Hussein (EGY),England,89,16,32,England
+1966,16 Jul 1966 - 19:30,Group 1,Wembley Stadium,London,LO BELLO Concetto (ITA),CHOI Duk Ryong (PRK),ASHKENAZI Menachem (ISR),England,89,16,32,England
+1966,19 Jul 1966 - 16:30,Group 1,Wembley Stadium,London,LOEOEW Bertil (SWE),VICUNA Claudio (CHI),LO BELLO Concetto (ITA),England,89,16,32,England
+1966,19 Jul 1966 - 19:30,Group 2,Hillsborough,Sheffield,FERNANDES CAMPOS Joaquim (POR),ZSOLT Istvan (HUN),BAKHRAMOV Tofik (URS),England,89,16,32,England
+1966,19 Jul 1966 - 19:30,Group 3,Goodison Park,Liverpool,McCABE George (ENG),CALLAGHAN Leo (WAL),DAGNALL Kenneth (ENG),England,89,16,32,England
+1966,19 Jul 1966 - 19:30,Group 4,Ayresome Park,Middlesbrough,SCHWINTE Pierre (FRA),ADAIR John (NIR),TAYLOR John (ENG),England,89,16,32,England
+1966,20 Jul 1966 - 19:30,Group 1,Wembley Stadium,London,YAMASAKI MALDONADO Arturo (MEX),GALBA Karol (TCH),RUMENTCHEV Dimitar (BUL),England,89,16,32,England
+1966,20 Jul 1966 - 19:30,Group 3,Old Trafford Stadium,Manchester,GOICOECHEA Roberto (ARG),GARDEAZABAL Juan (ESP),CODESAL Jose Maria (URU),England,89,16,32,England
+1966,20 Jul 1966 - 19:30,Group 2,Villa Park,Birmingham,MARQUES Armando (BRA),VICUNA Claudio (CHI),CHOI Duk Ryong (PRK),England,89,16,32,England
+1966,20 Jul 1966 - 19:30,Group 4,Roker Park Ground,Sunderland,ADAIR John (NIR),SCHWINTE Pierre (FRA),CLEMENTS William (ENG),England,89,16,32,England
+1966,23 Jul 1966 - 15:00,Quarter-finals,Wembley Stadium,London,KREITLEIN Rudolf (GER),DIENST Gottfried (SUI),ZSOLT Istvan (HUN),England,89,16,32,England
+1966,23 Jul 1966 - 15:00,Quarter-finals,Hillsborough,Sheffield,FINNEY Jim (ENG),KANDIL Aly Hussein (EGY),PHILLIPS Hugh (SCO),England,89,16,32,England
+1966,23 Jul 1966 - 15:00,Quarter-finals,Roker Park Ground,Sunderland,GARDEAZABAL Juan (ESP),CODESAL Jose Maria (URU),FERNANDES CAMPOS Joaquim (POR),England,89,16,32,England
+1966,23 Jul 1966 - 15:00,Quarter-finals,Goodison Park,Liverpool,ASHKENAZI Menachem (ISR),GALBA Karol (TCH),SCHWINTE Pierre (FRA),England,89,16,32,England
+1966,25 Jul 1966 - 19:30,Semi-finals,Goodison Park,Liverpool,LO BELLO Concetto (ITA),CODESAL Jose Maria (URU),GARDEAZABAL Juan (ESP),England,89,16,32,England
+1966,26 Jul 1966 - 19:30,Semi-finals,Wembley Stadium,London,SCHWINTE Pierre (FRA),YAMASAKI MALDONADO Arturo (MEX),ZECEVIC Konstantin (YUG),England,89,16,32,England
+1966,28 Jul 1966 - 19:30,Match for third place,Wembley Stadium,London,DAGNALL Kenneth (ENG),HOWLEY Kevin (ENG),KANDIL Aly Hussein (EGY),England,89,16,32,England
+1966,30 Jul 1966 - 15:00,Final,Wembley Stadium,London,DIENST Gottfried (SUI),BAKHRAMOV Tofik (URS),GALBA Karol (TCH),England,89,16,32,England
+1970,31 May 1970 - 12:00,Group 1,Estadio Azteca,Mexico City,TSCHENSCHER Kurt (GER),DUNSTAN Keith (BER),TAYLOR John (ENG),Mexico,95,16,32,Brazil
+1970,02 Jun 1970 - 16:00,Group 2,Cuauhtemoc,Puebla,DAVIDSON Bob (SCO),SCHEURER Ruedi (SUI),TAREKEGN Seyoum (ETH),Mexico,95,16,32,Brazil
+1970,02 Jun 1970 - 16:00,Group 4,Nou Camp - Estadio Le�n,Leon,SBARDELLA Antonio (ITA),AGUILAR ELIZALDE Abel (MEX),MARUYAMA Yoshiyuki (JPN),Mexico,95,16,32,Brazil
+1970,02 Jun 1970 - 16:00,Group 3,Jalisco,Guadalajara,LORAUX Vital (BEL),MACHIN Roger (FRA),DE LEO Diego (MEX),Mexico,95,16,32,Brazil
+1970,03 Jun 1970 - 16:00,Group 2,Luis Dosal,Toluca,TAYLOR John (ENG),SCHEURER Ruedi (SUI),KANDIL Aly Hussein (EGY),Mexico,95,16,32,Brazil
+1970,03 Jun 1970 - 16:00,Group 4,Nou Camp - Estadio Le�n,Leon,VAN RAVENS Laurens (NED),ORTIZ DE MENDIBIL Jose Maria (ESP),VELASQUEZ Guillermo (COL),Mexico,95,16,32,Brazil
+1970,03 Jun 1970 - 16:00,Group 3,Jalisco,Guadalajara,BARRETO RUIZ Ramon (URU),KLEIN Abraham (ISR),YAMASAKI MALDONADO Arturo (MEX),Mexico,95,16,32,Brazil
+1970,03 Jun 1970 - 16:00,Group 1,Estadio Azteca,Mexico City,RADULESCU Andrei (ROU),GLOECKNER Rudolf (GDR),TSCHENSCHER Kurt (GER),Mexico,95,16,32,Brazil
+1970,06 Jun 1970 - 16:00,Group 2,Cuauhtemoc,Puebla,GLOECKNER Rudolf (GDR),TSCHENSCHER Kurt (GER),HORVAT Drago (YUG),Mexico,95,16,32,Brazil
+1970,06 Jun 1970 - 16:00,Group 4,Nou Camp - Estadio Le�n,Leon,BAKHRAMOV Tofik (URS),MARUYAMA Yoshiyuki (JPN),SBARDELLA Antonio (ITA),Mexico,95,16,32,Brazil
+1970,06 Jun 1970 - 16:00,Group 3,Jalisco,Guadalajara,DE LEO Diego (MEX),EMSBERGER Gyula (HUN),LORAUX Vital (BEL),Mexico,95,16,32,Brazil
+1970,06 Jun 1970 - 16:00,Group 1,Estadio Azteca,Mexico City,SCHEURER Ruedi (SUI),LANDAUER Henry (USA),DAVIDSON Bob (SCO),Mexico,95,16,32,Brazil
+1970,07 Jun 1970 - 12:00,Group 2,Luis Dosal,Toluca,TAREKEGN Seyoum (ETH),RADULESCU Andrei (ROU),HORVAT Drago (YUG),Mexico,95,16,32,Brazil
+1970,07 Jun 1970 - 12:00,Group 4,Nou Camp - Estadio Le�n,Leon,ORTIZ DE MENDIBIL Jose Maria (ESP),VELASQUEZ Guillermo (COL),SALDANHA RIBEIRO Antonio (POR),Mexico,95,16,32,Brazil
+1970,07 Jun 1970 - 12:00,Group 3,Jalisco,Guadalajara,KLEIN Abraham (ISR),YAMASAKI MALDONADO Arturo (MEX),MACHIN Roger (FRA),Mexico,95,16,32,Brazil
+1970,07 Jun 1970 - 12:00,Group 1,Estadio Azteca,Mexico City,KANDIL Aly Hussein (EGY),DUNSTAN Keith (BER),TAYLOR John (ENG),Mexico,95,16,32,Brazil
+1970,10 Jun 1970 - 16:00,Group 2,Cuauhtemoc,Puebla,LANDAUER Henry (USA),TAYLOR John (ENG),RADULESCU Andrei (ROU),Mexico,95,16,32,Brazil
+1970,10 Jun 1970 - 16:00,Group 4,Nou Camp - Estadio Le�n,Leon,AGUILAR ELIZALDE Abel (MEX),ORTIZ DE MENDIBIL Jose Maria (ESP),SBARDELLA Antonio (ITA),Mexico,95,16,32,Brazil
+1970,10 Jun 1970 - 16:00,Group 3,Jalisco,Guadalajara,MARSCHALL Ferdinand (AUT),BARRETO RUIZ Ramon (URU),LORAUX Vital (BEL),Mexico,95,16,32,Brazil
+1970,10 Jun 1970 - 16:00,Group 1,Estadio Azteca,Mexico City,HORMAZABAL DIAZ Rafael (CHI),COEREZZA Norberto Angel (ARG),DE MORAES Ayrton Vieira (BRA),Mexico,95,16,32,Brazil
+1970,11 Jun 1970 - 16:00,Group 2,Luis Dosal,Toluca,DE MORAES Ayrton Vieira (BRA),TAREKEGN Seyoum (ETH),TSCHENSCHER Kurt (GER),Mexico,95,16,32,Brazil
+1970,11 Jun 1970 - 16:00,Group 4,Nou Camp - Estadio Le�n,Leon,SALDANHA RIBEIRO Antonio (POR),BAKHRAMOV Tofik (URS),VAN RAVENS Laurens (NED),Mexico,95,16,32,Brazil
+1970,11 Jun 1970 - 16:00,Group 3,Jalisco,Guadalajara,MACHIN Roger (FRA),EMSBERGER Gyula (HUN),MARSCHALL Ferdinand (AUT),Mexico,95,16,32,Brazil
+1970,11 Jun 1970 - 16:00,Group 1,Estadio Azteca,Mexico City,COEREZZA Norberto Angel (ARG),LANDAUER Henry (USA),HORMAZABAL DIAZ Rafael (CHI),Mexico,95,16,32,Brazil
+1970,14 Jun 1970 - 12:00,Quarter-finals,Luis Dosal,Toluca,SCHEURER Ruedi (SUI),DUNSTAN Keith (BER),LANDAUER Henry (USA),Mexico,95,16,32,Brazil
+1970,14 Jun 1970 - 12:00,Quarter-finals,Nou Camp - Estadio Le�n,Leon,COEREZZA Norberto Angel (ARG),VELASQUEZ Guillermo (COL),ORTIZ DE MENDIBIL Jose Maria (ESP),Mexico,95,16,32,Brazil
+1970,14 Jun 1970 - 12:00,Quarter-finals,Jalisco,Guadalajara,LORAUX Vital (BEL),MARSCHALL Ferdinand (AUT),EMSBERGER Gyula (HUN),Mexico,95,16,32,Brazil
+1970,14 Jun 1970 - 12:00,Quarter-finals,Estadio Azteca,Mexico City,VAN RAVENS Laurens (NED),DAVIDSON Bob (SCO),GLOECKNER Rudolf (GDR),Mexico,95,16,32,Brazil
+1970,17 Jun 1970 - 16:00,Semi-finals,Jalisco,Guadalajara,ORTIZ DE MENDIBIL Jose Maria (ESP),BAKHRAMOV Tofik (URS),MARSCHALL Ferdinand (AUT),Mexico,95,16,32,Brazil
+1970,17 June 1970 - 16:00,Semi-finals,Estadio Azteca,Mexico City,YAMASAKI MALDONADO Arturo (MEX),HORMAZABAL DIAZ Rafael (CHI),VELASQUEZ Guillermo (COL),Mexico,95,16,32,Brazil
+1970,20 Jun 1970 - 16:00,Match for third place,Estadio Azteca,Mexico City,SBARDELLA Antonio (ITA),MARSCHALL Ferdinand (AUT),AGUILAR ELIZALDE Abel (MEX),Mexico,95,16,32,Brazil
+1970,21 Jun 1970 - 12:00,Final,Estadio Azteca,Mexico City,GLOECKNER Rudolf (GDR),SCHEURER Ruedi (SUI),COEREZZA Norberto Angel (ARG),Mexico,95,16,32,Brazil
+1974,13 Jun 1974 - 17:00,Group 2,Waldstadion,Frankfurt/Main,SCHEURER Ruedi (SUI),LORAUX Vital (BEL),PESTARINO Luis (ARG),Germany,97,16,38,Germany
+1974,14 Jun 1974 - 16:00,Group 1,Olympiastadion,Berlin West,BABACAN Dogan (TUR),TAYLOR John (ENG),WINSEMANN Werner (CAN),Germany,97,16,38,Germany
+1974,14 Jun 1974 - 19:30,Group 1,Volksparkstadion,Hamburg,NDIAYE Youssou (SEN),SANCHEZ IBANEZ Pablo (ESP),DELGADO Omar (COL),Germany,97,16,38,Germany
+1974,14 Jun 1974 - 19:30,Group 2,Westfalenstadion,Dortmund,SCHULENBURG Gerhard (GER),BOSKOVIC Tony (AUS),WEYLAND Hans Joachim (FRG),Germany,97,16,38,Germany
+1974,15 Jun 1974 - 16:00,Group 3,Niedersachsenstadion,Hanover,PALOTAI Karoly (HUN),KAZAKOV Pavel (URS),RAINEA Nicolae (ROU),Germany,97,16,38,Germany
+1974,15 Jun 1974 - 16:00,Group 3,Rheinstadion,D�Sseldorf,PEREZ NUNEZ Edison A. (PER),GONZALEZ ARCHUNDIA Alfonso (MEX),SUPPIAH George (SIN),Germany,97,16,38,Germany
+1974,15 Jun 1974 - 18:00,Group 4,Olympiastadion,Munich,LLOBREGAT Vicente (VEN),NAMDAR Jafar (IRN),MARQUES Armando (BRA),Germany,97,16,38,Germany
+1974,15 Jun 1974 - 18:00,Group 4,Neckarstadion,Stuttgart,THOMAS Clive (WAL),ALDINGER Heinz (GER),DAVIDSON Bob (SCO),Germany,97,16,38,Germany
+1974,18 Jun 1974 - 16:00,Group 1,Volksparkstadion,Hamburg,KAMEL Mahmoud (EGY),GONZALEZ ARCHUNDIA Alfonso (MEX),PEREZ NUNEZ Edison A. (PER),Germany,97,16,38,Germany
+1974,18 Jun 1974 - 19:30,Group 2,Waldstadion,Frankfurt/Main,VAN GEMERT Arie (NED),PALOTAI Karoly (HUN),LINEMAYR Erich (AUT),Germany,97,16,38,Germany
+1974,18 Jun 1974 - 19:30,Group 1,Olympiastadion,Berlin West,ANGONESE Aurelio (ITA),SCHEURER Ruedi (SUI),DAVIDSON Bob (SCO),Germany,97,16,38,Germany
+1974,18 Jun 1974 - 19:30,Group 2,Parkstadion,Gelsenkirchen,DELGADO Omar (COL),LLOBREGAT Vicente (VEN),BARRETO RUIZ Ramon (URU),Germany,97,16,38,Germany
+1974,19 Jun 1974 - 19:30,Group 3,Westfalenstadion,Dortmund,WINSEMANN Werner (CAN),TSCHENSCHER Kurt (GER),THOMAS Clive (WAL),Germany,97,16,38,Germany
+1974,19 Jun 1974 - 19:30,Group 3,Niedersachsenstadion,Hanover,TAYLOR John (ENG),BABACAN Dogan (TUR),OHMSEN Klaus (GER),Germany,97,16,38,Germany
+1974,19 Jun 1974 - 19:30,Group 4,Olympiastadion,Munich,SUPPIAH George (SIN),BIWERSI Ferdinand (GER),ESCHWEILER Walter (GER),Germany,97,16,38,Germany
+1974,19 Jun 1974 - 19:30,Group 4,Neckarstadion,Stuttgart,KAZAKOV Pavel (URS),GLOECKNER Rudolf (GDR),RAINEA Nicolae (ROU),Germany,97,16,38,Germany
+1974,22 Jun 1974 - 16:00,Group 2,Waldstadion,Frankfurt/Main,GONZALEZ ARCHUNDIA Alfonso (MEX),GLOECKNER Rudolf (GDR),TSCHENSCHER Kurt (GER),Germany,97,16,38,Germany
+1974,22 Jun 1974 - 16:00,Group 1,Olympiastadion,Berlin West,NAMDAR Jafar (IRN),LORAUX Vital (BEL),VAN GEMERT Arie (NED),Germany,97,16,38,Germany
+1974,22 Jun 1974 - 16:00,Group 2,Parkstadion,Gelsenkirchen,RAINEA Nicolae (ROU),ANGONESE Aurelio (ITA),OHMSEN Klaus (GER),Germany,97,16,38,Germany
+1974,22 June 1974 - 19:30,Group 1,Volksparkstadion,Hamburg,BARRETO RUIZ Ramon (URU),MARQUES Armando (BRA),PESTARINO Luis (ARG),Germany,97,16,38,Germany
+1974,23 Jun 1974 - 16:00,Group 3,Westfalenstadion,Dortmund,BOSKOVIC Tony (AUS),BIWERSI Ferdinand (GER),ESCHWEILER Walter (GER),Germany,97,16,38,Germany
+1974,23 Jun 1974 - 16:00,Group 4,Olympiastadion,Munich,SANCHEZ IBANEZ Pablo (ESP),KAMEL Mahmoud (EGY),NDIAYE Birame (SEN),Germany,97,16,38,Germany
+1974,23 Jun 1974 - 16:00,Group 3,Rheinstadion,D�Sseldorf,LINEMAYR Erich (AUT),LLOBREGAT Vicente (VEN),ALDINGER Heinz (GER),Germany,97,16,38,Germany
+1974,23 Jun 1974 - 16:00,Group 4,Neckarstadion,Stuttgart,WEYLAND Hans Joachim (FRG),WINSEMANN Werner (CAN),SCHULENBURG Gerhard (GER),Germany,97,16,38,Germany
+1974,26 Jun 1974 - 16:00,Group B,Rheinstadion,D�Sseldorf,MARQUES Armando (BRA),ANGONESE Aurelio (ITA),PEREZ NUNEZ Edison A. (PER),Germany,97,16,38,Germany
+1974,26 Jun 1974 - 19:30,Group A,Niedersachsenstadion,Hanover,THOMAS Clive (WAL),BABACAN Dogan (TUR),BOSKOVIC Tony (AUS),Germany,97,16,38,Germany
+1974,26 Jun 1974 - 19:30,Group A,Parkstadion,Gelsenkirchen,DAVIDSON Bob (SCO),TSCHENSCHER Kurt (GER),KAZAKOV Pavel (URS),Germany,97,16,38,Germany
+1974,26 Jun 1974 - 19:30,Group B,Neckarstadion,Stuttgart,BARRETO RUIZ Ramon (URU),GONZALEZ ARCHUNDIA Alfonso (MEX),PESTARINO Luis (ARG),Germany,97,16,38,Germany
+1974,30 Jun 1974 - 16:00,Group A,Niedersachsenstadion,Hanover,LORAUX Vital (BEL),NDIAYE Birame (SEN),TAYLOR John (ENG),Germany,97,16,38,Germany
+1974,30 Jun 1974 - 16:00,Group B,Waldstadion,Frankfurt/Main,GLOECKNER Rudolf (GDR),MARQUES Armando (BRA),WINSEMANN Werner (CAN),Germany,97,16,38,Germany
+1974,30 Jun 1974 - 16:00,Group A,Parkstadion,Gelsenkirchen,SCHEURER Ruedi (SUI),LINEMAYR Erich (AUT),DELGADO Omar (COL),Germany,97,16,38,Germany
+1974,30 Jun 1974 - 19:30,Group B,Rheinstadion,D�Sseldorf,KAZAKOV Pavel (URS),RAINEA Nicolae (ROU),SANCHEZ IBANEZ Pablo (ESP),Germany,97,16,38,Germany
+1974,03 Jul 1974 - 17:00,Group B,Waldstadion,Frankfurt/Main,LINEMAYR Erich (AUT),PALOTAI Karoly (HUN),SCHEURER Ruedi (SUI),Germany,97,16,38,Germany
+1974,03 Jul 1974 - 19:30,Group A,Westfalenstadion,Dortmund,TSCHENSCHER Kurt (GER),DAVIDSON Bob (SCO),SUPPIAH George (SIN),Germany,97,16,38,Germany
+1974,03 Jul 1974 - 19:30,Group A,Parkstadion,Gelsenkirchen,TAYLOR John (ENG),KAMEL Mahmoud (EGY),THOMAS Clive (WAL),Germany,97,16,38,Germany
+1974,03 Jul 1974 - 19:30,Group B,Rheinstadion,D�Sseldorf,PESTARINO Luis (ARG),BARRETO RUIZ Ramon (URU),LLOBREGAT Vicente (VEN),Germany,97,16,38,Germany
+1974,06 Jul 1974 - 16:00,Match for third place,Olympiastadion,Munich,ANGONESE Aurelio (ITA),NAMDAR Jafar (IRN),NDIAYE Birame (SEN),Germany,97,16,38,Germany
+1974,07 July 1974 - 16:00,Final,Olympiastadion,Munich,TAYLOR John (ENG),GONZALEZ ARCHUNDIA Alfonso (MEX),BARRETO RUIZ Ramon (URU),Germany,97,16,38,Germany
+1978,01 Jun 1978 - 15:00,Group 2,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,COEREZZA Norberto Angel (ARG),ITHURRALDE Arturo Andres (ARG),COMESANA Miguel (ARG),Argentina,102,16,38,Argentina
+1978,02 Jun 1978 - 13:45,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata,RAINEA Nicolae (ROU),LINEMAYR Erich (AUT),SILVAGNO CAVANNA Juan (CHI),Argentina,102,16,38,Argentina
+1978,02 Jun 1978 - 16:45,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,GORDON John (SCO),DUBACH Jean (SUI),GONELLA Sergio (ITA),Argentina,102,16,38,Argentina
+1978,02 Jun 1978 - 19:15,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,GARRIDO Antonio (POR),NDIAYE Youssou (SEN),PARTRIDGE Pat (ENG),Argentina,102,16,38,Argentina
+1978,03 Jun 1978 - 13:45,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata,THOMAS Clive (WAL),JARGUZ Alojzy (POL),NAMDAR Jafar (IRN),Argentina,102,16,38,Argentina
+1978,03 Jun 1978 - 13:45,Group 3,Jose Amalfitani,Buenos Aires,PALOTAI Karoly (HUN),BARRETO RUIZ Ramon (URU),IVANOV Anatoly (URS),Argentina,102,16,38,Argentina
+1978,03 Jun 1978 - 16:45,Group 4,Estadio Ol�mpico Chateau Carreras,Cordoba,ERIKSSON Ulf (SWE),GEBREYESUS DIFUE Tesfaye (ERI),MARTINEZ Angel (ESP),Argentina,102,16,38,Argentina
+1978,03 Jun 1978 - 16:45,Group 4,San Martin,Mendoza,GONZALEZ ARCHUNDIA Alfonso (MEX),WURTZ Robert (FRA),COMESANA Miguel (ARG),Argentina,102,16,38,Argentina
+1978,06 Jun 1978 - 13:45,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata,BARRETO RUIZ Ramon (URU),BIWERSI Ferdinand (GER),GORDON John (SCO),Argentina,102,16,38,Argentina
+1978,06 Jun 1978 - 16:45,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,MARTINEZ Angel (ESP),PESTARINO Luis (ARG),THOMAS Clive (WAL),Argentina,102,16,38,Argentina
+1978,06 Jun 1978 - 16:45,Group 2,Estadio Ol�mpico Chateau Carreras,Cordoba,BOUZO Farouk (SYR),GARRIDO Antonio (POR),RION Francis (BEL),Argentina,102,16,38,Argentina
+1978,06 Jun 1978 - 19:15,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,DUBACH Jean (SUI),OROZCO GUERRERO Cesar (PER),WINSEMANN Werner (CAN),Argentina,102,16,38,Argentina
+1978,07 Jun 1978 - 13:45,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata,GONELLA Sergio (ITA),KLEIN Abraham (ISR),ITHURRALDE Arturo Andres (ARG),Argentina,102,16,38,Argentina
+1978,07 Jun 1978 - 13:45,Group 3,Jose Amalfitani,Buenos Aires,CORVER Charles (NED),MAKSIMOVIC Dusan (SCG),SEOUDI Hedi (TUN),Argentina,102,16,38,Argentina
+1978,07 Jun 1978 - 16:45,Group 4,Estadio Ol�mpico Chateau Carreras,Cordoba,NDIAYE Youssou (SEN),RAINEA Nicolae (ROU),COELHO Arnaldo (BRA),Argentina,102,16,38,Argentina
+1978,07 Jun 1978 - 16:45,Group 4,San Martin,Mendoza,PROKOP Adolf (GDR),COEREZZA Norberto Angel (ARG),IVANOV Anatoly (URS),Argentina,102,16,38,Argentina
+1978,10 Jun 1978 - 15:10,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata,COELHO Arnaldo (BRA),PARTRIDGE Pat (ENG),SILVAGNO CAVANNA Juan (CHI),Argentina,102,16,38,Argentina
+1978,10 Jun 1978 - 16:45,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,NAMDAR Jafar (IRN),ERIKSSON Ulf (SWE),CORVER Charles (NED),Argentina,102,16,38,Argentina
+1978,10 Jun 1978 - 16:45,Group 2,Estadio Ol�mpico Chateau Carreras,Cordoba,OROZCO GUERRERO Cesar (PER),COMESANA Miguel (ARG),PESTARINO Luis (ARG),Argentina,102,16,38,Argentina
+1978,10 Jun 1978 - 19:15,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,KLEIN Abraham (ISR),GONZALEZ ARCHUNDIA Alfonso (MEX),RION Francis (BEL),Argentina,102,16,38,Argentina
+1978,11 Jun 1978 - 13:45,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata,WURTZ Robert (FRA),BOUZO Farouk (SYR),GEBREYESUS DIFUE Tesfaye (ERI),Argentina,102,16,38,Argentina
+1978,11 Jun 1978 - 13:45,Group 3,Jose Amalfitani,Buenos Aires,BIWERSI Ferdinand (GER),ITHURRALDE Arturo Andres (ARG),PROKOP Adolf (GDR),Argentina,102,16,38,Argentina
+1978,11 Jun 1978 - 16:45,Group 4,Estadio Ol�mpico Chateau Carreras,Cordoba,JARGUZ Alojzy (POL),MAKSIMOVIC Dusan (SCG),WINSEMANN Werner (CAN),Argentina,102,16,38,Argentina
+1978,11 Jun 1978 - 16:45,Group 4,San Martin,Mendoza,LINEMAYR Erich (AUT),PALOTAI Karoly (HUN),SEOUDI Hedi (TUN),Argentina,102,16,38,Argentina
+1978,14 Jun 1978 - 13:45,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,MAKSIMOVIC Dusan (SCG),GONZALEZ ARCHUNDIA Alfonso (MEX),COMESANA Miguel (ARG),Argentina,102,16,38,Argentina
+1978,14 Jun 1978 - 13:45,Group A,Estadio Ol�mpico Chateau Carreras,Cordoba,GORDON John (SCO),ITHURRALDE Arturo Andres (ARG),BOUZO Farouk (SYR),Argentina,102,16,38,Argentina
+1978,14 Jun 1978 - 16:45,Group B,San Martin,Mendoza,RAINEA Nicolae (ROU),DUBACH Jean (SUI),WINSEMANN Werner (CAN),Argentina,102,16,38,Argentina
+1978,14 Jun 1978 - 19:15,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,ERIKSSON Ulf (SWE),NAMDAR Jafar (IRN),GEBREYESUS DIFUE Tesfaye (ERI),Argentina,102,16,38,Argentina
+1978,18 Jun 1978 - 13:45,Group B,San Martin,Mendoza,PARTRIDGE Pat (ENG),CLIVE Thomas (WAL),CORVER Charles (NED),Argentina,102,16,38,Argentina
+1978,18 Jun 1978 - 16:45,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,RION Francis (BEL),COEREZZA Norberto Angel (ARG),NDIAYE Youssou (SEN),Argentina,102,16,38,Argentina
+1978,18 Jun 1978 - 16:45,Group A,Estadio Ol�mpico Chateau Carreras,Cordoba,BARRETO RUIZ Ramon (URU),COMESANA Miguel (ARG),COELHO Arnaldo (BRA),Argentina,102,16,38,Argentina
+1978,18 Jun 1978 - 19:15,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,PALOTAI Karoly (HUN),LINEMAYR Erich (AUT),PROKOP Adolf (GDR),Argentina,102,16,38,Argentina
+1978,21 Jun 1978 - 13:45,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,MARTINEZ Angel (ESP),PESTARINO Luis (ARG),OROZCO GUERRERO Cesar (PER),Argentina,102,16,38,Argentina
+1978,21 Jun 1978 - 13:45,Group A,Estadio Ol�mpico Chateau Carreras,Cordoba,KLEIN Abraham (ISR),JARGUZ Alojzy (POL),GARRIDO Antonio (POR),Argentina,102,16,38,Argentina
+1978,21 Jun 1978 - 16:45,Group B,San Martin,Mendoza,SILVAGNO CAVANNA Juan (CHI),IVANOV Anatoly (URS),GONZALEZ ARCHUNDIA Alfonso (MEX),Argentina,102,16,38,Argentina
+1978,21 Jun 1978 - 19:15,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario,WURTZ Robert (FRA),BIWERSI Ferdinand (GER),GONELLA Sergio (ITA),Argentina,102,16,38,Argentina
+1978,24 Jun 1978 - 15:00,Match for third place,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,KLEIN Abraham (ISR),GONZALEZ ARCHUNDIA Alfonso (MEX),PALOTAI Karoly (HUN),Argentina,102,16,38,Argentina
+1978,25 Jun 1978 - 15:00,Final,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires,GONELLA Sergio (ITA),BARRETO RUIZ Ramon (URU),LINEMAYR Erich (AUT),Argentina,102,16,38,Argentina
+1982,13 Jun 1982 - 20:00,Group 3,Camp Nou,Barcelona,CHRISTOV Vojtech (TCH),PALOTAI Karoly (HUN),JARGUZ Alojzy (POL),Spain,146,24,52,Italy
+1982,14 Jun 1982 - 17:15,Group 1,Estadio Municipal de Bala�dos,Vigo,VAUTROT Michel (FRA),PROKOP Adolf (GDR),RAINEA Nicolae (ROU),Spain,146,24,52,Italy
+1982,14 Jun 1982 - 21:00,Group 6,Ramon Sanchez Pizjuan,Seville,LAMO CASTILLO Augusto (ESP),SANCHEZ ARMINIO Victoriano (ESP),GARCIA CARRION Jose L. (ESP),Spain,146,24,52,Italy
+1982,15 Jun 1982 - 17:15,Group 1,Riazor,La Coru�A,WOEHRER Franz (AUT),RAINEA Nicolae (ROU),PROKOP Adolf (GDR),Spain,146,24,52,Italy
+1982,15 Jun 1982 - 21:00,Group 3,Nuevo Estadio,Elche,AL DOY Ebrahim (BHR),CORVER Charles (NED),LUND-SORENSEN Henning (DEN),Spain,146,24,52,Italy
+1982,15 Jun 1982 - 21:00,Group 6,La Rosaleda,Malaga,SOCHA David (USA),CHAN Thomson Tam Sun (HKG),EL GHOUL Yusef Mohamed (LBY),Spain,146,24,52,Italy
+1982,16 Jun 1982 - 17:15,Group 2,El Molinon,Gijon,LABO REVOREDO Enrique (PER),ARISTIZABAL MURCIA Gilberto (COL),CASARIN Paolo (ITA),Spain,146,24,52,Italy
+1982,16 Jun 1982 - 17:15,Group 4,San Mames,Bilbao,GARRIDO Antonio (POR),CASTRO Gaston (CHI),COELHO Arnaldo (BRA),Spain,146,24,52,Italy
+1982,16 Jun 1982 - 21:00,Group 5,Luis Casanova,Valencia,ITHURRALDE Arturo Andres (ARG),DOTCHEV Bogdan (BUL),BARRANCOS Luis (BOL),Spain,146,24,52,Italy
+1982,17 Jun 1982 - 17:15,Group 2,Carlos Tartiere,Oviedo,CARDELLINO DE SAN VICENTE Juan (URU),CASARIN Paolo (ITA),ARISTIZABAL MURCIA Gilberto (COL),Spain,146,24,52,Italy
+1982,17 Jun 1982 - 17:45,Group 4,Jose Zorrilla,Valladolid,DWOMOH Benjamin (GHA),MENDEZ MOLINA Romulo (GUA),VALENTINE Robert (SCO),Spain,146,24,52,Italy
+1982,17 Jun 1982 - 21:00,Group 5,La Romareda,Zaragoza,FREDRIKSSON Erik (SWE),GALLER Bruno (SUI),PALOTAI Karoly (HUN),Spain,146,24,52,Italy
+1982,18 Jun 1982 - 17:15,Group 1,Estadio Municipal de Bala�dos,Vigo,ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),KLEIN Abraham (ISR),Spain,146,24,52,Italy
+1982,18 Jun 1982 - 21:00,Group 3,Jose Rico Perez,Alicante,LACARNE Belaid (ALG),VAUTROT Michel (FRA),RAINEA Nicolae (ROU),Spain,146,24,52,Italy
+1982,18 Jun 1982 - 21:00,Group 6,Benito Villamarin,Seville,SILES Jesus Paulino (CRC),CHAN Thomson Tam Sun (HKG),PROKOP Adolf (GDR),Spain,146,24,52,Italy
+1982,19 Jun 1982 - 19:15,Group 1,Riazor,La Coru�A,PONNET Alexis (BEL),ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),Spain,146,24,52,Italy
+1982,19 Jun 1982 - 21:00,Group 3,Nuevo Estadio,Elche,MOFFATT Malcolm (NIR),CASTRO Gaston (CHI),JARGUZ Alojzy (POL),Spain,146,24,52,Italy
+1982,19 Jun 1982 - 21:00,Group 6,La Rosaleda,Malaga,EL GHOUL Yusef Mohamed (LBY),SORIANO ALADREN Emilio (ESP),WHITE Clive (ENG),Spain,146,24,52,Italy
+1982,20 Jun 1982 - 17:15,Group 2,El Molinon,Gijon,GALLER Bruno (SUI),CHRISTOV Vojtech (TCH),BOSKOVIC Tony (AUS),Spain,146,24,52,Italy
+1982,20 Jun 1982 - 17:15,Group 4,San Mames,Bilbao,CORVER Charles (NED),DOTCHEV Bogdan (BUL),ARISTIZABAL MURCIA Gilberto (COL),Spain,146,24,52,Italy
+1982,20 Jun 1982 - 21:00,Group 5,Luis Casanova,Valencia,LUND-SORENSEN Henning (DEN),GARRIDO Antonio (POR),ITHURRALDE Arturo Andres (ARG),Spain,146,24,52,Italy
+1982,21 Jun 1982 - 17:15,Group 2,Carlos Tartiere,Oviedo,BOSKOVIC Tony (AUS),CHRISTOV Vojtech (TCH),AL DOY Ebrahim (BHR),Spain,146,24,52,Italy
+1982,21 Jun 1982 - 17:15,Group 4,Jose Zorrilla,Valladolid,STUPAR Miroslav (URS),FREDRIKSSON Erik (SWE),MATOVINOVIC Damir (CRO),Spain,146,24,52,Italy
+1982,21 Jun 1982 - 21:00,Group 5,La Romareda,Zaragoza,CHAN Thomson Tam Sun (HKG),LABO REVOREDO Enrique (PER),CASARIN Paolo (ITA),Spain,146,24,52,Italy
+1982,22 Jun 1982 - 17:15,Group 1,Riazor,La Coru�A,RUBIO VAZQUEZ Mario (MEX),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),Spain,146,24,52,Italy
+1982,22 Jun 1982 - 21:00,Group 3,Nuevo Estadio,Elche,WHITE Clive (ENG),ESCHWEILER Walter (GER),LACARNE Belaid (ALG),Spain,146,24,52,Italy
+1982,22 Jun 1982 - 21:00,Group 6,La Rosaleda,Malaga,RAINEA Nicolae (ROU),JARGUZ Alojzy (POL),PONNET Alexis (BEL),Spain,146,24,52,Italy
+1982,23 Jun 1982 - 17:15,Group 1,Estadio Municipal de Bala�dos,Vigo,DOTCHEV Bogdan (BUL),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),Spain,146,24,52,Italy
+1982,23 Jun 1982 - 21:00,Group 3,Jose Rico Perez,Alicante,BARRANCOS Luis (BOL),LAMO CASTILLO Augusto (ESP),LACARNE Belaid (ALG),Spain,146,24,52,Italy
+1982,23 Jun 1982 - 21:00,Group 6,Benito Villamarin,Seville,MATOVINOVIC Damir (CRO),KLEIN Abraham (ISR),CORVER Charles (NED),Spain,146,24,52,Italy
+1982,24 Jun 1982 - 17:15,Group 2,Carlos Tartiere,Oviedo,MENDEZ MOLINA Romulo (GUA),FREDRIKSSON Erik (SWE),COELHO Arnaldo (BRA),Spain,146,24,52,Italy
+1982,24 Jun 1982 - 17:15,Group 4,Jose Zorrilla,Valladolid,CASARIN Paolo (ITA),DWOMOH Benjamin (GHA),PALOTAI Karoly (HUN),Spain,146,24,52,Italy
+1982,24 Jun 1982 - 21:00,Group 5,La Romareda,Zaragoza,CASTRO Gaston (CHI),SILES Jesus Paulino (CRC),ITHURRALDE Arturo Andres (ARG),Spain,146,24,52,Italy
+1982,25 Jun 1982 - 17:15,Group 2,El Molinon,Gijon,VALENTINE Robert (SCO),AL DOY Ebrahim (BHR),COELHO Arnaldo (BRA),Spain,146,24,52,Italy
+1982,25 Jun 1982 - 17:15,Group 4,San Mames,Bilbao,ARISTIZABAL MURCIA Gilberto (COL),LUND-SORENSEN Henning (DEN),GARCIA CARRION Jose L. (ESP),Spain,146,24,52,Italy
+1982,25 Jun 1982 - 21:00,Group 5,Luis Casanova,Valencia,ORTIZ Hector (PAR),LABO REVOREDO Enrique (PER),PONNET Alexis (BEL),Spain,146,24,52,Italy
+1982,28 Jun 1982 - 17:15,Group 4,Vicente Calderon,Madrid,PALOTAI Karoly (HUN),CHRISTOV Vojtech (TCH),MATOVINOVIC Damir (CRO),Spain,146,24,52,Italy
+1982,28 Jun 1982 - 21:00,Group 1,Camp Nou,Barcelona,SILES Jesus Paulino (CRC),LABO REVOREDO Enrique (PER),CASTRO Gaston (CHI),Spain,146,24,52,Italy
+1982,29 Jun 1982 - 17:15,Group 3,Sarria,Barcelona,RAINEA Nicolae (ROU),GALLER Bruno (SUI),LACARNE Belaid (ALG),Spain,146,24,52,Italy
+1982,29 Jun 1982 - 21:00,Group 2,Santiago Bernabeu,Madrid,COELHO Arnaldo (BRA),ORTIZ Hector (PAR),MENDEZ MOLINA Romulo (GUA),Spain,146,24,52,Italy
+1982,01 Jul 1982 - 17:15,Group 4,Vicente Calderon,Madrid,PROKOP Adolf (GDR),FREDRIKSSON Erik (SWE),ESCHWEILER Walter (GER),Spain,146,24,52,Italy
+1982,01 Jul 1982 - 21:00,Group 1,Camp Nou,Barcelona,VAUTROT Michel (FRA),CORVER Charles (NED),GARRIDO Antonio (POR),Spain,146,24,52,Italy
+1982,02 Jul 1982 - 17:15,Group 3,Sarria,Barcelona,RUBIO VAZQUEZ Mario (MEX),ARISTIZABAL MURCIA Gilberto (COL),CASTRO Gaston (CHI),Spain,146,24,52,Italy
+1982,02 Jul 1982 - 21:00,Group 2,Santiago Bernabeu,Madrid,CASARIN Paolo (ITA),WOEHRER Franz (AUT),PALOTAI Karoly (HUN),Spain,146,24,52,Italy
+1982,04 Jul 1982 - 17:15,Group 4,Vicente Calderon,Madrid,JARGUZ Alojzy (POL),RAINEA Nicolae (ROU),EL GHOUL Yusef Mohamed (LBY),Spain,146,24,52,Italy
+1982,04 Jul 1982 - 21:00,Group 1,Camp Nou,Barcelona,VALENTINE Robert (SCO),LUND-SORENSEN Henning (DEN),WHITE Clive (ENG),Spain,146,24,52,Italy
+1982,05 Jul 1982 - 17:15,Group 3,Sarria,Barcelona,KLEIN Abraham (ISR),CHAN Thomson Tam Sun (HKG),DOTCHEV Bogdan (BUL),Spain,146,24,52,Italy
+1982,05 Jul 1982 - 21:00,Group 2,Santiago Bernabeu,Madrid,PONNET Alexis (BEL),VAUTROT Michel (FRA),LACARNE Belaid (ALG),Spain,146,24,52,Italy
+1982,08 Jul 1982 - 17:15,Semi-finals,Camp Nou,Barcelona,CARDELLINO DE SAN VICENTE Juan (URU),SOCHA David (USA),ARISTIZABAL MURCIA Gilberto (COL),Spain,146,24,52,Italy
+1982,08 Jul 1982 - 21:00,Semi-finals,Ramon Sanchez Pizjuan,Seville,CORVER Charles (NED),GALLER Bruno (SUI),VALENTINE Robert (SCO),Spain,146,24,52,Italy
+1982,10 Jul 1982 - 20:00,Match for third place,Jose Rico Perez,Alicante,GARRIDO Antonio (POR),RUBIO VAZQUEZ Mario (MEX),LACARNE Belaid (ALG),Spain,146,24,52,Italy
+1982,11 Jul 1982 - 20:00,Final,Santiago Bernabeu,Madrid,COELHO Arnaldo (BRA),KLEIN Abraham (ISR),CHRISTOV Vojtech (TCH),Spain,146,24,52,Italy
+1986,31 May 1986 - 12:00,Group A,Estadio Azteca,Mexico City,FREDRIKSSON Erik (SWE),CODESAL MENDEZ Edgardo (MEX),ROTH Volker (GER),Mexico,132,24,52,Argentina
+1986,01 Jun 1986 - 16:00,Group C,Nou Camp - Estadio Le�n,Leon,SILVA ARCE Hernan (CHI),MENDEZ MOLINA Romulo (GUA),ULLOA MORERA Berny (CRC),Mexico,132,24,52,Argentina
+1986,01 Jun 1986 - 12:00,Group D,Jalisco,Guadalajara,BAMBRIDGE Christopher (AUS),SOCHA David (USA),KEIZER Jan (NED),Mexico,132,24,52,Argentina
+1986,02 Jun 1986 - 12:00,Group C,Estadio Irapuato,Irapuato,AGNOLIN Luigi (ITA),COURTNEY George (ENG),BRUMMEIER Horst (AUT),Mexico,132,24,52,Argentina
+1986,02 Jun 1986 - 12:00,Group A,Estadio Ol�mpico Universitario,Mexico City,SANCHEZ ARMINIO Victoriano (ESP),GONZALEZ ROA Gabriel (PAR),DIAZ PALACIO Jesus (COL),Mexico,132,24,52,Argentina
+1986,02 Jun 1986 - 16:00,Group F,Estadio Universitario,Monterrey,MARTINEZ BAZAN Jose Luis (URU),QUINIOU Joel (FRA),TRAORE Idrissa (MLI),Mexico,132,24,52,Argentina
+1986,03 Jun 1986 - 12:00,Group D,Tres de Marzo,Guadalajara,BUTENKO Valeri (RUS),DAINA Andre (SUI),PETROVIC Zoran (SRB),Mexico,132,24,52,Argentina
+1986,03 Jun 1986 - 12:00,Group B,Estadio Azteca,Mexico City,ESPOSITO Carlos (ARG),SILVA VALENTE Carlos Alberto (POR),MENDEZ MOLINA Romulo (GUA),Mexico,132,24,52,Argentina
+1986,03 Jun 1986 - 16:00,Group F,Tecnologico,Monterrey,ROTH Volker (GER),DOTCHEV Bogdan (BUL),AL SHARIF Jamal (SYR),Mexico,132,24,52,Argentina
+1986,04 Jun 1986 - 12:00,Group B,Bombonera - Estadio Nemesio Diez,Toluca,PICON-ACKONG Edwin (MRI),ULLOA MORERA Berny (CRC),SOCHA David (USA),Mexico,132,24,52,Argentina
+1986,04 Jun 1986 - 16:00,Group E,Neza,Nezahualcoyotl,NEMETH Lajos (HUN),KIRSCHEN Siegfried (GER),AL SHANAR Fallaj Khuzam (KSA),Mexico,132,24,52,Argentina
+1986,04 Jun 1986 - 12:00,Group E,Estadio Corregidora,Queretaro,CHRISTOV Vojtech (TCH),SILVA ARCE Hernan (CHI),SILVA VALENTE Carlos Alberto (POR),Mexico,132,24,52,Argentina
+1986,05 Jun 1986 - 12:00,Group A,Cuauhtemoc,Puebla,KEIZER Jan (NED),MARQUEZ RAMIREZ Antonio (MEX),SNODDY Alan (NIR),Mexico,132,24,52,Argentina
+1986,05 Jun 1986 - 12:00,Group C,Nou Camp - Estadio Le�n,Leon,ARPPI FILHO Romualdo (BRA),SANCHEZ ARMINIO Victoriano (ESP),TAKADA Shizuo (JPN),Mexico,132,24,52,Argentina
+1986,05 Jun 1986 - 16:00,Group A,Estadio Ol�mpico Universitario,Mexico City,AL SHANAR Fallaj Khuzam (KSA),IGNA Ioan (ROU),BUTENKO Valeri (RUS),Mexico,132,24,52,Argentina
+1986,06 Jun 1986 - 12:00,Group C,Estadio Irapuato,Irapuato,AL SHARIF Jamal (SYR),PETROVIC Zoran (SRB),BAMBRIDGE Christopher (AUS),Mexico,132,24,52,Argentina
+1986,06 Jun 1986 - 12:00,Group D,Jalisco,Guadalajara,MENDEZ MOLINA Romulo (GUA),MARTINEZ BAZAN Jose Luis (URU),QUINIOU Joel (FRA),Mexico,132,24,52,Argentina
+1986,06 Jun 1986 - 16:00,Group F,Tecnologico,Monterrey,GONZALEZ ROA Gabriel (PAR),ESPOSITO Carlos (ARG),KIRSCHEN Siegfried (GER),Mexico,132,24,52,Argentina
+1986,07 Jun 1986 - 12:00,Group D,Tres de Marzo,Guadalajara,BRUMMEIER Horst (AUT),AGNOLIN Luigi (ITA),NEMETH Lajos (HUN),Mexico,132,24,52,Argentina
+1986,07 Jun 1986 - 12:00,Group B,Estadio Azteca,Mexico City,COURTNEY George (ENG),FREDRIKSSON Erik (SWE),IGNA Ioan (ROU),Mexico,132,24,52,Argentina
+1986,07 Jun 1986 - 16:00,Group F,Estadio Universitario,Monterrey,BENNACEUR Ali (TUN),PICON-ACKONG Edwin (MRI),TAKADA Shizuo (JPN),Mexico,132,24,52,Argentina
+1986,08 Jun 1986 - 12:00,Group B,Bombonera - Estadio Nemesio Diez,Toluca,DIAZ PALACIO Jesus (COL),CHRISTOV Vojtech (TCH),SANCHEZ ARMINIO Victoriano (ESP),Mexico,132,24,52,Argentina
+1986,08 Jun 1986 - 16:00,Group E,Neza,Nezahualcoyotl,MARQUEZ RAMIREZ Antonio (MEX),KEIZER Jan (NED),ARPPI FILHO Romualdo (BRA),Mexico,132,24,52,Argentina
+1986,08 Jun 1986 - 12:00,Group E,Estadio Corregidora,Queretaro,IGNA Ioan (ROU),DOTCHEV Bogdan (BUL),SNODDY Alan (NIR),Mexico,132,24,52,Argentina
+1986,09 Jun 1986 - 12:00,Group C,Nou Camp - Estadio Le�n,Leon,SILVA VALENTE Carlos Alberto (POR),PONNET Alexis (BEL),DAINA Andre (SUI),Mexico,132,24,52,Argentina
+1986,09 Jun 1986 - 12:00,Group C,Estadio Irapuato,Irapuato,TRAORE Idrissa (MLI),AL SHANAR Fallaj Khuzam (KSA),GONZALEZ ROA Gabriel (PAR),Mexico,132,24,52,Argentina
+1986,10 Jun 1986 - 12:00,Group A,Cuauhtemoc,Puebla,SOCHA David (USA),URREA Joaquin (MEX),AL SHARIF Jamal (SYR),Mexico,132,24,52,Argentina
+1986,10 Jun 1986 - 12:00,Group A,Estadio Ol�mpico Universitario,Mexico City,ULLOA MORERA Berny (CRC),ARPPI FILHO Romualdo (BRA),MARTINEZ BAZAN Jose Luis (URU),Mexico,132,24,52,Argentina
+1986,11 Jun 1986 - 12:00,Group B,Bombonera - Estadio Nemesio Diez,Toluca,DOTCHEV Bogdan (BUL),BENNACEUR Ali (TUN),SILVA ARCE Hernan (CHI),Mexico,132,24,52,Argentina
+1986,11 Jun 1986 - 12:00,Group B,Estadio Azteca,Mexico City,PETROVIC Zoran (SRB),NEMETH Lajos (HUN),AGNOLIN Luigi (ITA),Mexico,132,24,52,Argentina
+1986,11 Jun 1986 - 16:00,Group F,Tres de Marzo,Guadalajara,SNODDY Alan (NIR),BUTENKO Valeri (RUS),ROTH Volker (GER),Mexico,132,24,52,Argentina
+1986,11 Jun 1986 - 16:00,Group F,Tecnologico,Monterrey,DAINA Andre (SUI),BRUMMEIER Horst (AUT),CHRISTOV Vojtech (TCH),Mexico,132,24,52,Argentina
+1986,12 Jun 1986 - 12:00,Group D,Jalisco,Guadalajara,KIRSCHEN Siegfried (GER),TRAORE Idrissa (MLI),COURTNEY George (ENG),Mexico,132,24,52,Argentina
+1986,12 Jun 1986 - 12:00,Group D,Tecnologico,Monterrey,TAKADA Shizuo (JPN),PICON-ACKONG Edwin (MRI),ESPOSITO Carlos (ARG),Mexico,132,24,52,Argentina
+1986,13 Jun 1986 - 12:00,Group E,Neza,Nezahualcoyotl,QUINIOU Joel (FRA),DIAZ PALACIO Jesus (COL),BENNACEUR Ali (TUN),Mexico,132,24,52,Argentina
+1986,13 Jun 1986 - 12:00,Group E,Estadio Corregidora,Queretaro,PONNET Alexis (BEL),BAMBRIDGE Christopher (AUS),FREDRIKSSON Erik (SWE),Mexico,132,24,52,Argentina
+1986,15 Jun 1986 - 16:00,Round of 16,Nou Camp - Estadio Le�n,Leon,FREDRIKSSON Erik (SWE),SANCHEZ ARMINIO Victoriano (ESP),SOCHA David (USA),Mexico,132,24,52,Argentina
+1986,15 Jun 1986 - 12:00,Round of 16,Estadio Azteca,Mexico City,ARPPI FILHO Romualdo (BRA),MENDEZ MOLINA Romulo (GUA),IGNA Ioan (ROU),Mexico,132,24,52,Argentina
+1986,16 Jun 1986 - 16:00,Round of 16,Cuauhtemoc,Puebla,AGNOLIN Luigi (ITA),COURTNEY George (ENG),SILVA VALENTE Carlos Alberto (POR),Mexico,132,24,52,Argentina
+1986,16 Jun 1986 - 12:00,Round of 16,Jalisco,Guadalajara,ROTH Volker (GER),MARQUEZ RAMIREZ Antonio (MEX),SNODDY Alan (NIR),Mexico,132,24,52,Argentina
+1986,17 Jun 1986 - 12:00,Round of 16,Estadio Ol�mpico Universitario,Mexico City,ESPOSITO Carlos (ARG),MARTINEZ BAZAN Jose Luis (URU),DIAZ PALACIO Jesus (COL),Mexico,132,24,52,Argentina
+1986,17 Jun 1986 - 16:00,Round of 16,Estadio Universitario,Monterrey,PETROVIC Zoran (SRB),NEMETH Lajos (HUN),BRUMMEIER Horst (AUT),Mexico,132,24,52,Argentina
+1986,18 Jun 1986 - 12:00,Round of 16,Estadio Azteca,Mexico City,AL SHARIF Jamal (SYR),PONNET Alexis (BEL),AL SHANAR Fallaj Khuzam (KSA),Mexico,132,24,52,Argentina
+1986,18 Jun 1986 - 16:00,Round of 16,Estadio Corregidora,Queretaro,KEIZER Jan (NED),BENNACEUR Ali (TUN),DOTCHEV Bogdan (BUL),Mexico,132,24,52,Argentina
+1986,21 Jun 1986 - 12:00,Quarter-finals,Jalisco,Guadalajara,IGNA Ioan (ROU),NEMETH Lajos (HUN),CHRISTOV Vojtech (TCH),Mexico,132,24,52,Argentina
+1986,21 Jun 1986 - 16:00,Quarter-finals,Estadio Universitario,Monterrey,DIAZ PALACIO Jesus (COL),BAMBRIDGE Christopher (AUS),SNODDY Alan (NIR),Mexico,132,24,52,Argentina
+1986,22 Jun 1986 - 16:00,Quarter-finals,Cuauhtemoc,Puebla,KIRSCHEN Siegfried (GER),CODESAL MENDEZ Edgardo (MEX),BRUMMEIER Horst (AUT),Mexico,132,24,52,Argentina
+1986,22 Jun 1986 - 12:00,Quarter-finals,Estadio Azteca,Mexico City,BENNACEUR Ali (TUN),ULLOA MORERA Berny (CRC),DOTCHEV Bogdan (BUL),Mexico,132,24,52,Argentina
+1986,25 Jun 1986 - 12:00,Semi-finals,Jalisco,Guadalajara,AGNOLIN Luigi (ITA),PETROVIC Zoran (SRB),NEMETH Lajos (HUN),Mexico,132,24,52,Argentina
+1986,25 Jun 1986 - 16:00,Semi-finals,Estadio Azteca,Mexico City,MARQUEZ RAMIREZ Antonio (MEX),MENDEZ MOLINA Romulo (GUA),SILVA VALENTE Carlos Alberto (POR),Mexico,132,24,52,Argentina
+1986,28 Jun 1986 - 12:00,Match for third place,Cuauhtemoc,Puebla,COURTNEY George (ENG),SILVA ARCE Hernan (CHI),AL SHARIF Jamal (SYR),Mexico,132,24,52,Argentina
+1986,29 Jun 1986 - 12:00,Final,Estadio Azteca,Mexico City,ARPPI FILHO Romualdo (BRA),FREDRIKSSON Erik (SWE),ULLOA MORERA Berny (CRC),Mexico,132,24,52,Argentina
+1990,08 Jun 1990 - 18:00,Group B,Giuseppe Meazza,Milan,VAUTROT Michel (FRA),MAURO Vincent (USA),LISTKIEWICZ Michal (POL),Italy,115,24,52,Germany
+1990,09 Jun 1990 - 17:00,Group B,Stadio San Nicola,Bari,CARDELLINO DE SAN VICENTE Juan (URU),SORIANO ALADREN Emilio (ESP),SILVA ARCE Hernan (CHI),Italy,115,24,52,Germany
+1990,09 Jun 1990 - 17:00,Group D,Renato Dall Ara,Bologna,COURTNEY George (ENG),TAKADA Shizuo (JPN),SNODDY Alan (NIR),Italy,115,24,52,Germany
+1990,09 Jun 1990 - 21:00,Group A,Stadio Olimpico,Rome,RAMIZ WRIGHT Jose (BRA),PEREZ HOYOS Armando (COL),SILVA VALENTE Carlos Alberto (POR),Italy,115,24,52,Germany
+1990,10 Jun 1990 - 17:00,Group A,Comunale,Florence,ROETHLISBERGER Kurt (SUI),VAN LANGENHOVE Marcel (BEL),SCHMIDHUBER Aron (GER),Italy,115,24,52,Germany
+1990,10 Jun 1990 - 21:00,Group C,Stadio delle Alpi,Turin,LANESE Tullio (ITA),VAUTROT Michel (FRA),JOUINI Neji (TUN),Italy,115,24,52,Germany
+1990,10 Jun 1990 - 21:00,Group D,Giuseppe Meazza,Milan,MIKKELSEN Peter (DEN),MANDI Jassim (BHR),LISTKIEWICZ Michal (POL),Italy,115,24,52,Germany
+1990,11 Jun 1990 - 17:00,Group C,Luigi Ferraris,Genoa,LOUSTAU Juan (ARG),MACIEL Carlos (PAR),JACOME GUERRERO Elias V. (ECU),Italy,115,24,52,Germany
+1990,11 Jun 1990 - 21:00,Group F,Sant Elia,Cagliari,SCHMIDHUBER Aron (GER),FREDRIKSSON Erik (SWE),ROETHLISBERGER Kurt (SUI),Italy,115,24,52,Germany
+1990,12 Jun 1990 - 17:00,Group E,Marc Antonio Bentegodi,Verona,MAURO Vincent (USA),SNODDY Alan (NIR),COURTNEY George (ENG),Italy,115,24,52,Germany
+1990,12 Jun 1990 - 21:00,Group F,Della Favorita,Palermo,SORIANO ALADREN Emilio (ESP),CODESAL MENDEZ Edgardo (MEX),CARDELLINO DE SAN VICENTE Juan (URU),Italy,115,24,52,Germany
+1990,13 Jun 1990 - 17:00,Group E,Dacia Arena,Udine,KOHL Helmut (AUT),SPIRIN Alexey (RUS),KIRSCHEN Siegfried (GER),Italy,115,24,52,Germany
+1990,13 Jun 1990 - 21:00,Group B,San Paolo,Naples,FREDRIKSSON Erik (SWE),RAMIZ WRIGHT Jose (BRA),AL SHARIF Jamal (SYR),Italy,115,24,52,Germany
+1990,14 Jun 1990 - 17:00,Group B,Stadio San Nicola,Bari,SILVA ARCE Hernan (CHI),SILVA VALENTE Carlos Alberto (POR),PEREZ HOYOS Armando (COL),Italy,115,24,52,Germany
+1990,14 Jun 1990 - 17:00,Group D,Renato Dall Ara,Bologna,AGNOLIN Luigi (ITA),JOUINI Neji (TUN),DIRAMBA Jean Fidele (GAB),Italy,115,24,52,Germany
+1990,14 Jun 1990 - 21:00,Group A,Stadio Olimpico,Rome,CODESAL MENDEZ Edgardo (MEX),CARDELLINO DE SAN VICENTE Juan (URU),ULLOA MORERA Berny (CRC),Italy,115,24,52,Germany
+1990,15 Jun 1990 - 17:00,Group A,Comunale,Florence,SMITH George (SCO),LORENC Richard (AUS),AL SHARIF Jamal (SYR),Italy,115,24,52,Germany
+1990,15 Jun 1990 - 21:00,Group D,Giuseppe Meazza,Milan,SPIRIN Alexey (RUS),TAKADA Shizuo (JPN),PAIRETTO Pierluigi (ITA),Italy,115,24,52,Germany
+1990,16 Jun 1990 - 17:00,Group C,Stadio delle Alpi,Turin,JOUINI Neji (TUN),DIRAMBA Jean Fidele (GAB),MANDI Jassim (BHR),Italy,115,24,52,Germany
+1990,16 Jun 1990 - 21:00,Group C,Luigi Ferraris,Genoa,MACIEL Carlos (PAR),MAURO Vincent (USA),LISTKIEWICZ Michal (POL),Italy,115,24,52,Germany
+1990,16 Jun 1990 - 21:00,Group F,Sant Elia,Cagliari,PETROVIC Zoran (SRB),HANSAL Mohamed (ALG),CODESAL MENDEZ Edgardo (MEX),Italy,115,24,52,Germany
+1990,17 Jun 1990 - 17:00,Group F,Della Favorita,Palermo,VAN LANGENHOVE Marcel (BEL),QUINIOU Joel (FRA),LO BELLO Rosario (ITA),Italy,115,24,52,Germany
+1990,17 Jun 1990 - 21:00,Group E,Dacia Arena,Udine,JACOME GUERRERO Elias V. (ECU),MAGNI Pierluigi (ITA),LOUSTAU Juan (ARG),Italy,115,24,52,Germany
+1990,17 Jun 1990 - 21:00,Group E,Marc Antonio Bentegodi,Verona,KIRSCHEN Siegfried (GER),MIKKELSEN Peter (DEN),SPIRIN Alexey (RUS),Italy,115,24,52,Germany
+1990,18 Jun 1990 - 21:00,Group B,San Paolo,Naples,SILVA VALENTE Carlos Alberto (POR),ULLOA MORERA Berny (CRC),LONGHI Carlo (ITA),Italy,115,24,52,Germany
+1990,18 Jun 1990 - 21:00,Group B,Stadio San Nicola,Bari,RAMIZ WRIGHT Jose (BRA),D ELIA Pietro (ITA),ROETHLISBERGER Kurt (SUI),Italy,115,24,52,Germany
+1990,19 Jun 1990 - 17:00,Group D,Giuseppe Meazza,Milan,SNODDY Alan (NIR),MANDI Jassim (BHR),LANESE Tullio (ITA),Italy,115,24,52,Germany
+1990,19 Jun 1990 - 17:00,Group D,Renato Dall Ara,Bologna,TAKADA Shizuo (JPN),MIKKELSEN Peter (DEN),VAUTROT Michel (FRA),Italy,115,24,52,Germany
+1990,19 Jun 1990 - 21:00,Group A,Stadio Olimpico,Rome,QUINIOU Joel (FRA),VAN LANGENHOVE Marcel (BEL),SMITH George (SCO),Italy,115,24,52,Germany
+1990,19 Jun 1990 - 21:00,Group A,Comunale,Florence,AL SHARIF Jamal (SYR),LORENC Richard (AUS),PETROVIC Zoran (SRB),Italy,115,24,52,Germany
+1990,20 Jun 1990 - 21:00,Group C,Stadio delle Alpi,Turin,KOHL Helmut (AUT),LISTKIEWICZ Michal (POL),KIRSCHEN Siegfried (GER),Italy,115,24,52,Germany
+1990,20 Jun 1990 - 21:00,Group C,Luigi Ferraris,Genoa,PETROVIC Zoran (SRB),SNODDY Alan (NIR),COURTNEY George (ENG),Italy,115,24,52,Germany
+1990,21 Jun 1990 - 17:00,Group E,Friuli,Udine,LANESE Tullio (ITA),DIRAMBA Jean Fidele (GAB),JOUINI Neji (TUN),Italy,115,24,52,Germany
+1990,21 Jun 1990 - 17:00,Group E,Marc Antonio Bentegodi,Verona,LOUSTAU Juan (ARG),MACIEL Carlos (PAR),MAURO Vincent (USA),Italy,115,24,52,Germany
+1990,21 Jun 1990 - 21:00,Group F,Della Favorita,Palermo,VAUTROT Michel (FRA),LORENC Richard (AUS),HANSAL Mohamed (ALG),Italy,115,24,52,Germany
+1990,21 Jun 1990 - 21:00,Group F,Sant Elia,Cagliari,ROETHLISBERGER Kurt (SUI),ULLOA MORERA Berny (CRC),CODESAL MENDEZ Edgardo (MEX),Italy,115,24,52,Germany
+1990,23 Jun 1990 - 17:00,Round of 16,San Paolo,Naples,LANESE Tullio (ITA),AL SHARIF Jamal (SYR),ULLOA MORERA Berny (CRC),Italy,115,24,52,Germany
+1990,23 Jun 1990 - 21:00,Round of 16,Stadio San Nicola,Bari,KIRSCHEN Siegfried (GER),PEREZ HOYOS Armando (COL),D ELIA Pietro (ITA),Italy,115,24,52,Germany
+1990,24 Jun 1990 - 17:00,Round of 16,Stadio delle Alpi,Turin,QUINIOU Joel (FRA),SPIRIN Alexey (RUS),PAIRETTO Pierluigi (ITA),Italy,115,24,52,Germany
+1990,24 Jun 1990 - 21:00,Round of 16,Giuseppe Meazza,Milan,LOUSTAU Juan (ARG),JACOME GUERRERO Elias V. (ECU),MAURO Vincent (USA),Italy,115,24,52,Germany
+1990,25 Jun 1990 - 17:00,Round of 16,Luigi Ferraris,Genoa,RAMIZ WRIGHT Jose (BRA),MACIEL Carlos (PAR),MANDI Jassim (BHR),Italy,115,24,52,Germany
+1990,25 Jun 1990 - 21:00,Round of 16,Stadio Olimpico,Rome,COURTNEY George (ENG),ROETHLISBERGER Kurt (SUI),PETROVIC Zoran (SRB),Italy,115,24,52,Germany
+1990,26 Jun 1990 - 17:00,Round of 16,Marc Antonio Bentegodi,Verona,SCHMIDHUBER Aron (GER),SNODDY Alan (NIR),LISTKIEWICZ Michal (POL),Italy,115,24,52,Germany
+1990,26 Jun 1990 - 21:00,Round of 16,Renato Dall Ara,Bologna,MIKKELSEN Peter (DEN),KOHL Helmut (AUT),TAKADA Shizuo (JPN),Italy,115,24,52,Germany
+1990,30 Jun 1990 - 17:00,Quarter-finals,Comunale,Florence,ROETHLISBERGER Kurt (SUI),JOUINI Neji (TUN),HANSAL Mohamed (ALG),Italy,115,24,52,Germany
+1990,30 Jun 1990 - 21:00,Quarter-finals,Stadio Olimpico,Rome,SILVA VALENTE Carlos Alberto (POR),PEREZ HOYOS Armando (COL),ULLOA MORERA Berny (CRC),Italy,115,24,52,Germany
+1990,01 Jul 1990 - 17:00,Quarter-finals,Giuseppe Meazza,Milan,KOHL Helmut (AUT),MIKKELSEN Peter (DEN),LISTKIEWICZ Michal (POL),Italy,115,24,52,Germany
+1990,01 Jul 1990 - 21:00,Quarter-finals,San Paolo,Naples,CODESAL MENDEZ Edgardo (MEX),MAURO Vincent (USA),MANDI Jassim (BHR),Italy,115,24,52,Germany
+1990,03 Jul 1990 - 20:00,Semi-finals,San Paolo,Naples,VAUTROT Michel (FRA),LISTKIEWICZ Michal (POL),MIKKELSEN Peter (DEN),Italy,115,24,52,Germany
+1990,04 Jul 1990 - 20:00,Semi-finals,Stadio delle Alpi,Turin,RAMIZ WRIGHT Jose (BRA),QUINIOU Joel (FRA),PEREZ HOYOS Armando (COL),Italy,115,24,52,Germany
+1990,07 Jul 1990 - 20:00,Match for third place,Stadio San Nicola,Bari,QUINIOU Joel (FRA),HANSAL Mohamed (ALG),ROETHLISBERGER Kurt (SUI),Italy,115,24,52,Germany
+1990,08 Jul 1990 - 20:00,Final,Stadio Olimpico,Rome,CODESAL MENDEZ Edgardo (MEX),PEREZ HOYOS Armando (COL),LISTKIEWICZ Michal (POL),Italy,115,24,52,Germany
+1994,17 Jun 1994 - 19:30,Group C,Cotton Bowl,Dallas,MIKKELSEN Peter (DEN),CHRISTENSEN Carl-Johan Meyer (DEN),PEARSON Roy (ENG),USA,141,24,52,Brazil
+1994,17 Jun 1994 - 15:00,Group C,Soldier Field,Chicago,BRIZIO CARTER Arturo (MEX),BRAZZALE Eugene (AUS),DUNSTER Gordon (AUS),USA,141,24,52,Brazil
+1994,18 Jun 1994 - 11:30,Group A,Pontiac Silverdome,Detroit,LAMOLINA Francisco Oscar (ARG),TAIBI Ernesto (ARG),ZARATE Venancio (PAR),USA,141,24,52,Brazil
+1994,18 Jun 1994 - 16:00,Group E,Giants Stadium,New York/New Jersey,VAN DER ENDE Mario (NED),DOLSTRA Jan (NED),PARK Hae-Yong (KOR),USA,141,24,52,Brazil
+1994,18 Jun 1994 - 19:30,Group A,Rose Bowl,Los Angeles,AL SHARIF Jamal (SYR),AL GHATTAN Yousif Abdulla (BAH),JAMES Douglas Micael (TRI),USA,141,24,52,Brazil
+1994,19 Jun 1994 - 12:30,Group F,Citrus Bowl,Orlando,TORRES CADENA Jose Joaquin (COL),CALIX GARCIA Raimundo (HON),YLI-KARRO Tapio (FIN),USA,141,24,52,Brazil
+1994,19 Jun 1994 - 16:00,Group E,RFK Stadium,Washington Dc,PUHL Sandor (HUN),MARTON Sandor (HUN),IVANOV Valentin (RUS),USA,141,24,52,Brazil
+1994,19 Jun 1994 - 19:30,Group B,Rose Bowl,Los Angeles,TEJADA NORIEGA Alberto (PER),JAMES Douglas Micael (TRI),AL GHATTAN Yousif Abdulla (BAH),USA,141,24,52,Brazil
+1994,20 Jun 1994 - 19:30,Group F,RFK Stadium,Washington Dc,DIAZ VEGA Manuel (ESP),IVANOV Valentin (RUS),MARTON Sandor (HUN),USA,141,24,52,Brazil
+1994,20 Jun 1994 - 16:00,Group B,Stanford Stadium,San Francisco,LIM KEE CHONG An Yan (MRI),RHARIB El Jilali Mohamed (MAR),RAMICONE Domenico (ITA),USA,141,24,52,Brazil
+1994,21 Jun 1994 - 12:30,Group D,Foxboro Stadium,Boston,ANGELES Arturo (USA),PARK Hae-Yong (KOR),DOLSTRA Jan (NED),USA,141,24,52,Brazil
+1994,21 Jun 1994 - 19:30,Group D,Cotton Bowl,Dallas,BADILLA Rodrigo (CRC),DUNSTER Gordon (AUS),BRAZZALE Eugene (AUS),USA,141,24,52,Brazil
+1994,21 Jun 1994 - 16:00,Group C,Soldier Field,Chicago,FILIPPI Ernesto (URU),ZARATE Venancio (PAR),TAIBI Ernesto (ARG),USA,141,24,52,Brazil
+1994,22 Jun 1994 - 16:00,Group A,Pontiac Silverdome,Detroit,JOUINI Neji (TUN),HASSAN Abdel-Magid (EGY),FANAEI Mohammad (IRN),USA,141,24,52,Brazil
+1994,22 Jun 1994 - 19:30,Group A,Rose Bowl,Los Angeles,BALDAS Fabio (ITA),RAMICONE Domenico (ITA),RHARIB El Jilali Mohamed (MAR),USA,141,24,52,Brazil
+1994,23 Jun 1994 - 16:00,Group E,Giants Stadium,New York/New Jersey,KRUG Hellmut (GER),YLI-KARRO Tapio (FIN),PEARSON Roy (ENG),USA,141,24,52,Brazil
+1994,23 Jun 1994 - 19:30,Group C,Foxboro Stadium,Boston,MOTTRAM Leslie (SCO),MATTHYS Luc (BEL),EVERSTIG Mikael (SWE),USA,141,24,52,Brazil
+1994,24 Jun 1994 - 12:30,Group E,Citrus Bowl,Orlando,ROETHLISBERGER Kurt (SUI),LISTKIEWICZ Michal (POL),ALVES Paulo Jorge (BRA),USA,141,24,52,Brazil
+1994,24 Jun 1994 - 19:30,Group B,Pontiac Silverdome,Detroit,QUINIOU Joel (FRA),FANAEI Mohammad (IRN),HASSAN Abdel-Magid (EGY),USA,141,24,52,Brazil
+1994,24 Jun 1994 - 16:00,Group B,Stanford Stadium,San Francisco,BRIZIO CARTER Arturo (MEX),JAMES Douglas Micael (TRI),CHRISTENSEN Carl-Johan Meyer (DEN),USA,141,24,52,Brazil
+1994,25 Jun 1994 - 12:30,Group F,Citrus Bowl,Orlando,MARSIGLIA Renato (BRA),ALVES Paulo Jorge (BRA),LISTKIEWICZ Michal (POL),USA,141,24,52,Brazil
+1994,25 Jun 1994 - 12:30,Group F,Giants Stadium,New York/New Jersey,DON Philip (ENG),PEARSON Roy (ENG),YLI-KARRO Tapio (FIN),USA,141,24,52,Brazil
+1994,25 Jun 1994 - 16:00,Group D,Foxboro Stadium,Boston,KARLSSON Bo (SWE),EVERSTIG Mikael (SWE),MATTHYS Luc (BEL),USA,141,24,52,Brazil
+1994,26 Jun 1994 - 12:30,Group D,Soldier Field,Chicago,BUJSAIM Ali (UAE),AL GHATTAN Yousif Abdulla (BAH),CALIX GARCIA Raimundo (HON),USA,141,24,52,Brazil
+1994,26 Jun 1994 - 16:00,Group A,Rose Bowl,Los Angeles,VAN DER ENDE Mario (NED),DOLSTRA Jan (NED),DUNSTER Gordon (AUS),USA,141,24,52,Brazil
+1994,26 Jun 1994 - 16:00,Group A,Stanford Stadium,San Francisco,MIKKELSEN Peter (DEN),CHRISTENSEN Carl-Johan Meyer (DEN),JAMES Douglas Micael (TRI),USA,141,24,52,Brazil
+1994,27 Jun 1994 - 16:00,Group C,Cotton Bowl,Dallas,QUINIOU Joel (FRA),IVANOV Valentin (RUS),HASSAN Abdel-Magid (EGY),USA,141,24,52,Brazil
+1994,27 Jun 1994 - 16:00,Group C,Soldier Field,Chicago,BADILLA Rodrigo (CRC),CALIX GARCIA Raimundo (HON),AL GHATTAN Yousif Abdulla (BAH),USA,141,24,52,Brazil
+1994,28 Jun 1994 - 12:30,Group E,Giants Stadium,New York/New Jersey,TORRES CADENA Jose Joaquin (COL),ALVES Paulo Jorge (BRA),PARK Hae-Yong (KOR),USA,141,24,52,Brazil
+1994,28 Jun 1994 - 16:00,Group B,Pontiac Silverdome,Detroit,PUHL Sandor (HUN),MARTON Sandor (HUN),MATTHYS Luc (BEL),USA,141,24,52,Brazil
+1994,28 Jun 1994 - 12:30,Group E,RFK Stadium,Washington Dc,LAMOLINA Francisco Oscar (ARG),TAIBI Ernesto (ARG),BRAZZALE Eugene (AUS),USA,141,24,52,Brazil
+1994,28 Jun 1994 - 16:00,Group B,Stanford Stadium,San Francisco,AL SHARIF Jamal (SYR),DUNSTER Gordon (AUS),DOLSTRA Jan (NED),USA,141,24,52,Brazil
+1994,29 Jun 1994 - 12:30,Group F,Citrus Bowl,Orlando,TEJADA NORIEGA Alberto (PER),ZARATE Venancio (PAR),EVERSTIG Mikael (SWE),USA,141,24,52,Brazil
+1994,29 Jun 1994 - 12:30,Group F,RFK Stadium,Washington Dc,KRUG Hellmut (GER),BRAZZALE Eugene (AUS),TAIBI Ernesto (ARG),USA,141,24,52,Brazil
+1994,30 Jun 1994 - 19:30,Group D,Foxboro Stadium,Boston,MOTTRAM Leslie (SCO),PARK Hae-Yong (KOR),ALVES Paulo Jorge (BRA),USA,141,24,52,Brazil
+1994,30 Jun 1994 - 19:30,Group D,Cotton Bowl,Dallas,JOUINI Neji (TUN),YLI-KARRO Tapio (FIN),RHARIB El Jilali Mohamed (MAR),USA,141,24,52,Brazil
+1994,02 Jul 1994 - 12:00,Round of 16,Soldier Field,Chicago,ROETHLISBERGER Kurt (SUI),LISTKIEWICZ Michal (POL),CHRISTENSEN Carl-Johan Meyer (DEN),USA,141,24,52,Brazil
+1994,02 Jul 1994 - 16:30,Round of 16,RFK Stadium,Washington Dc,VAN DER ENDE Mario (NED),DOLSTRA Jan (NED),MARTON Sandor (HUN),USA,141,24,52,Brazil
+1994,03 Jul 1994 - 12:00,Round of 16,Cotton Bowl,Dallas,MARSIGLIA Renato (BRA),ALVES Paulo Jorge (BRA),CALIX GARCIA Raimundo (HON),USA,141,24,52,Brazil
+1994,03 Jul 1994 - 13:30,Round of 16,Rose Bowl,Los Angeles,PAIRETTO Pierluigi (ITA),RAMICONE Domenico (ITA),MATTHYS Luc (BEL),USA,141,24,52,Brazil
+1994,04 Jul 1994 - 12:00,Round of 16,Citrus Bowl,Orlando,MIKKELSEN Peter (DEN),DUNSTER Gordon (AUS),BRAZZALE Eugene (AUS),USA,141,24,52,Brazil
+1994,04 Jul 1994 - 12:30,Round of 16,Stanford Stadium,San Francisco,QUINIOU Joel (FRA),PARK Hae-Yong (KOR),EVERSTIG Mikael (SWE),USA,141,24,52,Brazil
+1994,05 Jul 1994 - 13:00,Round of 16,Foxboro Stadium,Boston,BRIZIO CARTER Arturo (MEX),TAIBI Ernesto (ARG),ZARATE Venancio (PAR),USA,141,24,52,Brazil
+1994,05 Jul 1994 - 16:30,Round of 16,Giants Stadium,New York/New Jersey,AL SHARIF Jamal (SYR),FANAEI Mohammad (IRN),AL GHATTAN Yousif Abdulla (BAH),USA,141,24,52,Brazil
+1994,09 Jul 1994 - 12:00,Quarter-finals,Foxboro Stadium,Boston,PUHL Sandor (HUN),DUNSTER Gordon (AUS),MATTHYS Luc (BEL),USA,141,24,52,Brazil
+1994,09 Jul 1994 - 14:30,Quarter-finals,Cotton Bowl,Dallas,BADILLA Rodrigo (CRC),AL GHATTAN Yousif Abdulla (BAH),FANAEI Mohammad (IRN),USA,141,24,52,Brazil
+1994,10 Jul 1994 - 12:00,Quarter-finals,Giants Stadium,New York/New Jersey,TORRES CADENA Jose Joaquin (COL),ZARATE Venancio (PAR),MARTON Sandor (HUN),USA,141,24,52,Brazil
+1994,10 Jul 1994 - 12:30,Quarter-finals,Stanford Stadium,San Francisco,DON Philip (ENG),PEARSON Roy (ENG),PARK Hae-Yong (KOR),USA,141,24,52,Brazil
+1994,13 Jul 1994 - 16:00,Semi-finals,Giants Stadium,New York/New Jersey,QUINIOU Joel (FRA),CHRISTENSEN Carl-Johan Meyer (DEN),PEARSON Roy (ENG),USA,141,24,52,Brazil
+1994,13 Jul 1994 - 16:30,Semi-finals,Rose Bowl,Los Angeles,TORRES CADENA Jose Joaquin (COL),MARTON Sandor (HUN),MATTHYS Luc (BEL),USA,141,24,52,Brazil
+1994,16 Jul 1994 - 12:30,Match for third place,Rose Bowl,Los Angeles,BUJSAIM Ali (UAE),RHARIB El Jilali Mohamed (MAR),TAIBI Ernesto (ARG),USA,141,24,52,Brazil
+1994,17 Jul 1994 - 12:30,Final,Rose Bowl,Los Angeles,PUHL Sandor (HUN),ZARATE Venancio (PAR),FANAEI Mohammad (IRN),USA,141,24,52,Brazil
+1998,10 Jun 1998 - 17:30,Group A,Stade de France,Saint-Denis,GARCIA ARANDA Jose Maria (ESP),TRESACO GRACIA Fernando (ESP),ARANGO Jorge Luis (COL),France,171,32,64,France
+1998,10 Jun 1998 - 21:00,Group A,La Mosson,Montpellier,ANPRASERT Pirom (THA),ABDUL HAMID Halim (MAS),WICKRAMATUNGA Nimal (SRI),France,171,32,64,France
+1998,11 Jun 1998 - 17:30,Group B,Stade du Parc Lescure,Bordeaux,BOUCHARDEAU Lucien (NIG),DANTE Dramane (MLI),MANSRI Mohamed (TUN),France,171,32,64,France
+1998,11 Jun 1998 - 21:00,Group B,Stade Municipal,Toulouse,GONZALEZ CHAVEZ Epifanio (PAR),GALVAN Celestino (PAR),SALINAS Reynaldo (HON),France,171,32,64,France
+1998,12 Jun 1998 - 14:30,Group D,La Mosson,Montpellier,ALZEID Abdulrahman (KSA),SALIE Achmat (RSA),GHADANFARI Hussain (KUW),France,171,32,64,France
+1998,12 Jun 1998 - 17:30,Group C,Stade Felix Bollaert,Lens,CASTRILLI Javier (ARG),ROSSI Claudio (ARG),DIAZ GALVEZ Jorge (CHI),France,171,32,64,France
+1998,12 Jun 1998 - 21:00,Group C,Stade V�lodrome,Marseilles,REZENDE Marcio (BRA),PINTO Arnaldo (BRA),GONZALES Merere (TRI),France,171,32,64,France
+1998,13 Jun 1998 - 14:30,Group D,La Beaujoire,Nantes,BAHARMAST Esse (USA),TORRES ZUNIGA Luis (CRC),DUPANOV Yuri (BLR),France,171,32,64,France
+1998,13 Jun 1998 - 17:30,Group E,Stade de Gerland,Lyon,BENKO Gunter (AUT),FRED Lencie (VAN),SCHNEIDER Erich (GER),France,171,32,64,France
+1998,13 Jun 1998 - 21:00,Group E,Stade de France,Saint-Denis,COLLINA Pierluigi (ITA),MAZZEI Gennaro (ITA),ZAMMIT Emanuel (MLT),France,171,32,64,France
+1998,14 Jun 1998 - 14:30,Group H,Stade Municipal,Toulouse,VAN DER ENDE Mario (NED),VAN DEN BROECK Marc (BEL),FOLEY Eddie (IRL),France,171,32,64,France
+1998,14 Jun 1998 - 17:30,Group F,Stade Geoffroy Guichard,Saint-Etienne,TEJADA NORIEGA Alberto (PER),POWELL Owen (JAM),POCIEGIEL Jacek (POL),France,171,32,64,France
+1998,14 Jun 1998 - 21:00,Group H,Stade Felix Bollaert,Lens,MELO PEREIRA Vitor (POR),GRIGORESCU Nicolae (ROU),POUDEVIGNE Jacques (FRA),France,171,32,64,France
+1998,15 Jun 1998 - 14:30,Group G,Stade V�lodrome,Marseilles,OKADA Masayoshi (JPN),JEON Young Hyun (KOR),DANTE Dramane (MLI),France,171,32,64,France
+1998,15 Jun 1998 - 17:30,Group G,Stade de Gerland,Lyon,LIM KEE CHONG An Yan (MRI),AL MUSAWI Mohamed (OMA),ABDUL HAMID Halim (MAS),France,171,32,64,France
+1998,15 Jun 1998 - 21:00,Group F,Parc des Princes,Paris,BELQOLA Said (MAR),MANSRI Mohamed (TUN),NILSSON Mikael (SWE),France,171,32,64,France
+1998,16 Jun 1998 - 17:30,Group A,Stade du Parc Lescure,Bordeaux,VAGNER Laszlo (HUN),AMLER Evzen (CZE),RAUSIS Laurent (SUI),France,171,32,64,France
+1998,16 Jun 1998 - 21:00,Group A,La Beaujoire,Nantes,LEVNIKOV Nikolai (RUS),DUPANOV Yuri (BLR),WARREN Mark (ENG),France,171,32,64,France
+1998,17 Jun 1998 - 17:30,Group B,Stade Geoffroy Guichard,Saint-Etienne,EL GHANDOUR Gamal (EGY),GHADANFARI Hussain (KUW),TRESACO GRACIA Fernando (ESP),France,171,32,64,France
+1998,17 Jun 1998 - 21:00,Group B,La Mosson,Montpellier,LENNIE Edward (AUS),FRED Lencie (VAN),ROSSI Claudio (ARG),France,171,32,64,France
+1998,18 Jun 1998 - 17:30,Group C,Stade Municipal,Toulouse,TORO RENDON John (COL),ARANGO Jorge Luis (COL),GALVAN Celestino (PAR),France,171,32,64,France
+1998,18 Jun 1998 - 21:00,Group C,Stade de France,Saint-Denis,BRIZIO CARTER Arturo (MEX),SALINAS Reynaldo (HON),TORRES ZUNIGA Luis (CRC),France,171,32,64,France
+1998,19 Jun 1998 - 17:30,Group D,Parc des Princes,Paris,SANCHEZ YANTEN Mario (CHI),DIAZ GALVEZ Jorge (CHI),PINTO Arnaldo (BRA),France,171,32,64,France
+1998,19 Jun 1998 - 21:00,Group D,Stade Geoffroy Guichard,Saint-Etienne,McLEOD Ian (RSA),SOLDATOS Aristidis Chris (RSA),POWELL Owen (JAM),France,171,32,64,France
+1998,20 Jun 1998 - 14:30,Group H,La Beaujoire,Nantes,RAMDHAN Ramesh (TRI),GONZALES Merere (TRI),SALIE Achmat (RSA),France,171,32,64,France
+1998,20 Jun 1998 - 17:30,Group E,Stade du Parc Lescure,Bordeaux,DALLAS Hugh (SCO),FOLEY Eddie (IRL),AL MUSAWI Mohamed (OMA),France,171,32,64,France
+1998,20 Jun 1998 - 21:00,Group E,Stade V�lodrome,Marseilles,WOJCIK Ryszard (POL),POCIEGIEL Jacek (POL),DUPANOV Yuri (BLR),France,171,32,64,France
+1998,21 Jun 1998 - 14:30,Group F,Stade Felix Bollaert,Lens,NIELSEN Kim Milton (DEN),ZAMMIT Emanuel (MLT),VAN DEN BROECK Marc (BEL),France,171,32,64,France
+1998,21 Jun 1998 - 17:30,Group H,Parc des Princes,Paris,PEDERSEN Rune (NOR),NILSSON Mikael (SWE),MAZZEI Gennaro (ITA),France,171,32,64,France
+1998,21 Jun 1998 - 21:00,Group F,Stade de Gerland,Lyon,MEIER Urs (SUI),RAUSIS Laurent (SUI),GRIGORESCU Nicolae (ROU),France,171,32,64,France
+1998,22 Jun 1998 - 17:30,Group G,La Mosson,Montpellier,HEYNEMANN Bernd (GER),SCHNEIDER Erich (GER),AMLER Evzen (CZE),France,171,32,64,France
+1998,22 Jun 1998 - 21:00,Group G,Stade Municipal,Toulouse,BATTA Marc (FRA),POUDEVIGNE Jacques (FRA),SOLDATOS Aristidis Chris (RSA),France,171,32,64,France
+1998,23 Jun 1998 - 16:00,Group B,Stade de France,Saint-Denis,DURKIN Paul (ENG),WARREN Mark (ENG),JEON Young Hyun (KOR),France,171,32,64,France
+1998,23 Jun 1998 - 16:00,Group B,La Beaujoire,Nantes,VAGNER Laszlo (HUN),WICKRAMATUNGA Nimal (SRI),ABDUL HAMID Halim (MAS),France,171,32,64,France
+1998,23 Jun 1998 - 21:00,Group A,Stade Geoffroy Guichard,Saint-Etienne,BUJSAIM Ali (UAE),TORRES ZUNIGA Luis (CRC),FRED Lencie (VAN),France,171,32,64,France
+1998,23 Jun 1998 - 21:00,Group A,Stade V�lodrome,Marseilles,BAHARMAST Esse (USA),MAZZEI Gennaro (ITA),DANTE Dramane (MLI),France,171,32,64,France
+1998,24 Jun 1998 - 16:00,Group C,Stade de Gerland,Lyon,COLLINA Pierluigi (ITA),VAN DEN BROECK Marc (BEL),ZAMMIT Emanuel (MLT),France,171,32,64,France
+1998,24 Jun 1998 - 16:00,Group C,Stade du Parc Lescure,Bordeaux,SANCHEZ YANTEN Mario (CHI),POWELL Owen (JAM),FOLEY Eddie (IRL),France,171,32,64,France
+1998,24 Jun 1998 - 21:00,Group D,Stade Felix Bollaert,Lens,VAN DER ENDE Mario (NED),GRIGORESCU Nicolae (ROU),ROSSI Claudio (ARG),France,171,32,64,France
+1998,24 Jun 1998 - 21:00,Group D,Stade Municipal,Toulouse,ANPRASERT Pirom (THA),AL MUSAWI Mohamed (OMA),NILSSON Mikael (SWE),France,171,32,64,France
+1998,25 Jun 1998 - 16:00,Group E,Parc des Princes,Paris,REZENDE Marcio (BRA),PINTO Arnaldo (BRA),ARANGO Jorge Luis (COL),France,171,32,64,France
+1998,25 Jun 1998 - 16:00,Group E,Stade Geoffroy Guichard,Saint-Etienne,ALZEID Abdulrahman (KSA),TRESACO GRACIA Fernando (ESP),GHADANFARI Hussain (KUW),France,171,32,64,France
+1998,25 Jun 1998 - 21:00,Group F,La Mosson,Montpellier,GONZALEZ CHAVEZ Epifanio (PAR),GALVAN Celestino (PAR),DIAZ GALVEZ Jorge (CHI),France,171,32,64,France
+1998,25 Jun 1998 - 21:00,Group F,La Beaujoire,Nantes,EL GHANDOUR Gamal (EGY),SALIE Achmat (RSA),WARREN Mark (ENG),France,171,32,64,France
+1998,26 Jun 1998 - 16:00,Group H,Stade de Gerland,Lyon,BENKO Gunter (AUT),AMLER Evzen (CZE),DANTE Dramane (MLI),France,171,32,64,France
+1998,26 Jun 1998 - 16:00,Group H,Stade du Parc Lescure,Bordeaux,BELQOLA Said (MAR),SOLDATOS Aristidis Chris (RSA),MANSRI Mohamed (TUN),France,171,32,64,France
+1998,26 Jun 1998 - 21:00,Group G,Stade de France,Saint-Denis,LENNIE Edward (AUS),POCIEGIEL Jacek (POL),DUPANOV Yuri (BLR),France,171,32,64,France
+1998,26 Jun 1998 - 21:00,Group G,Stade Felix Bollaert,Lens,BRIZIO CARTER Arturo (MEX),RAUSIS Laurent (SUI),SALINAS Reynaldo (HON),France,171,32,64,France
+1998,27 Jun 1998 - 16:30,Round of 16,Stade V�lodrome,Marseilles,HEYNEMANN Bernd (GER),SCHNEIDER Erich (GER),VAN DEN BROECK Marc (BEL),France,171,32,64,France
+1998,27 Jun 1998 - 21:00,Round of 16,Parc des Princes,Paris,BATTA Marc (FRA),POUDEVIGNE Jacques (FRA),POWELL Owen (JAM),France,171,32,64,France
+1998,28 Jun 1998 - 16:30,Round of 16,Stade Felix Bollaert,Lens,BUJSAIM Ali (UAE),WICKRAMATUNGA Nimal (SRI),FRED Lencie (VAN),France,171,32,64,France
+1998,28 Jun 1998 - 21:00,Round of 16,Stade de France,Saint-Denis,MEIER Urs (SUI),GHADANFARI Hussain (KUW),TRESACO GRACIA Fernando (ESP),France,171,32,64,France
+1998,29 Jun 1998 - 16:30,Round of 16,La Mosson,Montpellier,MELO PEREIRA Vitor (POR),MANSRI Mohamed (TUN),SALIE Achmat (RSA),France,171,32,64,France
+1998,29 Jun 1998 - 21:00,Round of 16,Stade Municipal,Toulouse,GARCIA ARANDA Jose Maria (ESP),RAUSIS Laurent (SUI),GRIGORESCU Nicolae (ROU),France,171,32,64,France
+1998,30 Jun 1998 - 16:30,Round of 16,Stade du Parc Lescure,Bordeaux,CASTRILLI Javier (ARG),ROSSI Claudio (ARG),PINTO Arnaldo (BRA),France,171,32,64,France
+1998,30 Jun 1998 - 21:00,Round of 16,Stade Geoffroy Guichard,Saint-Etienne,NIELSEN Kim Milton (DEN),ABDUL HAMID Halim (MAS),AL MUSAWI Mohamed (OMA),France,171,32,64,France
+1998,03 Jul 1998 - 16:30,Quarter-finals,Stade de France,Saint-Denis,DALLAS Hugh (SCO),WARREN Mark (ENG),GRIGORESCU Nicolae (ROU),France,171,32,64,France
+1998,03 Jul 1998 - 21:00,Quarter-finals,La Beaujoire,Nantes,EL GHANDOUR Gamal (EGY),MANSRI Mohamed (TUN),DANTE Dramane (MLI),France,171,32,64,France
+1998,04 Jul 1998 - 16:30,Quarter-finals,Stade V�lodrome,Marseilles,BRIZIO CARTER Arturo (MEX),POWELL Owen (JAM),SALINAS Reynaldo (HON),France,171,32,64,France
+1998,04 Jul 1998 - 21:00,Quarter-finals,Stade de Gerland,Lyon,PEDERSEN Rune (NOR),NILSSON Mikael (SWE),VAN DEN BROECK Marc (BEL),France,171,32,64,France
+1998,07 Jul 1998 - 21:00,Semi-finals,Stade V�lodrome,Marseilles,BUJSAIM Ali (UAE),GHADANFARI Hussain (KUW),AL MUSAWI Mohamed (OMA),France,171,32,64,France
+1998,08 Jul 1998 - 21:00,Semi-finals,Stade de France,Saint-Denis,GARCIA ARANDA Jose Maria (ESP),TRESACO GRACIA Fernando (ESP),DIAZ GALVEZ Jorge (CHI),France,171,32,64,France
+1998,11 Jul 1998 - 21:00,Match for third place,Parc des Princes,Paris,GONZALEZ CHAVEZ Epifanio (PAR),ZAMMIT Emanuel (MLT),FRED Lencie (VAN),France,171,32,64,France
+1998,12 Jul 1998 - 21:00,Final,Stade de France,Saint-Denis,BELQOLA Said (MAR),WARREN Mark (ENG),SALIE Achmat (RSA),France,171,32,64,France
+2002,31 May 2002 - 20:30,Group A,Seoul World Cup Stadium,Seoul,BUJSAIM Ali (UAE),ALTRAIFI Ali (KSA),RATTALINO Jorge (ARG),Korea/Japan,161,32,64,Brazil
+2002,01 Jun 2002 - 18:00,Group A,Munsu Football Stadium,Ulsan,MANE Saad (KUW),HASSOUNEH Awni (JOR),DANTE Dramane (MLI),Korea/Japan,161,32,64,Brazil
+2002,01 Jun 2002 - 15:30,Group E,Niigata Stadium Big Swan,Niigata,KAMIKAWA Toru (JPN),AWANG HAMAT Mat Lazim (MAS),VAN NYLEN Roland (BEL),Korea/Japan,161,32,64,Brazil
+2002,01 Jun 2002 - 20:30,Group E,Sapporo Dome,Sapporo,AQUINO Ubaldo (PAR),GIACOMUZZI Miguel (PAR),RAGOONATH Michael (TRI),Korea/Japan,161,32,64,Brazil
+2002,02 Jun 2002 - 14:30,Group F,Kashima Stadium,Ibaraki,VEISSIERE Gilles (FRA),ARNAULT Frederic (FRA),MUELLER Heiner (GER),Korea/Japan,161,32,64,Brazil
+2002,02 Jun 2002 - 16:30,Group B,Busan Asiad Main Stadium,Busan,MICHEL Lubos (SVK),SRAMKA Igor (SVK),CHARLES Curtis (ATG),Korea/Japan,161,32,64,Brazil
+2002,02 Jun 2002 - 18:30,Group F,Saitama Stadium 2002,Saitama,SIMON Carlos (BRA),OLIVEIRA Jorge (BRA),DUPANOV Yuri (BLR),Korea/Japan,161,32,64,Brazil
+2002,02 Jun 2002 - 20:30,Group B,Gwangju World Cup Stadium,Gwangju,GUEZZAZ Mohammed (MAR),TOMUSANGE Ali (UGA),BEREUTER Egon (AUT),Korea/Japan,161,32,64,Brazil
+2002,03 June 2002 - 18:00,Group C,Munsu Football Stadium,Ulsan,KIM Young Joo (KOR),KRISHNAN Visva (SIN),FERNANDEZ Vladimir (SLV),Korea/Japan,161,32,64,Brazil
+2002,03 Jun 2002 - 20:30,Group G,Sapporo Dome,Sapporo,HALL Brian (USA),VERGARA Hector (CAN),SHARP Philip (ENG),Korea/Japan,161,32,64,Brazil
+2002,03 Jun 2002 - 15:30,Group G,Niigata Stadium Big Swan,Niigata,JUN Lu (CHN),KOMALEESWARAN Sankar (IND),ADJENGUI Taoufik (TUN),Korea/Japan,161,32,64,Brazil
+2002,04 June 2002 - 15:30,Group C,Gwangju World Cup Stadium,Gwangju,VASSARAS Kyros (GRE),MATOS Carlos (POR),POOL Jaap (NED),Korea/Japan,161,32,64,Brazil
+2002,04 June 2002 - 18:00,Group H,Saitama Stadium 2002,Saitama,MATTUS William (CRC),KOLEIT Haidar (LIB),DUPANOV Yuri (BLR),Korea/Japan,161,32,64,Brazil
+2002,04 Jun 2002 - 20:30,Group D,Busan Asiad Main Stadium,Busan,RUIZ Oscar (COL),DORIRI Elise (VAN),LINDBERG Leif (SWE),Korea/Japan,161,32,64,Brazil
+2002,05 Jun 2002 - 15:30,Group H,Kobe Wing Stadium,Kobe,PRENDERGAST Peter (JAM),RAGOONATH Michael (TRI),SMITH Paul (NZL),Korea/Japan,161,32,64,Brazil
+2002,05 Jun 2002 - 18:00,Group D,Suwon World Cup Stadium,Suwon,MORENO Byron (ECU),FIERRO Bomer (ECU),HASSOUNEH Awni (JOR),Korea/Japan,161,32,64,Brazil
+2002,05 Jun 2002 - 20:30,Group E,Kashima Stadium,Ibaraki,NIELSEN Kim Milton (DEN),LARSEN Jens (DEN),AMLER Evzen (CZE),Korea/Japan,161,32,64,Brazil
+2002,06 Jun 2002 - 15:30,Group A,Daegu World Cup Stadium,Daegu,BATRES Carlos (GUA),SZEKELY Ferenc (HUN),KRISHNAN Visva (SIN),Korea/Japan,161,32,64,Brazil
+2002,06 Jun 2002 - 18:00,Group E,Saitama Stadium 2002,Saitama,HAUGE Terje (NOR),VAN NYLEN Roland (BEL),WIERZBOWSKI Maciej (POL),Korea/Japan,161,32,64,Brazil
+2002,06 Jun 2002 - 20:30,Group A,Busan Asiad Main Stadium,Busan,RAMOS RIZO Felipe (MEX),FERNANDEZ Vladimir (SLV),CHARLES Curtis (ATG),Korea/Japan,161,32,64,Brazil
+2002,07 Jun 2002 - 15:30,Group F,Kobe Wing Stadium,Kobe,ORTUBE Rene (BOL),GIACOMUZZI Miguel (PAR),AWANG HAMAT Mat Lazim (MAS),Korea/Japan,161,32,64,Brazil
+2002,07 Jun 2002 - 20:30,Group F,Sapporo Dome,Sapporo,COLLINA Pierluigi (ITA),VERGARA Hector (CAN),SAEED Mohamed (MDV),Korea/Japan,161,32,64,Brazil
+2002,07 June 2002 - 18:00,Group B,Jeonju World Cup Stadium,Jeonju,EL GHANDOUR Gamal (EGY),FARAG Wagih (EGY),MUDZAMIRI Brighton (ZIM),Korea/Japan,161,32,64,Brazil
+2002,08 Jun 2002 - 15:30,Group B,Daegu World Cup Stadium,Daegu,SANCHEZ Angel (ARG),RATTALINO Jorge (ARG),ALTRAIFI Ali (KSA),Korea/Japan,161,32,64,Brazil
+2002,08 Jun 2002 - 20:30,Group C,Jeju World Cup Stadium,Jeju,FRISK Anders (SWE),LINDBERG Leif (SWE),FIERRO Bomer (ECU),Korea/Japan,161,32,64,Brazil
+2002,08 June 2002 - 18:00,Group G,Kashima Stadium,Ibaraki,POLL Graham (ENG),SHARP Philip (ENG),LARSEN Jens (DEN),Korea/Japan,161,32,64,Brazil
+2002,09 Jun 2002 - 18:00,Group C,Incheon Football Stadium,Incheon,CODJIA Coffi (BEN),DANTE Dramane (MLI),MUDZAMIRI Brighton (ZIM),Korea/Japan,161,32,64,Brazil
+2002,09 Jun 2002 - 20:30,Group H,International Stadium Yokohama,Yokohama,MERK Markus (GER),MUELLER Heiner (GER),AMLER Evzen (CZE),Korea/Japan,161,32,64,Brazil
+2002,09 Jun 2002 - 15:30,Group G,Miyagi Stadium,Rifu,DAAMI Mourad (TUN),ADJENGUI Taoufik (TUN),KOLEIT Haidar (LIB),Korea/Japan,161,32,64,Brazil
+2002,10 Jun 2002 - 15:30,Group D,Daegu World Cup Stadium,Daegu,MEIER Urs (SUI),BEREUTER Egon (AUT),TOMUSANGE Ali (UGA),Korea/Japan,161,32,64,Brazil
+2002,10 Jun 2002 - 20:30,Group D,Jeonju World Cup Stadium,Jeonju,DALLAS Hugh (SCO),SRAMKA Igor (SVK),FARAG Wagih (EGY),Korea/Japan,161,32,64,Brazil
+2002,10 Jun 2002 - 18:00,Group H,Oita Stadium Big Eye,Oita,SHIELD Mark (AUS),SMITH Paul (NZL),KOMALEESWARAN Sankar (IND),Korea/Japan,161,32,64,Brazil
+2002,11 Jun 2002 - 15:30,Group A,Incheon Football Stadium,Incheon,MELO PEREIRA Vitor (POR),MATOS Carlos (POR),DORIRI Elise (VAN),Korea/Japan,161,32,64,Brazil
+2002,11 June 2002 - 15:30,Group A,Suwon World Cup Stadium,Suwon,WEGEREEF Jan (NED),POOL Jaap (NED),SZEKELY Ferenc (HUN),Korea/Japan,161,32,64,Brazil
+2002,11 Jun 2002 - 20:30,Group E,International Stadium Yokohama,Yokohama,NDOYE Falla (SEN),WIERZBOWSKI Maciej (POL),ARNAULT Frederic (FRA),Korea/Japan,161,32,64,Brazil
+2002,11 Jun 2002 - 20:30,Group E,Shizuoka Stadium Ecopa,Shizuoka,LOPEZ NIETO Antonio (ESP),SAEED Mohamed (MDV),OLIVEIRA Jorge (BRA),Korea/Japan,161,32,64,Brazil
+2002,12 Jun 2002 - 15:30,Group F,Miyagi Stadium,Rifu,BUJSAIM Ali (UAE),MUELLER Heiner (GER),RAGOONATH Michael (TRI),Korea/Japan,161,32,64,Brazil
+2002,12 Jun 2002 - 15:30,Group F,Osaka Nagai Stadium,Osaka,HALL Brian (USA),VERGARA Hector (CAN),AMLER Evzen (CZE),Korea/Japan,161,32,64,Brazil
+2002,12 Jun 2002 - 20:30,Group B,Jeju World Cup Stadium,Jeju,RAMOS RIZO Felipe (MEX),LINDBERG Leif (SWE),KRISHNAN Visva (SIN),Korea/Japan,161,32,64,Brazil
+2002,12 Jun 2002 - 20:30,Group B,Daejeon World Cup Stadium,Daejeon,MANE Saad (KUW),RATTALINO Jorge (ARG),HASSOUNEH Awni (JOR),Korea/Japan,161,32,64,Brazil
+2002,13 Jun 2002 - 15:30,Group C,Suwon World Cup Stadium,Suwon,EL GHANDOUR Gamal (EGY),FARAG Wagih (EGY),BEREUTER Egon (AUT),Korea/Japan,161,32,64,Brazil
+2002,13 Jun 2002 - 15:30,Group C,Seoul World Cup Stadium,Seoul,RUIZ Oscar (COL),TOMUSANGE Ali (UGA),CHARLES Curtis (ATG),Korea/Japan,161,32,64,Brazil
+2002,13 Jun 2002 - 20:30,Group G,International Stadium Yokohama,Yokohama,MATTUS William (CRC),GIACOMUZZI Miguel (PAR),VAN NYLEN Roland (BEL),Korea/Japan,161,32,64,Brazil
+2002,13 Jun 2002 - 20:30,Group G,Oita Stadium Big Eye,Oita,SIMON Carlos (BRA),OLIVEIRA Jorge (BRA),AWANG HAMAT Mat Lazim (MAS),Korea/Japan,161,32,64,Brazil
+2002,14 Jun 2002 - 15:30,Group H,Osaka Nagai Stadium,Osaka,VEISSIERE Gilles (FRA),ARNAULT Frederic (FRA),KOLEIT Haidar (LIB),Korea/Japan,161,32,64,Brazil
+2002,14 Jun 2002 - 20:30,Group D,Incheon Football Stadium,Incheon,SANCHEZ Angel (ARG),ALTRAIFI Ali (KSA),SZEKELY Ferenc (HUN),Korea/Japan,161,32,64,Brazil
+2002,14 Jun 2002 - 20:30,Group D,Daejeon World Cup Stadium,Daejeon,LU Jun (CHN),FIERRO Bomer (ECU),POOL Jaap (NED),Korea/Japan,161,32,64,Brazil
+2002,14 Jun 2002 - 15:30,Group H,Shizuoka Stadium Ecopa,Shizuoka,NIELSEN Kim Milton (DEN),SHARP Philip (ENG),KOMALEESWARAN Sankar (IND),Korea/Japan,161,32,64,Brazil
+2002,15 Jun 2002 - 20:30,Round of 16,Niigata Stadium Big Swan,Niigata,MERK Markus (GER),MUELLER Heiner (GER),AMLER Evzen (CZE),Korea/Japan,161,32,64,Brazil
+2002,15 Jun 2002 - 15:30,Round of 16,Jeju World Cup Stadium,Jeju,BATRES Carlos (GUA),CHARLES Curtis (ATG),DANTE Dramane (MLI),Korea/Japan,161,32,64,Brazil
+2002,16 Jun 2002 - 20:30,Round of 16,Suwon World Cup Stadium,Suwon,FRISK Anders (SWE),LINDBERG Leif (SWE),SRAMKA Igor (SVK),Korea/Japan,161,32,64,Brazil
+2002,16 Jun 2002 - 15:30,Round of 16,Oita Stadium Big Eye,Oita,AQUINO Ubaldo (PAR),GIACOMUZZI Miguel (PAR),VERGARA Hector (CAN),Korea/Japan,161,32,64,Brazil
+2002,17 Jun 2002 - 20:30,Round of 16,Kobe Wing Stadium,Kobe,PRENDERGAST Peter (JAM),DUPANOV Yuri (BLR),SAEED Mohamed (MDV),Korea/Japan,161,32,64,Brazil
+2002,17 June 2002 - 15:30,Round of 16,Jeonju World Cup Stadium,Jeonju,MELO PEREIRA Vitor (POR),MATOS Carlos (POR),BEREUTER Egon (AUT),Korea/Japan,161,32,64,Brazil
+2002,18 Jun 2002 - 15:30,Round of 16,Miyagi Stadium,Rifu,COLLINA Pierluigi (ITA),WIERZBOWSKI Maciej (POL),SMITH Paul (NZL),Korea/Japan,161,32,64,Brazil
+2002,18 Jun 2002 - 20:30,Round of 16,Daejeon World Cup Stadium,Daejeon,MORENO Byron (ECU),RATTALINO Jorge (ARG),SZEKELY Ferenc (HUN),Korea/Japan,161,32,64,Brazil
+2002,21 Jun 2002 - 15:30,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka,RAMOS RIZO Felipe (MEX),VERGARA Hector (CAN),SAEED Mohamed (MDV),Korea/Japan,161,32,64,Brazil
+2002,21 Jun 2002 - 20:30,Quarter-finals,Munsu Football Stadium,Ulsan,DALLAS Hugh (SCO),SHARP Philip (ENG),ALTRAIFI Ali (KSA),Korea/Japan,161,32,64,Brazil
+2002,22 Jun 2002 - 20:30,Quarter-finals,Osaka Nagai Stadium,Osaka,RUIZ Oscar (COL),RATTALINO Jorge (ARG),GIACOMUZZI Miguel (PAR),Korea/Japan,161,32,64,Brazil
+2002,22 Jun 2002 - 15:30,Quarter-finals,Gwangju World Cup Stadium,Gwangju,EL GHANDOUR Gamal (EGY),TOMUSANGE Ali (UGA),RAGOONATH Michael (TRI),Korea/Japan,161,32,64,Brazil
+2002,25 Jun 2002 - 20:30,Semi-finals,Seoul World Cup Stadium,Seoul,MEIER Urs (SUI),ARNAULT Frederic (FRA),AMLER Evzen (CZE),Korea/Japan,161,32,64,Brazil
+2002,26 Jun 2002 - 20:30,Semi-finals,Saitama Stadium 2002,Saitama,NIELSEN Kim Milton (DEN),WIERZBOWSKI Maciej (POL),SRAMKA Igor (SVK),Korea/Japan,161,32,64,Brazil
+2002,29 Jun 2002 - 20:00,Third place,Daegu World Cup Stadium,Daegu,MANE Saad (KUW),ALTRAIFI Ali (KSA),VERGARA Hector (CAN),Korea/Japan,161,32,64,Brazil
+2002,30 Jun 2002 - 20:00,Final,International Stadium Yokohama,Yokohama,COLLINA Pierluigi (ITA),LINDBERG Leif (SWE),SHARP Philip (ENG),Korea/Japan,161,32,64,Brazil
+2006,09 Jun 2006 - 18:00,Group A,FIFA World Cup Stadium,Munich,1,ELIZONDO Horacio (ARG),GARCIA Dario (ARG),Germany,147,32,64,Italy
+2006,09 Jun 2006 - 21:00,Group A,FIFA World Cup Stadium,Gelsenkirchen,1,KAMIKAWA Toru (JPN),HIROSHIMA Yoshikazu (JPN),Germany,147,32,64,Italy
+2006,10 Jun 2006 - 15:00,Group B,FIFA World Cup Stadium,Frankfurt,0,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),Germany,147,32,64,Italy
+2006,10 Jun 2006 - 18:00,Group B,FIFA World Cup Stadium,Dortmund,0,MAIDIN Shamsul (SIN),PERMPANICH Prachya (THA),Germany,147,32,64,Italy
+2006,10 Jun 2006 - 21:00,Group C,FIFA World Cup Stadium,Hamburg,0,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),Germany,147,32,64,Italy
+2006,11 Jun 2006 - 15:00,Group C,Zentralstadion,Leipzig,MERK Markus (GER),SCHRAER Christian (GER),SALVER Jan-Hendrik (GER),Germany,147,32,64,Italy
+2006,11 Jun 2006 - 18:00,Group D,Franken-Stadion,Nuremberg,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),STAGNOLI Alessandro (ITA),Germany,147,32,64,Italy
+2006,11 Jun 2006 - 21:00,Group D,FIFA World Cup Stadium,Cologne,1,LARRIONDA Jorge (URU),RIAL Walter (URU),Germany,147,32,64,Italy
+2006,12 Jun 2006 - 15:00,Group F,Fritz-Walter-Stadion,Kaiserslautern,ABD EL FATAH Essam (EGY),DANTE Dramane (MLI),NDOYE Mamadou (SEN),Germany,147,32,64,Italy
+2006,12 Jun 2006 - 18:00,Group E,FIFA World Cup Stadium,Gelsenkirchen,2,AMARILLA Carlos (PAR),ANDINO Amelio (PAR),Germany,147,32,64,Italy
+2006,12 Jun 2006 - 21:00,Group E,FIFA World Cup Stadium,Hanover,0,SIMON Carlos (BRA),TAVARES Aristeu (BRA),Germany,147,32,64,Italy
+2006,13 Jun 2006 - 15:00,Group G,FIFA World Cup Stadium,Frankfurt,1,POLL Graham (ENG),SHARP Philip (ENG),Germany,147,32,64,Italy
+2006,13 Jun 2006 - 18:00,Group G,Gottlieb-Daimler-Stadion,Stuttgart,IVANOV Valentin (RUS),GOLUBEV Nikolai (RUS),VOLNIN Evgueni (RUS),Germany,147,32,64,Italy
+2006,13 Jun 2006 - 21:00,Group F,Olympiastadion,Berlin,ARCHUNDIA Benito (MEX),RAMIREZ Jose (MEX),VERGARA Hector (CAN),Germany,147,32,64,Italy
+2006,14 Jun 2006 - 15:00,Group H,Zentralstadion,Leipzig,BUSACCA Massimo (SUI),BURAGINA Francesco (SUI),ARNET Matthias (SUI),Germany,147,32,64,Italy
+2006,14 Jun 2006 - 18:00,Group H,FIFA World Cup Stadium,Munich,0,SHIELD Mark (AUS),GIBSON Nathan (AUS),Germany,147,32,64,Italy
+2006,14 Jun 2006 - 21:00,Group A,FIFA World Cup Stadium,Dortmund,0,MEDINA CANTALEJO Luis (ESP),GIRALDEZ CARRASCO Victoriano (ESP),Germany,147,32,64,Italy
+2006,15 Jun 2006 - 15:00,Group A,FIFA World Cup Stadium,Hamburg,0,CODJIA Coffi (BEN),NTAGUNGIRA Celestin (RWA),Germany,147,32,64,Italy
+2006,15 Jun 2006 - 18:00,Group B,Franken-Stadion,Nuremberg,KAMIKAWA Toru (JPN),HIROSHIMA Yoshikazu (JPN),KIM Dae Young (KOR),Germany,147,32,64,Italy
+2006,15 Jun 2006 - 21:00,Group B,Olympiastadion,Berlin,MICHEL Lubos (SVK),Roman SLYSKO (SVK),BALKO Martin (SVK),Germany,147,32,64,Italy
+2006,16 Jun 2006 - 15:00,Group C,FIFA World Cup Stadium,Gelsenkirchen,0,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),Germany,147,32,64,Italy
+2006,16 Jun 2006 - 18:00,Group C,Gottlieb-Daimler-Stadion,Stuttgart,RUIZ Oscar (COL),TAMAYO Fernando (ECU),NAVIA Jose (COL),Germany,147,32,64,Italy
+2006,16 Jun 2006 - 21:00,Group D,FIFA World Cup Stadium,Hanover,0,MAIDIN Shamsul (SIN),PERMPANICH Prachya (THA),Germany,147,32,64,Italy
+2006,17 Jun 2006 - 15:00,Group D,FIFA World Cup Stadium,Frankfurt,0,POULAT Eric (FRA),DAGORNE Lionel (FRA),Germany,147,32,64,Italy
+2006,17 Jun 2006 - 18:00,Group E,FIFA World Cup Stadium,Cologne,1,ELIZONDO Horacio (ARG),GARCIA Dario (ARG),Germany,147,32,64,Italy
+2006,17 Jun 2006 - 21:00,Group E,Fritz-Walter-Stadion,Kaiserslautern,LARRIONDA Jorge (URU),RIAL Walter (URU),FANDINO Pablo (URU),Germany,147,32,64,Italy
+2006,18 Jun 2006 - 15:00,Group F,Franken-Stadion,Nuremberg,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),Germany,147,32,64,Italy
+2006,18 Jun 2006 - 18:00,Group F,FIFA World Cup Stadium,Munich,0,MERK Markus (GER),SCHRAER Christian (GER),Germany,147,32,64,Italy
+2006,18 Jun 2006 - 21:00,Group G,Zentralstadion,Leipzig,ARCHUNDIA Benito (MEX),RAMIREZ Jose (MEX),VERGARA Hector (CAN),Germany,147,32,64,Italy
+2006,19 Jun 2006 - 15:00,Group G,FIFA World Cup Stadium,Dortmund,1,AMARILLA Carlos (PAR),ANDINO Amelio (PAR),Germany,147,32,64,Italy
+2006,19 Jun 2006 - 18:00,Group H,FIFA World Cup Stadium,Hamburg,2,POLL Graham (ENG),SHARP Philip (ENG),Germany,147,32,64,Italy
+2006,19 Jun 2006 - 21:00,Group H,Gottlieb-Daimler-Stadion,Stuttgart,SIMON Carlos (BRA),TAVARES Aristeu (BRA),CORONA Ednilson (BRA),Germany,147,32,64,Italy
+2006,20 Jun 2006 - 16:00,Group A,Olympiastadion,Berlin,IVANOV Valentin (RUS),GOLUBEV Nikolai (RUS),VOLNIN Evgueni (RUS),Germany,147,32,64,Italy
+2006,20 Jun 2006 - 16:00,Group A,FIFA World Cup Stadium,Hanover,1,MAIDIN Shamsul (SIN),PERMPANICH Prachya (THA),Germany,147,32,64,Italy
+2006,20 Jun 2006 - 21:00,Group B,FIFA World Cup Stadium,Cologne,1,BUSACCA Massimo (SUI),BURAGINA Francesco (SUI),Germany,147,32,64,Italy
+2006,20 Jun 2006 - 21:00,Group B,Fritz-Walter-Stadion,Kaiserslautern,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),STAGNOLI Alessandro (ITA),Germany,147,32,64,Italy
+2006,21 Jun 2006 - 16:00,Group D,Zentralstadion,Leipzig,SHIELD Mark (AUS),GIBSON Nathan (AUS),WILSON Ben (AUS),Germany,147,32,64,Italy
+2006,21 Jun 2006 - 16:00,Group D,FIFA World Cup Stadium,Gelsenkirchen,1,MICHEL Lubos (SVK),Roman SLYSKO (SVK),Germany,147,32,64,Italy
+2006,21 Jun 2006 - 21:00,Group C,FIFA World Cup Stadium,Frankfurt,0,MEDINA CANTALEJO Luis (ESP),GIRALDEZ CARRASCO Victoriano (ESP),Germany,147,32,64,Italy
+2006,21 Jun 2006 - 21:00,Group C,FIFA World Cup Stadium,Munich,2,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),Germany,147,32,64,Italy
+2006,22 Jun 2006 - 16:00,Group E,FIFA World Cup Stadium,Hamburg,1,ARCHUNDIA Benito (MEX),RAMIREZ Jose (MEX),Germany,147,32,64,Italy
+2006,22 Jun 2006 - 16:00,Group E,Franken-Stadion,Nuremberg,MERK Markus (GER),SCHRAER Christian (GER),SALVER Jan-Hendrik (GER),Germany,147,32,64,Italy
+2006,22 Jun 2006 - 21:00,Group F,FIFA World Cup Stadium,Dortmund,1,POULAT Eric (FRA),DAGORNE Lionel (FRA),Germany,147,32,64,Italy
+2006,22 Jun 2006 - 21:00,Group F,Gottlieb-Daimler-Stadion,Stuttgart,POLL Graham (ENG),SHARP Philip (ENG),TURNER Glenn (ENG),Germany,147,32,64,Italy
+2006,23 Jun 2006 - 16:00,Group H,Olympiastadion,Berlin,AMARILLA Carlos (PAR),ANDINO Amelio (PAR),BERNAL Manuel (PAR),Germany,147,32,64,Italy
+2006,23 Jun 2006 - 16:00,Group H,Fritz-Walter-Stadion,Kaiserslautern,CODJIA Coffi (BEN),NTAGUNGIRA Celestin (RWA),ADERODJOU Aboudou (BEN),Germany,147,32,64,Italy
+2006,23 Jun 2006 - 21:00,Group G,FIFA World Cup Stadium,Cologne,0,LARRIONDA Jorge (URU),RIAL Walter (URU),Germany,147,32,64,Italy
+2006,23 Jun 2006 - 21:00,Group G,FIFA World Cup Stadium,Hanover,0,ELIZONDO Horacio (ARG),GARCIA Dario (ARG),Germany,147,32,64,Italy
+2006,24 Jun 2006 - 17:00,Round of 16,FIFA World Cup Stadium,Munich,0,SIMON Carlos (BRA),TAVARES Aristeu (BRA),Germany,147,32,64,Italy
+2006,24 Jun 2006 - 21:00,Round of 16,Zentralstadion,Leipzig,BUSACCA Massimo (SUI),BURAGINA Francesco (SUI),ARNET Matthias (SUI),Germany,147,32,64,Italy
+2006,25 Jun 2006 - 17:00,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),Germany,147,32,64,Italy
+2006,25 Jun 2006 - 21:00,Round of 16,Franken-Stadion,Nuremberg,IVANOV Valentin (RUS),GOLUBEV Nikolai (RUS),VOLNIN Evgueni (RUS),Germany,147,32,64,Italy
+2006,26 Jun 2006 - 17:00,Round of 16,Fritz-Walter-Stadion,Kaiserslautern,MEDINA CANTALEJO Luis (ESP),GIRALDEZ CARRASCO Victoriano (ESP),MEDINA HERNANDEZ Pedro (ESP),Germany,147,32,64,Italy
+2006,26 Jun 2006 - 21:00,Round of 16,FIFA World Cup Stadium,Cologne,0,ARCHUNDIA Benito (MEX),RAMIREZ Jose (MEX),Germany,147,32,64,Italy
+2006,27 Jun 2006 - 17:00,Round of 16,FIFA World Cup Stadium,Dortmund,0,MICHEL Lubos (SVK),Roman SLYSKO (SVK),Germany,147,32,64,Italy
+2006,27 Jun 2006 - 21:00,Round of 16,FIFA World Cup Stadium,Hanover,1,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),Germany,147,32,64,Italy
+2006,30 Jun 2006 - 17:00,Quarter-finals,Olympiastadion,Berlin,MICHEL Lubos (SVK),Roman SLYSKO (SVK),BALKO Martin (SVK),Germany,147,32,64,Italy
+2006,30 Jun 2006 - 21:00,Quarter-finals,FIFA World Cup Stadium,Hamburg,0,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),Germany,147,32,64,Italy
+2006,01 Jul 2006 - 17:00,Quarter-finals,FIFA World Cup Stadium,Gelsenkirchen,0,ELIZONDO Horacio (ARG),GARCIA Dario (ARG),Germany,147,32,64,Italy
+2006,01 Jul 2006 - 21:00,Quarter-finals,FIFA World Cup Stadium,Frankfurt,0,MEDINA CANTALEJO Luis (ESP),GIRALDEZ CARRASCO Victoriano (ESP),Germany,147,32,64,Italy
+2006,04 Jul 2006 - 21:00,Semi-finals,FIFA World Cup Stadium,Dortmund,0,ARCHUNDIA Benito (MEX),RAMIREZ Jose (MEX),Germany,147,32,64,Italy
+2006,05 Jul 2006 - 21:00,Semi-finals,FIFA World Cup Stadium,Munich,1,LARRIONDA Jorge (URU),RIAL Walter (URU),Germany,147,32,64,Italy
+2006,08 Jul 2006 - 21:00,Third place,Gottlieb-Daimler-Stadion,Stuttgart,KAMIKAWA Toru (JPN),HIROSHIMA Yoshikazu (JPN),KIM Dae Young (KOR),Germany,147,32,64,Italy
+2006,09 Jul 2006 - 20:00,Final,Olympiastadion,Berlin,ELIZONDO Horacio (ARG),GARCIA Dario (ARG),OTERO Rodolfo (ARG),Germany,147,32,64,Italy
+2010,11 Jun 2010 - 16:00,Group A,Soccer City Stadium,Johannesburg,Ravshan IRMATOV (UZB),ILYASOV Rafael (UZB),KOCHKAROV Bakhadyr (KGZ),South Africa,145,32,64,Spain
+2010,11 Jun 2010 - 20:30,Group A,Cape Town Stadium,Cape Town,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),JEONG Hae Sang (KOR),South Africa,145,32,64,Spain
+2010,12 Jun 2010 - 13:30,Group B,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,HESTER Michael (NZL),HINTZ Jan Hendrik (NZL),MAKASINI Tevita (TGA),South Africa,145,32,64,Spain
+2010,12 Jun 2010 - 16:00,Group B,Ellis Park Stadium,Johannesburg,Wolfgang STARK (GER),SALVER Jan-Hendrik (GER),PICKEL Mike (GER),South Africa,145,32,64,Spain
+2010,12 Jun 2010 - 20:30,Group C,Royal Bafokeng Sports Palace,Phokeng,SIMON Carlos (BRA),HAUSMANN Altemir (BRA),BRAATZ Roberto (BRA),South Africa,145,32,64,Spain
+2010,13 Jun 2010 - 13:30,Group C,Peter Mokaba Stadium,Polokwane,BATRES Carlos (GUA),LEAL Leonel (CRC),PASTRANA Carlos (HON),South Africa,145,32,64,Spain
+2010,13 Jun 2010 - 16:00,Group D,Loftus Versfeld Stadium,Tshwane/Pretoria,BALDASSI Hector (ARG),CASAS Ricardo (ARG),MAIDANA Hernan (ARG),South Africa,145,32,64,Spain
+2010,13 Jun 2010 - 20:30,Group D,Durban Stadium,Durban,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),MORIN Alberto (MEX),South Africa,145,32,64,Spain
+2010,14 Jun 2010 - 13:30,Group E,Soccer City Stadium,Johannesburg,St�phane LANNOY (FRA),DANSAULT Eric (FRA),UGO Laurent (FRA),South Africa,145,32,64,Spain
+2010,14 Jun 2010 - 16:00,Group E,Free State Stadium,Mangaung/Bloemfontein,Oleg�rio BENQUEREN�A (POR),CARDINAL Jose (POR),MIRANDA Bertino (POR),South Africa,145,32,64,Spain
+2010,14 Jun 2010 - 20:30,Group F,Cape Town Stadium,Cape Town,ARCHUNDIA Benito (MEX),VERGARA Hector (CAN),TORRENTERA Marvin (MEX),South Africa,145,32,64,Spain
+2010,15 Jun 2010 - 13:30,Group F,Royal Bafokeng Sports Palace,Phokeng,DAMON Jerome (RSA),NTAGUNGIRA Celestin (RWA),MOLEFE Enock (RSA),South Africa,145,32,64,Spain
+2010,15 Jun 2010 - 16:00,Group G,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),South Africa,145,32,64,Spain
+2010,15 Jun 2010 - 20:30,Group G,Ellis Park Stadium,Johannesburg,KASSAI Viktor (HUN),EROS Gabor (HUN),VAMOS Tibor (HUN),South Africa,145,32,64,Spain
+2010,16 Jun 2010 - 13:30,Group H,Mbombela Stadium,Nelspruit,MAILLET Eddy (SEY),MENKOUANDE Evarist (CMR),HASSANI Bechir (TUN),South Africa,145,32,64,Spain
+2010,16 Jun 2010 - 16:00,Group H,Durban Stadium,Durban,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),South Africa,145,32,64,Spain
+2010,16 Jun 2010 - 20:30,Group A,Loftus Versfeld Stadium,Tshwane/Pretoria,BUSACCA Massimo (SUI),ARNET Matthias (SUI),BURAGINA Francesco (SUI),South Africa,145,32,64,Spain
+2010,17 Jun 2010 - 13:30,Group B,Soccer City Stadium,Johannesburg,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),South Africa,145,32,64,Spain
+2010,17 Jun 2010 - 16:00,Group B,Free State Stadium,Mangaung/Bloemfontein,RUIZ Oscar (COL),GONZALEZ Abraham (COL),CLAVIJO Humberto (COL),South Africa,145,32,64,Spain
+2010,17 Jun 2010 - 20:30,Group A,Peter Mokaba Stadium,Polokwane,AL GHAMDI Khalil (KSA),KAMRANIFAR Hassan (IRN),AL MARZOUQI Saleh (UAE),South Africa,145,32,64,Spain
+2010,18 Jun 2010 - 13:30,Group D,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,Alberto UNDIANO MALLENCO (ESP),MARTINEZ Fermin (ESP),YUSTE Juan (ESP),South Africa,145,32,64,Spain
+2010,18 Jun 2010 - 16:00,Group C,Ellis Park Stadium,Johannesburg,Koman COULIBALY (MLI),ACHIK Redouane (MAR),MANUEL CANDIDO Inacio (ANG),South Africa,145,32,64,Spain
+2010,18 Jun 2010 - 20:30,Group C,Cape Town Stadium,Cape Town,Ravshan IRMATOV (UZB),ILYASOV Rafael (UZB),KOCHKAROV Bakhadyr (KGZ),South Africa,145,32,64,Spain
+2010,19 Jun 2010 - 13:30,Group E,Durban Stadium,Durban,BALDASSI Hector (ARG),CASAS Ricardo (ARG),MAIDANA Hernan (ARG),South Africa,145,32,64,Spain
+2010,19 Jun 2010 - 16:00,Group D,Royal Bafokeng Sports Palace,Phokeng,ROSETTI Roberto (ITA),CALCAGNO Paolo (ITA),AYROLDI Stefano (ITA),South Africa,145,32,64,Spain
+2010,19 Jun 2010 - 20:30,Group E,Loftus Versfeld Stadium,Tshwane/Pretoria,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),South Africa,145,32,64,Spain
+2010,20 Jun 2010 - 13:30,Group F,Free State Stadium,Mangaung/Bloemfontein,MAILLET Eddy (SEY),MENKOUANDE Evarist (CMR),HASSANI Bechir (TUN),South Africa,145,32,64,Spain
+2010,20 Jun 2010 - 16:00,Group F,Mbombela Stadium,Nelspruit,BATRES Carlos (GUA),LEAL Leonel (CRC),PASTRANA Carlos (HON),South Africa,145,32,64,Spain
+2010,20 Jun 2010 - 20:30,Group G,Soccer City Stadium,Johannesburg,St�phane LANNOY (FRA),DANSAULT Eric (FRA),UGO Laurent (FRA),South Africa,145,32,64,Spain
+2010,21 Jun 2010 - 13:30,Group G,Cape Town Stadium,Cape Town,POZO Pablo (CHI),BASUALTO Patricio (CHI),MONDRIA Francisco (CHI),South Africa,145,32,64,Spain
+2010,21 Jun 2010 - 16:00,Group H,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,AL GHAMDI Khalil (KSA),KAMRANIFAR Hassan (IRN),AL MARZOUQI Saleh (UAE),South Africa,145,32,64,Spain
+2010,21 Jun 2010 - 20:30,Group H,Ellis Park Stadium,Johannesburg,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),JEONG Hae Sang (KOR),South Africa,145,32,64,Spain
+2010,22 Jun 2010 - 16:00,Group A,Royal Bafokeng Sports Palace,Phokeng,KASSAI Viktor (HUN),EROS Gabor (HUN),VAMOS Tibor (HUN),South Africa,145,32,64,Spain
+2010,22 Jun 2010 - 16:00,Group A,Free State Stadium,Mangaung/Bloemfontein,RUIZ Oscar (COL),GONZALEZ Abraham (COL),CLAVIJO Humberto (COL),South Africa,145,32,64,Spain
+2010,22 Jun 2010 - 20:30,Group B,Durban Stadium,Durban,Oleg�rio BENQUEREN�A (POR),CARDINAL Jose (POR),MIRANDA Bertino (POR),South Africa,145,32,64,Spain
+2010,22 Jun 2010 - 20:30,Group B,Peter Mokaba Stadium,Polokwane,Ravshan IRMATOV (UZB),ILYASOV Rafael (UZB),KOCHKAROV Bakhadyr (KGZ),South Africa,145,32,64,Spain
+2010,23 Jun 2010 - 16:00,Group C,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,Wolfgang STARK (GER),SALVER Jan-Hendrik (GER),PICKEL Mike (GER),South Africa,145,32,64,Spain
+2010,23 Jun 2010 - 16:00,Group C,Loftus Versfeld Stadium,Tshwane/Pretoria,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),South Africa,145,32,64,Spain
+2010,23 Jun 2010 - 20:30,Group D,Soccer City Stadium,Johannesburg,SIMON Carlos (BRA),HAUSMANN Altemir (BRA),BRAATZ Roberto (BRA),South Africa,145,32,64,Spain
+2010,23 Jun 2010 - 20:30,Group D,Mbombela Stadium,Nelspruit,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),South Africa,145,32,64,Spain
+2010,24 Jun 2010 - 16:00,Group F,Ellis Park Stadium,Johannesburg,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),South Africa,145,32,64,Spain
+2010,24 Jun 2010 - 16:00,Group F,Peter Mokaba Stadium,Polokwane,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),JEONG Hae Sang (KOR),South Africa,145,32,64,Spain
+2010,24 Jun 2010 - 20:30,Group E,Royal Bafokeng Sports Palace,Phokeng,DAMON Jerome (RSA),NTAGUNGIRA Celestin (RWA),MOLEFE Enock (RSA),South Africa,145,32,64,Spain
+2010,24 Jun 2010 - 20:30,Group E,Cape Town Stadium,Cape Town,POZO Pablo (CHI),BASUALTO Patricio (CHI),MONDRIA Francisco (CHI),South Africa,145,32,64,Spain
+2010,25 Jun 2010 - 16:00,Group G,Durban Stadium,Durban,ARCHUNDIA Benito (MEX),VERGARA Hector (CAN),TORRENTERA Marvin (MEX),South Africa,145,32,64,Spain
+2010,25 Jun 2010 - 16:00,Group G,Mbombela Stadium,Nelspruit,Alberto UNDIANO MALLENCO (ESP),MARTINEZ Fermin (ESP),YUSTE Juan (ESP),South Africa,145,32,64,Spain
+2010,25 Jun 2010 - 20:30,Group H,Loftus Versfeld Stadium,Tshwane/Pretoria,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),MORIN Alberto (MEX),South Africa,145,32,64,Spain
+2010,25 Jun 2010 - 20:30,Group H,Free State Stadium,Mangaung/Bloemfontein,BALDASSI Hector (ARG),CASAS Ricardo (ARG),MAIDANA Hernan (ARG),South Africa,145,32,64,Spain
+2010,26 Jun 2010 - 16:00,Round of 16,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,Wolfgang STARK (GER),SALVER Jan-Hendrik (GER),PICKEL Mike (GER),South Africa,145,32,64,Spain
+2010,26 Jun 2010 - 20:30,Round of 16,Royal Bafokeng Sports Palace,Phokeng,KASSAI Viktor (HUN),EROS Gabor (HUN),VAMOS Tibor (HUN),South Africa,145,32,64,Spain
+2010,27 Jun 2010 - 16:00,Round of 16,Free State Stadium,Mangaung/Bloemfontein,LARRIONDA Jorge (URU),FANDINO Pablo (URU),ESPINOSA Mauricio (URU),South Africa,145,32,64,Spain
+2010,27 Jun 2010 - 20:30,Round of 16,Soccer City Stadium,Johannesburg,ROSETTI Roberto (ITA),CALCAGNO Paolo (ITA),AYROLDI Stefano (ITA),South Africa,145,32,64,Spain
+2010,28 Jun 2010 - 16:00,Round of 16,Durban Stadium,Durban,Alberto UNDIANO MALLENCO (ESP),MARTINEZ Fermin (ESP),YUSTE Juan (ESP),South Africa,145,32,64,Spain
+2010,28 Jun 2010 - 20:30,Round of 16,Ellis Park Stadium,Johannesburg,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),South Africa,145,32,64,Spain
+2010,29 Jun 2010 - 16:00,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria,DE BLEECKERE Frank (BEL),HERMANS Peter (BEL),VROMANS Walter (BEL),South Africa,145,32,64,Spain
+2010,29 Jun 2010 - 20:30,Round of 16,Cape Town Stadium,Cape Town,BALDASSI Hector (ARG),CASAS Ricardo (ARG),MAIDANA Hernan (ARG),South Africa,145,32,64,Spain
+2010,02 Jul 2010 - 16:00,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),JEONG Hae Sang (KOR),South Africa,145,32,64,Spain
+2010,02 Jul 2010 - 20:30,Quarter-finals,Soccer City Stadium,Johannesburg,Oleg�rio BENQUEREN�A (POR),CARDINAL Jose (POR),MIRANDA Bertino (POR),South Africa,145,32,64,Spain
+2010,03 Jul 2010 - 16:00,Quarter-finals,Cape Town Stadium,Cape Town,Ravshan IRMATOV (UZB),ILYASOV Rafael (UZB),KOCHKAROV Bakhadyr (KGZ),South Africa,145,32,64,Spain
+2010,03 Jul 2010 - 20:30,Quarter-finals,Ellis Park Stadium,Johannesburg,BATRES Carlos (GUA),LEAL Leonel (CRC),PASTRANA Carlos (HON),South Africa,145,32,64,Spain
+2010,06 Jul 2010 - 20:30,Semi-finals,Cape Town Stadium,Cape Town,Ravshan IRMATOV (UZB),ILYASOV Rafael (UZB),KOCHKAROV Bakhadyr (KGZ),South Africa,145,32,64,Spain
+2010,07 Jul 2010 - 20:30,Semi-finals,Durban Stadium,Durban,KASSAI Viktor (HUN),EROS Gabor (HUN),VAMOS Tibor (HUN),South Africa,145,32,64,Spain
+2010,10 Jul 2010 - 20:30,Match for third place,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth,ARCHUNDIA Benito (MEX),VERGARA Hector (CAN),TORRENTERA Marvin (MEX),South Africa,145,32,64,Spain
+2010,11 Jul 2010 - 20:30,Final,Soccer City Stadium,Johannesburg,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),South Africa,145,32,64,Spain
+2014,12 Jun 2014 - 17:00,Group A,Arena de Sao Paulo,Sao Paulo,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),NAGI Toshiyuki (JPN),Brazil,171,32,64,Germany
+2014,13 Jun 2014 - 13:00,Group A,Estadio das Dunas,Natal,ROLDAN Wilmar (COL),CLAVIJO Humberto (COL),DIAZ Eduardo (COL),Brazil,171,32,64,Germany
+2014,13 Jun 2014 - 16:00,Group B,Arena Fonte Nova,Salvador,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),Brazil,171,32,64,Germany
+2014,13 Jun 2014 - 18:00,Group B,Arena Pantanal,Cuiaba,Noumandiez DOUE (CIV),YEO Songuifolo (CIV),BIRUMUSHAHU Jean Claude (BDI),Brazil,171,32,64,Germany
+2014,14 Jun 2014 - 13:00,Group C,Estadio Mineirao,Belo Horizonte,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),Brazil,171,32,64,Germany
+2014,14 Jun 2014 - 16:00,Group D,Estadio Castelao,Fortaleza,BRYCH Felix (GER),BORSCH Mark (GER),LUPP Stefan (GER),Brazil,171,32,64,Germany
+2014,14 Jun 2014 - 18:00,Group D,Arena Amazonia,Manaus,Bj�rn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),Brazil,171,32,64,Germany
+2014,14 Jun 2014 - 22:00,Group C,Arena Pernambuco,Recife,OSSES Enrique (CHI),ASTROZA Carlos (CHI),ROMAN Sergio (CHI),Brazil,171,32,64,Germany
+2014,15 Jun 2014 - 13:00,Group E,Estadio Nacional,Brasilia,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),Brazil,171,32,64,Germany
+2014,15 Jun 2014 - 16:00,Group E,Estadio Beira-Rio,Porto Alegre,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),Brazil,171,32,64,Germany
+2014,15 Jun 2014 - 19:00,Group F,Estadio do Maracana,Rio De Janeiro,AGUILAR Joel (SLV),TORRES William (SLV),ZUMBA Juan (SLV),Brazil,171,32,64,Germany
+2014,16 Jun 2014 - 13:00,Group G,Arena Fonte Nova,Salvador,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),Brazil,171,32,64,Germany
+2014,16 Jun 2014 - 16:00,Group F,Arena da Baixada,Curitiba,VERA Carlos (ECU),LESCANO Christian (ECU),ROMERO Byron (ECU),Brazil,171,32,64,Germany
+2014,16 Jun 2014 - 19:00,Group G,Estadio das Dunas,Natal,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),Brazil,171,32,64,Germany
+2014,17 Jun 2014 - 13:00,Group H,Estadio Mineirao,Belo Horizonte,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),Brazil,171,32,64,Germany
+2014,17 Jun 2014 - 16:00,Group A,Estadio Castelao,Fortaleza,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),Brazil,171,32,64,Germany
+2014,17 Jun 2014 - 18:00,Group H,Arena Pantanal,Cuiaba,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),Brazil,171,32,64,Germany
+2014,18 Jun 2014 - 13:00,Group B,Estadio Beira-Rio,Porto Alegre,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),Brazil,171,32,64,Germany
+2014,18 Jun 2014 - 16:00,Group B,Estadio do Maracana,Rio De Janeiro,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),Brazil,171,32,64,Germany
+2014,18 Jun 2014 - 18:00,Group A,Arena Amazonia,Manaus,PROENCA Pedro (POR),MIRANDA Bertino (POR),TRIGO Jose (POR),Brazil,171,32,64,Germany
+2014,19 Jun 2014 - 13:00,Group C,Estadio Nacional,Brasilia,WEBB Howard (ENG),MULLARKEY Michael (ENG),Darren CANN (ENG),Brazil,171,32,64,Germany
+2014,19 Jun 2014 - 16:00,Group D,Arena de Sao Paulo,Sao Paulo,Carlos VELASCO CARBALLO (ESP),ALONSO FERNANDEZ Roberto (ESP),YUSTE Juan (ESP),Brazil,171,32,64,Germany
+2014,19 Jun 2014 - 19:00,Group C,Estadio das Dunas,Natal,AGUILAR Joel (SLV),TORRES William (SLV),ZUMBA Juan (SLV),Brazil,171,32,64,Germany
+2014,20 Jun 2014 - 13:00,Group D,Arena Pernambuco,Recife,OSSES Enrique (CHI),ASTROZA Carlos (CHI),ROMAN Sergio (CHI),Brazil,171,32,64,Germany
+2014,20 Jun 2014 - 16:00,Group E,Arena Fonte Nova,Salvador,Bj�rn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),Brazil,171,32,64,Germany
+2014,20 Jun 2014 - 19:00,Group E,Arena da Baixada,Curitiba,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),Brazil,171,32,64,Germany
+2014,21 Jun 2014 - 13:00,Group F,Estadio Mineirao,Belo Horizonte,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),Brazil,171,32,64,Germany
+2014,21 Jun 2014 - 16:00,Group G,Estadio Castelao,Fortaleza,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),Brazil,171,32,64,Germany
+2014,21 Jun 2014 - 18:00,Group F,Arena Pantanal,Cuiaba,Peter O'LEARY (NZL),HINTZ Jan Hendrik (NZL),RULE Mark (NZL),Brazil,171,32,64,Germany
+2014,22 Jun 2014 - 13:00,Group H,Estadio do Maracana,Rio De Janeiro,BRYCH Felix (GER),BORSCH Mark (GER),LUPP Stefan (GER),Brazil,171,32,64,Germany
+2014,22 Jun 2014 - 16:00,Group H,Estadio Beira-Rio,Porto Alegre,ROLDAN Wilmar (COL),DIAZ Eduardo (COL),LESCANO Christian (ECU),Brazil,171,32,64,Germany
+2014,22 Jun 2014 - 18:00,Group G,Arena Amazonia,Manaus,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),Brazil,171,32,64,Germany
+2014,23 Jun 2014 - 13:00,Group B,Arena da Baixada,Curitiba,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),SALEH Ebrahim (BHR),Brazil,171,32,64,Germany
+2014,23 Jun 2014 - 13:00,Group B,Arena de Sao Paulo,Sao Paulo,Bakary GASSAMA (GAM),MENKOUANDE Evarist (CMR),KABANDA Felicien (RWA),Brazil,171,32,64,Germany
+2014,23 Jun 2014 - 17:00,Group A,Estadio Nacional,Brasilia,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),Brazil,171,32,64,Germany
+2014,23 Jun 2014 - 17:00,Group A,Arena Pernambuco,Recife,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),Brazil,171,32,64,Germany
+2014,24 Jun 2014 - 13:00,Group D,Estadio das Dunas,Natal,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),Brazil,171,32,64,Germany
+2014,24 Jun 2014 - 13:00,Group D,Estadio Mineirao,Belo Horizonte,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),Brazil,171,32,64,Germany
+2014,24 Jun 2014 - 16:00,Group C,Arena Pantanal,Cuiaba,PROENCA Pedro (POR),MIRANDA Bertino (POR),TRIGO Jose (POR),Brazil,171,32,64,Germany
+2014,24 Jun 2014 - 17:00,Group C,Estadio Castelao,Fortaleza,VERA Carlos (ECU),LESCANO Christian (ECU),ROMERO Byron (ECU),Brazil,171,32,64,Germany
+2014,25 Jun 2014 - 13:00,Group F,Estadio Beira-Rio,Porto Alegre,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),Brazil,171,32,64,Germany
+2014,25 Jun 2014 - 13:00,Group F,Arena Fonte Nova,Salvador,Carlos VELASCO CARBALLO (ESP),ALONSO FERNANDEZ Roberto (ESP),YUSTE Juan (ESP),Brazil,171,32,64,Germany
+2014,25 Jun 2014 - 16:00,Group E,Arena Amazonia,Manaus,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),Brazil,171,32,64,Germany
+2014,25 Jun 2014 - 17:00,Group E,Estadio do Maracana,Rio De Janeiro,Noumandiez DOUE (CIV),YEO Songuifolo (CIV),BIRUMUSHAHU Jean Claude (BDI),Brazil,171,32,64,Germany
+2014,26 Jun 2014 - 13:00,Group G,Arena Pernambuco,Recife,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),Brazil,171,32,64,Germany
+2014,26 Jun 2014 - 13:00,Group G,Estadio Nacional,Brasilia,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),SALEH Ebrahim (BHR),Brazil,171,32,64,Germany
+2014,26 Jun 2014 - 17:00,Group H,Arena de Sao Paulo,Sao Paulo,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),Brazil,171,32,64,Germany
+2014,26 Jun 2014 - 17:00,Group H,Arena da Baixada,Curitiba,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),Brazil,171,32,64,Germany
+2014,28 Jun 2014 - 13:00,Round of 16,Estadio Mineirao,Belo Horizonte,WEBB Howard (ENG),MULLARKEY Michael (ENG),Darren CANN (ENG),Brazil,171,32,64,Germany
+2014,28 Jun 2014 - 17:00,Round of 16,Estadio do Maracana,Rio De Janeiro,Bj�rn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),Brazil,171,32,64,Germany
+2014,30 Jun 2014 - 13:00,Round of 16,Estadio Nacional,Brasilia,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),Brazil,171,32,64,Germany
+2014,30 Jun 2014 - 17:00,Round of 16,Estadio Beira-Rio,Porto Alegre,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),Brazil,171,32,64,Germany
+2014,04 Jul 2014 - 17:00,Quarter-finals,Estadio Castelao,Fortaleza,Carlos VELASCO CARBALLO (ESP),ALONSO FERNANDEZ Roberto (ESP),YUSTE Juan (ESP),Brazil,171,32,64,Germany
+2014,04 Jul 2014 - 13:00,Quarter-finals,Estadio do Maracana,Rio De Janeiro,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),Brazil,171,32,64,Germany
+2014,08 Jul 2014 - 17:00,Semi-finals,Estadio Mineirao,Belo Horizonte,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),Brazil,171,32,64,Germany
+2014,12 Jul 2014 - 17:00,Play-off for third place,Estadio Nacional,Brasilia,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),Brazil,171,32,64,Germany
+2014,13 Jul 2014 - 16:00,Final,Estadio do Maracana,Rio De Janeiro,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),Brazil,171,32,64,Germany
+2014,09 Jul 2014 - 17:00,Semi-finals,Arena de Sao Paulo,Sao Paulo,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),Brazil,171,32,64,Germany
+2014,05 Jul 2014 - 17:00,Quarter-finals,Arena Fonte Nova,Salvador,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),Brazil,171,32,64,Germany
+2014,05 Jul 2014 - 13:00,Quarter-finals,Estadio Nacional,Brasilia,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),Brazil,171,32,64,Germany
+2014,29 Jun 2014 - 13:00,Round of 16,Estadio Castelao,Fortaleza,PROENCA Pedro (POR),MIRANDA Bertino (POR),TRIGO Jose (POR),Brazil,171,32,64,Germany
+2014,29 Jun 2014 - 17:00,Round of 16,Arena Pernambuco,Recife,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),Brazil,171,32,64,Germany
+2014,01 Jul 2014 - 13:00,Round of 16,Arena de Sao Paulo,Sao Paulo,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),Brazil,171,32,64,Germany
+2014,01 Jul 2014 - 17:00,Round of 16,Arena Fonte Nova,Salvador,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),Brazil,171,32,64,Germany
+2014,28 Jun 2014 - 13:00,Round of 16,Estadio Mineirao,Belo Horizonte,WEBB Howard (ENG),MULLARKEY Michael (ENG),Darren CANN (ENG),Brazil,171,32,64,Germany
+2014,28 Jun 2014 - 17:00,Round of 16,Estadio do Maracana,Rio De Janeiro,Bj�rn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),Brazil,171,32,64,Germany
+2014,29 Jun 2014 - 13:00,Round of 16,Estadio Castelao,Fortaleza,PROENCA Pedro (POR),MIRANDA Bertino (POR),TRIGO Jose (POR),Brazil,171,32,64,Germany
+2014,29 Jun 2014 - 17:00,Round of 16,Arena Pernambuco,Recife,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),Brazil,171,32,64,Germany
+2014,30 Jun 2014 - 13:00,Round of 16,Estadio Nacional,Brasilia,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),Brazil,171,32,64,Germany
+2014,30 Jun 2014 - 17:00,Round of 16,Estadio Beira-Rio,Porto Alegre,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),Brazil,171,32,64,Germany
+2014,01 Jul 2014 - 13:00,Round of 16,Arena de Sao Paulo,Sao Paulo,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),Brazil,171,32,64,Germany
+2014,01 Jul 2014 - 17:00,Round of 16,Arena Fonte Nova,Salvador,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),Brazil,171,32,64,Germany
+2014,04 Jul 2014 - 13:00,Quarter-finals,Estadio do Maracana,Rio De Janeiro,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),Brazil,171,32,64,Germany
+2014,04 Jul 2014 - 17:00,Quarter-finals,Estadio Castelao,Fortaleza,Carlos VELASCO CARBALLO (ESP),ALONSO FERNANDEZ Roberto (ESP),YUSTE Juan (ESP),Brazil,171,32,64,Germany
+2014,05 Jul 2014 - 13:00,Quarter-finals,Estadio Nacional,Brasilia,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),Brazil,171,32,64,Germany
+2014,05 Jul 2014 - 17:00,Quarter-finals,Arena Fonte Nova,Salvador,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),Brazil,171,32,64,Germany
+2014,08 Jul 2014 - 17:00,Semi-finals,Estadio Mineirao,Belo Horizonte,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),Brazil,171,32,64,Germany
+2014,09 Jul 2014 - 17:00,Semi-finals,Arena de Sao Paulo,Sao Paulo,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),Brazil,171,32,64,Germany
+2014,12 Jul 2014 - 17:00,Play-off for third place,Estadio Nacional,Brasilia,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),Brazil,171,32,64,Germany
+2014,13 Jul 2014 - 16:00,Final,Estadio do Maracana,Rio De Janeiro,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),Brazil,171,32,64,Germany
+2018,14 Jun 2018 - 18:00,Group A,Luzhniki Stadium,Moscow,NÉSTOR Pitana (Argentina),,,Russia,169,32,64,France
+2018,15 Jun 2018 - 17:00,Group A,Central Stadium,Yekaterinburg,BJÖRN Kuipers (Netherlands),,,Russia,169,32,64,France
+2018,15 Jun 2018 - 18:00,Group B,Krestovsky Stadium,Saint Petersburg,CÜNEYT Çakır (Turkey),,,Russia,169,32,64,France
+2018,15 Jun 2018 - 21:00,Group B,Fisht Olympic Stadium,Sochi,GIANLUCA Rocchi (Italy),,,Russia,169,32,64,France
+2018,16 Jun 2018 - 13:00,Group C,Kazan Arena,Kazan,ANDRÉS Cunha (Uruguay),,,Russia,169,32,64,France
+2018,16 Jun 2018 - 16:00,Group D,Otkritie Arena,Moscow,SZYMON Marciniak (Poland),,,Russia,169,32,64,France
+2018,16 Jun 2018 - 19:00,Group C,Mordovia Arena,Saransk,BAKARY Gassama (Gambia),,,Russia,169,32,64,France
+2018,16 Jun 2018 - 21:00,Group D,Kaliningrad Stadium,Kaliningrad,SANDRO Ricci (Brazil),,,Russia,169,32,64,France
+2018,17 Jun 2018 - 16:00,Group E,Samara Arena,Samara,MALANG Diedhiou (Senegal),,,Russia,169,32,64,France
+2018,17 Jun 2018 - 18:00,Group F,Luzhniki Stadium,Moscow,ALIREZA Faghani (Iran),,,Russia,169,32,64,France
+2018,17 Jun 2018 - 21:00,Group E,Rostov Arena,Rostov-on-Don,CÉSAR ARTURO Ramos (Mexico),,,Russia,169,32,64,France
+2018,18 Jun 2018 - 15:00,Group F,Nizhny Novgorod Stadium,Nizhny Novgorod,JOEL Aguilar (El Salvador),,,Russia,169,32,64,France
+2018,18 Jun 2018 - 18:00,Group G,Fisht Olympic Stadium,Sochi,JANNY Sikazwe (Zambia),,,Russia,169,32,64,France
+2018,18 Jun 2018 - 21:00,Group G,Volgograd Arena,Volgograd,WILMAR Roldán (Colombia),,,Russia,169,32,64,France
+2018,19 Jun 2018 - 15:00,Group H,Mordovia Arena,Saransk,DAMIR Skomina (Slovenia),,,Russia,169,32,64,France
+2018,19 Jun 2018 - 18:00,Group H,Otkritie Arena,Moscow,NAWAF Shukralla (Bahrain),,,Russia,169,32,64,France
+2018,19 Jun 2018 - 21:00,Group A,Krestovsky Stadium,Saint Petersburg,ENRIQUE Cáceres (Paraguay),,,Russia,169,32,64,France
+2018,20 Jun 2018 - 15:00,Group B,Luzhniki Stadium,Moscow,MARK Geiger (United States),,,Russia,169,32,64,France
+2018,20 Jun 2018 - 18:00,Group A,Rostov Arena,Rostov-on-Don,CLÉMENT Turpin (France),,,Russia,169,32,64,France
+2018,20 Jun 2018 - 21:00,Group B,Kazan Arena,Kazan,ANDRÉS Cunha (Uruguay),,,Russia,169,32,64,France
+2018,21 Jun 2018 - 16:00,Group C,Samara Arena,Samara,ANTONIO Mateu Lahoz (Spain),,,Russia,169,32,64,France
+2018,21 Jun 2018 - 20:00,Group C,Central Stadium,Yekaterinburg,MOHAMMED ABDULLA Hassan Mohamed (United Arab Emirates),,,Russia,169,32,64,France
+2018,21 Jun 2018 - 21:00,Group D,Nizhny Novgorod Stadium,Nizhny Novgorod,RAVSHAN Irmatov (Uzbekistan),,,Russia,169,32,64,France
+2018,22 Jun 2018 - 15:00,Group E,Krestovsky Stadium,Saint Petersburg,BJÖRN Kuipers (Netherlands),,,Russia,169,32,64,France
+2018,22 Jun 2018 - 18:00,Group D,Volgograd Arena,Volgograd,MATTHEW Conger (New Zealand),,,Russia,169,32,64,France
+2018,22 Jun 2018 - 20:00,Group E,Kaliningrad Stadium,Kaliningrad,FELIX Brych (Germany),,,Russia,169,32,64,France
+2018,23 Jun 2018 - 15:00,Group G,Otkritie Arena,Moscow,JAIR Marrufo (United States),,,Russia,169,32,64,France
+2018,23 Jun 2018 - 18:00,Group F,Rostov Arena,Rostov-on-Don,MILORAD Mažić (Serbia),,,Russia,169,32,64,France
+2018,23 Jun 2018 - 21:00,Group F,Fisht Olympic Stadium,Sochi,SZYMON Marciniak (Poland),,,Russia,169,32,64,France
+2018,24 Jun 2018 - 15:00,Group G,Nizhny Novgorod Stadium,Nizhny Novgorod,GEHAD Grisha (Egypt),,,Russia,169,32,64,France
+2018,24 Jun 2018 - 20:00,Group H,Central Stadium,Yekaterinburg,GIANLUCA Rocchi (Italy),,,Russia,169,32,64,France
+2018,24 Jun 2018 - 21:00,Group H,Kazan Arena,Kazan,CÉSAR ARTURO Ramos (Mexico),,,Russia,169,32,64,France
+2018,25 Jun 2018 - 17:00,Group A,Volgograd Arena,Volgograd,WILMAR Roldán (Colombia),,,Russia,169,32,64,France
+2018,25 Jun 2018 - 18:00,Group A,Samara Arena,Samara,MALANG Diedhiou (Senegal),,,Russia,169,32,64,France
+2018,25 Jun 2018 - 20:00,Group B,Kaliningrad Stadium,Kaliningrad,RAVSHAN Irmatov (Uzbekistan),,,Russia,169,32,64,France
+2018,25 Jun 2018 - 21:00,Group B,Mordovia Arena,Saransk,ENRIQUE Cáceres (Paraguay),,,Russia,169,32,64,France
+2018,26 Jun 2018 - 17:00,Group C,Fisht Olympic Stadium,Sochi,SERGEI Karasev (Russia),,,Russia,169,32,64,France
+2018,26 Jun 2018 - 17:00,Group C,Luzhniki Stadium,Moscow,SANDRO Ricci (Brazil),,,Russia,169,32,64,France
+2018,26 Jun 2018 - 21:00,Group D,Rostov Arena,Rostov-on-Don,ANTONIO Mateu Lahoz (Spain),,,Russia,169,32,64,France
+2018,26 Jun 2018 - 21:00,Group D,Krestovsky Stadium,Saint Petersburg,CÜNEYT Çakır (Turkey),,,Russia,169,32,64,France
+2018,27 Jun 2018 - 17:00,Group F,Kazan Arena,Kazan,MARK Geiger (United States),,,Russia,169,32,64,France
+2018,27 Jun 2018 - 19:00,Group F,Central Stadium,Yekaterinburg,NÉSTOR Pitana (Argentina),,,Russia,169,32,64,France
+2018,27 Jun 2018 - 21:00,Group E,Otkritie Arena,Moscow,ALIREZA Faghani (Iran),,,Russia,169,32,64,France
+2018,27 Jun 2018 - 21:00,Group E,Nizhny Novgorod Stadium,Nizhny Novgorod,CLÉMENT Turpin (France),,,Russia,169,32,64,France
+2018,28 Jun 2018 - 17:00,Group H,Volgograd Arena,Volgograd,JANNY Sikazwe (Zambia),,,Russia,169,32,64,France
+2018,28 Jun 2018 - 18:00,Group H,Samara Arena,Samara,MILORAD Mažić (Serbia),,,Russia,169,32,64,France
+2018,28 Jun 2018 - 20:00,Group G,Kaliningrad Stadium,Kaliningrad,DAMIR Skomina (Slovenia),,,Russia,169,32,64,France
+2018,28 Jun 2018 - 21:00,Group G,Mordovia Arena,Saransk,NAWAF Shukralla (Bahrain),,,Russia,169,32,64,France
+2018,30 Jun 2018 - 17:00,Round of 16,Kazan Arena,Kazan,ALIREZA Faghani (Iran),,,Russia,169,32,64,France
+2018,30 Jun 2018 - 21:00,Round of 16,Fisht Olympic Stadium,Sochi,CÉSAR ARTURO Ramos (Mexico),,,Russia,169,32,64,France
+2018,01 Jul 2018 - 17:00,Round of 16,Luzhniki Stadium,Moscow,BJÖRN Kuipers (Netherlands),,,Russia,169,32,64,France
+2018,01 Jul 2018 - 21:00,Round of 16,Nizhny Novgorod Stadium,Nizhny Novgorod,NÉSTOR Pitana (Argentina),,,Russia,169,32,64,France
+2018,02 Jul 2018 - 18:00,Round of 16,Samara Arena,Samara,GIANLUCA Rocchi (Italy),,,Russia,169,32,64,France
+2018,02 Jul 2018 - 21:00,Round of 16,Rostov Arena,Rostov-on-Don,MALANG Diedhiou (Senegal),,,Russia,169,32,64,France
+2018,03 Jul 2018 - 17:00,Round of 16,Krestovsky Stadium,Saint Petersburg,DAMIR Skomina (Slovenia),,,Russia,169,32,64,France
+2018,03 Jul 2018 - 21:00,Round of 16,Otkritie Arena,Moscow,MARK Geiger (United States),,,Russia,169,32,64,France
+2018,06 Jul 2018 - 17:00,Quarter-finals,Nizhny Novgorod Stadium,Nizhny Novgorod,NÉSTOR Pitana (Argentina),,,Russia,169,32,64,France
+2018,06 Jul 2018 - 21:00,Quarter-finals,Kazan Arena,Kazan,MILORAD Mažić (Serbia),,,Russia,169,32,64,France
+2018,07 Jul 2018 - 18:00,Quarter-finals,Samara Arena,Samara,BJÖRN Kuipers (Netherlands),,,Russia,169,32,64,France
+2018,07 Jul 2018 - 21:00,Quarter-finals,Fisht Olympic Stadium,Sochi,SANDRO Ricci (Brazil),,,Russia,169,32,64,France
+2018,10 Jul 2018 - 21:00,Semi-finals,Krestovsky Stadium,Saint Petersburg,ANDRÉS Cunha (Uruguay),,,Russia,169,32,64,France
+2018,11 Jul 2018 - 21:00,Semi-finals,Luzhniki Stadium,Moscow,CÜNEYT Çakır (Turkey),,,Russia,169,32,64,France
+2018,14 Jul 2018 - 17:00,Play-off for third place,Krestovsky Stadium,Saint Petersburg,ALIREZA Faghani (Iran),,,Russia,169,32,64,France
+2018,15 Jul 2018 - 18:00,Final,Luzhniki Stadium,Moscow,NÉSTOR Pitana (Argentina),,,Russia,169,32,64,France
+2022,20 Nov 2022 - 19:00,Group A,Al Bayt Stadium,Al Khor,DANIELE Orsato (Italy),,,Qatar,172,32,64,Argentina
+2022,21 Nov 2022 - 16:00,Group B,Khalifa International Stadium,Al Rayyan,RAPHAEL Claus (Brazil),,,Qatar,172,32,64,Argentina
+2022,21 Nov 2022 - 19:00,Group A,Al Thumama Stadium,Doha,WILTON Sampaio (Brazil),,,Qatar,172,32,64,Argentina
+2022,21 Nov 2022 - 22:00,Group B,Ahmad bin Ali Stadium,Al Rayyan,ABDULRAHMAN Al-Jassim (Qatar),,,Qatar,172,32,64,Argentina
+2022,22 Nov 2022 - 13:00,Group C,Lusail Stadium,Lusail,SLAVKO Vinčić (Slovenia),,,Qatar,172,32,64,Argentina
+2022,22 Nov 2022 - 16:00,Group D,Education City Stadium,Al Rayyan,CÉSAR ARTURO Ramos (Mexico),,,Qatar,172,32,64,Argentina
+2022,22 Nov 2022 - 19:00,Group C,Stadium 974,Doha,CHRIS Beath (Australia),,,Qatar,172,32,64,Argentina
+2022,22 Nov 2022 - 22:00,Group D,Al Janoub Stadium,Al Wakrah,VICTOR Gomes (South Africa),,,Qatar,172,32,64,Argentina
+2022,23 Nov 2022 - 13:00,Group F,Al Bayt Stadium,Al Khor,FERNANDO Rapallini (Argentina),,,Qatar,172,32,64,Argentina
+2022,23 Nov 2022 - 16:00,Group E,Khalifa International Stadium,Al Rayyan,IVÁN Barton (El Salvador),,,Qatar,172,32,64,Argentina
+2022,23 Nov 2022 - 19:00,Group E,Al Thumama Stadium,Doha,MOHAMMED ABDULLA Hassan Mohamed (United Arab Emirates),,,Qatar,172,32,64,Argentina
+2022,23 Nov 2022 - 22:00,Group F,Ahmad bin Ali Stadium,Al Rayyan,JANNY Sikazwe (Zambia),,,Qatar,172,32,64,Argentina
+2022,24 Nov 2022 - 13:00,Group G,Al Janoub Stadium,Al Wakrah,FACUNDO Tello (Argentina),,,Qatar,172,32,64,Argentina
+2022,24 Nov 2022 - 16:00,Group H,Education City Stadium,Al Rayyan,CLÉMENT Turpin (France),,,Qatar,172,32,64,Argentina
+2022,24 Nov 2022 - 19:00,Group H,Stadium 974,Doha,ISMAIL Elfath (United States),,,Qatar,172,32,64,Argentina
+2022,24 Nov 2022 - 22:00,Group G,Lusail Stadium,Lusail,ALIREZA Faghani (Iran),,,Qatar,172,32,64,Argentina
+2022,25 Nov 2022 - 13:00,Group B,Ahmad bin Ali Stadium,Al Rayyan,MARIO Escobar (Guatemala),,,Qatar,172,32,64,Argentina
+2022,25 Nov 2022 - 16:00,Group A,Al Thumama Stadium,Doha,ANTONIO Mateu Lahoz (Spain),,,Qatar,172,32,64,Argentina
+2022,25 Nov 2022 - 19:00,Group A,Khalifa International Stadium,Al Rayyan,MUSTAPHA Ghorbal (Algeria),,,Qatar,172,32,64,Argentina
+2022,25 Nov 2022 - 22:00,Group B,Al Bayt Stadium,Al Khor,JESÚS Valenzuela (Venezuela),,,Qatar,172,32,64,Argentina
+2022,26 Nov 2022 - 13:00,Group D,Al Janoub Stadium,Al Wakrah,DANIEL Siebert (Germany),,,Qatar,172,32,64,Argentina
+2022,26 Nov 2022 - 16:00,Group C,Education City Stadium,Al Rayyan,WILTON Sampaio (Brazil),,,Qatar,172,32,64,Argentina
+2022,26 Nov 2022 - 19:00,Group D,Stadium 974,Doha,SZYMON Marciniak (Poland),,,Qatar,172,32,64,Argentina
+2022,26 Nov 2022 - 22:00,Group C,Lusail Stadium,Lusail,DANIELE Orsato (Italy),,,Qatar,172,32,64,Argentina
+2022,27 Nov 2022 - 13:00,Group E,Ahmad bin Ali Stadium,Al Rayyan,MICHAEL Oliver (England),,,Qatar,172,32,64,Argentina
+2022,27 Nov 2022 - 16:00,Group F,Al Thumama Stadium,Doha,CÉSAR ARTURO Ramos (Mexico),,,Qatar,172,32,64,Argentina
+2022,27 Nov 2022 - 19:00,Group F,Khalifa International Stadium,Al Rayyan,ANDRÉS Matonte (Uruguay),,,Qatar,172,32,64,Argentina
+2022,27 Nov 2022 - 22:00,Group E,Al Bayt Stadium,Al Khor,DANNY Makkelie (Netherlands),,,Qatar,172,32,64,Argentina
+2022,28 Nov 2022 - 13:00,Group G,Al Janoub Stadium,Al Wakrah,MOHAMMED ABDULLA Hassan Mohamed (United Arab Emirates),,,Qatar,172,32,64,Argentina
+2022,28 Nov 2022 - 16:00,Group H,Education City Stadium,Al Rayyan,ANTHONY Taylor (England),,,Qatar,172,32,64,Argentina
+2022,28 Nov 2022 - 19:00,Group G,Stadium 974,Doha,IVÁN Barton (El Salvador),,,Qatar,172,32,64,Argentina
+2022,28 Nov 2022 - 22:00,Group H,Lusail Stadium,Lusail,ALIREZA Faghani (Iran),,,Qatar,172,32,64,Argentina
+2022,29 Nov 2022 - 18:00,Group A,Khalifa International Stadium,Al Rayyan,CLÉMENT Turpin (France),,,Qatar,172,32,64,Argentina
+2022,29 Nov 2022 - 18:00,Group A,Al Bayt Stadium,Al Khor,BAKARY Gassama (Gambia),,,Qatar,172,32,64,Argentina
+2022,29 Nov 2022 - 22:00,Group B,Al Thumama Stadium,Doha,ANTONIO Mateu Lahoz (Spain),,,Qatar,172,32,64,Argentina
+2022,29 Nov 2022 - 22:00,Group B,Ahmad bin Ali Stadium,Al Rayyan,SLAVKO Vinčić (Slovenia),,,Qatar,172,32,64,Argentina
+2022,30 Nov 2022 - 18:00,Group D,Al Janoub Stadium,Al Wakrah,MUSTAPHA Ghorbal (Algeria),,,Qatar,172,32,64,Argentina
+2022,30 Nov 2022 - 18:00,Group D,Education City Stadium,Al Rayyan,MATTHEW Conger (New Zealand),,,Qatar,172,32,64,Argentina
+2022,30 Nov 2022 - 22:00,Group C,Stadium 974,Doha,DANNY Makkelie (Netherlands),,,Qatar,172,32,64,Argentina
+2022,30 Nov 2022 - 22:00,Group C,Lusail Stadium,Lusail,MICHAEL Oliver (England),,,Qatar,172,32,64,Argentina
+2022,01 Dec 2022 - 18:00,Group F,Al Thumama Stadium,Doha,RAPHAEL Claus (Brazil),,,Qatar,172,32,64,Argentina
+2022,01 Dec 2022 - 18:00,Group F,Ahmad bin Ali Stadium,Al Rayyan,ANTHONY Taylor (England),,,Qatar,172,32,64,Argentina
+2022,01 Dec 2022 - 22:00,Group E,Al Bayt Stadium,Al Khor,STÉPHANIE Frappart (France),,,Qatar,172,32,64,Argentina
+2022,01 Dec 2022 - 22:00,Group E,Khalifa International Stadium,Al Rayyan,VICTOR Gomes (South Africa),,,Qatar,172,32,64,Argentina
+2022,02 Dec 2022 - 18:00,Group H,Al Janoub Stadium,Al Wakrah,DANIEL Siebert (Germany),,,Qatar,172,32,64,Argentina
+2022,02 Dec 2022 - 18:00,Group H,Education City Stadium,Al Rayyan,FACUNDO Tello (Argentina),,,Qatar,172,32,64,Argentina
+2022,02 Dec 2022 - 22:00,Group G,Lusail Stadium,Lusail,ISMAIL Elfath (United States),,,Qatar,172,32,64,Argentina
+2022,02 Dec 2022 - 22:00,Group G,Stadium 974,Doha,FERNANDO Rapallini (Argentina),,,Qatar,172,32,64,Argentina
+2022,03 Dec 2022 - 18:00,Round of 16,Khalifa International Stadium,Al Rayyan,WILTON Sampaio (Brazil),,,Qatar,172,32,64,Argentina
+2022,03 Dec 2022 - 22:00,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,SZYMON Marciniak (Poland),,,Qatar,172,32,64,Argentina
+2022,04 Dec 2022 - 18:00,Round of 16,Al Thumama Stadium,Doha,JESÚS Valenzuela (Venezuela),,,Qatar,172,32,64,Argentina
+2022,04 Dec 2022 - 22:00,Round of 16,Al Bayt Stadium,Al Khor,IVÁN Barton (El Salvador),,,Qatar,172,32,64,Argentina
+2022,05 Dec 2022 - 18:00,Round of 16,Al Janoub Stadium,Al Wakrah,ISMAIL Elfath (United States),,,Qatar,172,32,64,Argentina
+2022,05 Dec 2022 - 22:00,Round of 16,Stadium 974,Doha,CLÉMENT Turpin (France),,,Qatar,172,32,64,Argentina
+2022,06 Dec 2022 - 18:00,Round of 16,Education City Stadium,Al Rayyan,FERNANDO Rapallini (Argentina),,,Qatar,172,32,64,Argentina
+2022,06 Dec 2022 - 22:00,Round of 16,Lusail Stadium,Lusail,CÉSAR ARTURO Ramos (Mexico),,,Qatar,172,32,64,Argentina
+2022,09 Dec 2022 - 18:00,Quarter-finals,Education City Stadium,Al Rayyan,MICHAEL Oliver (England),,,Qatar,172,32,64,Argentina
+2022,09 Dec 2022 - 22:00,Quarter-finals,Lusail Stadium,Lusail,ANTONIO Mateu Lahoz (Spain),,,Qatar,172,32,64,Argentina
+2022,10 Dec 2022 - 18:00,Quarter-finals,Al Thumama Stadium,Doha,FACUNDO Tello (Argentina),,,Qatar,172,32,64,Argentina
+2022,10 Dec 2022 - 22:00,Quarter-finals,Al Bayt Stadium,Al Khor,WILTON Sampaio (Brazil),,,Qatar,172,32,64,Argentina
+2022,13 Dec 2022 - 22:00,Semi-finals,Lusail Stadium,Lusail,DANIELE Orsato (Italy),,,Qatar,172,32,64,Argentina
+2022,14 Dec 2022 - 22:00,Semi-finals,Al Bayt Stadium,Al Khor,CÉSAR ARTURO Ramos (Mexico),,,Qatar,172,32,64,Argentina
+2022,17 Dec 2022 - 18:00,Play-off for third place,Khalifa International Stadium,Al Rayyan,ABDULRAHMAN Al-Jassim (Qatar),,,Qatar,172,32,64,Argentina
+2022,18 Dec 2022 - 18:00,Final,Lusail Stadium,Lusail,SZYMON Marciniak (Poland),,,Qatar,172,32,64,Argentina
