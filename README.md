@@ -1,72 +1,75 @@
-# Simple Multi Neural Network
+# 2026 World Cup Predictions
 
-A TensorFlow.js neural network that predicts 2026 FIFA World Cup winners based on historical tournament data.
+A TensorFlow.js neural network that predicts the 2026 FIFA World Cup winner from historical match-level data across all 48 qualified nations.
 
 ## Architecture
 
 ```
-Input Layer (N features)  -->  Hidden Layer (N units, ReLU)  -->  Output Layer (8 classes, Softmax)
+Input Layer (N neurons)  -->  Hidden Layer (N units, ReLU)  -->  Output Layer (48 classes, Softmax)
 ```
 
 - **Loss**: Categorical Crossentropy
 - **Optimizer**: Adam
 - **Preprocessing**: Min-max normalization for numeric features, one-hot encoding for categorical features
 
-## Current State
+## Features
 
-The model trains on `WorldCups.csv` (22 tournaments, 1930-2022) using only features known **before** a tournament starts:
+The model trains on `WorldCupDataset.csv` — an aggregated dataset built from match-level and tournament-level historical data. Input features used:
 
-| Feature        | Type        | Example |
-| -------------- | ----------- | ------- |
-| Year           | Numeric     | 2022    |
-| Country (host) | Categorical | Qatar   |
-| QualifiedTeams | Numeric     | 32      |
-| MatchesPlayed  | Numeric     | 64      |
+| Feature          | Type        | Example                |
+| ---------------- | ----------- | ---------------------- |
+| Year             | Numeric     | 2022                   |
+| Datetime         | Categorical | 18 Dec 2022 - 15:00    |
+| Stage            | Categorical | Final                  |
+| Stadium          | Categorical | Lusail Stadium         |
+| City             | Categorical | Lusail                 |
+| Referee          | Categorical | Szymon Marciniak       |
+| Assistant 1      | Categorical | Paweł Sokolnicki       |
+| Assistant 2      | Categorical | Tomasz Listkiewicz     |
+| Host             | Categorical | Qatar                  |
+| QualifiedTeams   | Numeric     | 32                     |
+| TournamentMatches| Numeric     | 64                     |
 
-Post-tournament columns (Runners-Up, Third, Fourth, GoalsScored, Attendance) are excluded to avoid data leakage.
+The output is the **winner** column — one of the 48 qualified teams for 2026.
+
+## Model Persistence
+
+Trained models are saved to `model/` and reused on subsequent runs, skipping retraining:
+
+| File            | Contents                              |
+| --------------- | ------------------------------------- |
+| `model.json`    | Model topology + weight specs         |
+| `weights.bin`   | Binary weight data                    |
+| `metadata.json` | Column maps + class labels            |
+
+Delete `model/` to retrain from scratch.
 
 ### Sample Output
 
 ```
 2026 World Cup Winner Predictions:
-  Brazil: 21.66%
-  Italy: 16.58%
-  Germany: 15.34%
-  France: 14.05%
-  Uruguay: 8.98%
-  Argentina: 8.17%
-  Spain: 7.99%
-  England: 7.21%
+  France: 65.02%
+  Argentina: 24.97%
+  Spain: 9.89%
+  Germany: 0.08%
+  England: 0.04%
+  Brazil: 0.01%
+  Uruguay: 0.00%
+  ...
 ```
-
-## Next Steps
-
-Cross-reference match-level data from `WorldCupMatches.csv` (~4500 matches) to enrich the model with per-team performance features. Fields to extract:
-
-| Field      | Column            |
-| ---------- | ----------------- |
-| Year       | `Year`            |
-| Datetime   | `Datetime`        |
-| Stage      | `Stage`           |
-| Stadium    | `Stadium`         |
-| City       | `City`            |
-| Home Team  | `Home Team Name`  |
-| Home Goals | `Home Team Goals` |
-| Away Goals | `Away Team Goals` |
-| Away Team  | `Away Team Name`  |
-
-This will allow computing features like win rates, average goals scored/conceded, knockout stage performance, and historical head-to-head records per team.
-
-The goal is to predict the **win probability for every country** participating in the 2026 World Cup, not just past winners.
 
 ## Project Structure
 
 ```
-├── model.ts             # Neural network (training, normalization, prediction)
-├── index.ts             # Data loading, training, and prediction entry point
-├── WorldCups.csv        # Tournament-level data (22 rows)
-├── WorldCupMatches.csv  # Match-level data (~4500 rows)
-├── WorldCupPlayers.csv  # Player-level data
+├── index.ts                # Entry point — train or load, then predict
+├── src/
+│   ├── model.ts            # Neural network (train, predict, save, load)
+│   ├── aggregate.ts        # Aggregates raw CSVs into WorldCupDataset.csv
+│   └── fill-matches.ts     # Enriches WorldCupMatches.csv with extra fields
+├── WorldCupDataset.csv     # Aggregated training data
+├── WorldCupMatches.csv     # Match-level historical data
+├── WorldCups.csv           # Tournament-level data (22 rows)
+├── model/                  # Saved model artifacts (gitignored)
 ├── tsconfig.json
 └── package.json
 ```
@@ -85,6 +88,15 @@ nix develop
 npm install
 npm run start
 ```
+
+### Scripts
+
+| Command              | Description                                    |
+| -------------------- | ---------------------------------------------- |
+| `npm run start`      | Build + run predictions                        |
+| `npm run build`      | Compile TypeScript                             |
+| `npm run aggregate`  | Regenerate `WorldCupDataset.csv` from raw data |
+| `npm run fill-matches` | Enrich `WorldCupMatches.csv`                 |
 
 ## Tech Stack
 
