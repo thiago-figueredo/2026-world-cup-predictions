@@ -28,33 +28,64 @@ export class Model {
 
   static async load(dir: string) {
     const instance = new Model();
-    const { modelTopology, weightSpecs } = JSON.parse(fs.readFileSync(path.join(dir, "model.json"), "utf-8"));
+    const { modelTopology, weightSpecs } = JSON.parse(
+      fs.readFileSync(path.join(dir, "model.json"), "utf-8"),
+    );
+
     const buf = fs.readFileSync(path.join(dir, "weights.bin"));
-    const weightData = buf.buffer.slice(buf.byteOffset, buf.byteOffset + buf.byteLength);
+
+    const weightData = buf.buffer.slice(
+      buf.byteOffset,
+      buf.byteOffset + buf.byteLength,
+    );
+
     instance.model = (await tf.loadLayersModel(
       tf.io.fromMemory(modelTopology, weightSpecs, weightData),
     )) as tf.Sequential;
-    const meta = JSON.parse(fs.readFileSync(path.join(dir, "metadata.json"), "utf-8"));
+
+    const meta = JSON.parse(
+      fs.readFileSync(path.join(dir, "metadata.json"), "utf-8"),
+    );
+
     instance.classLabels = meta.classLabels;
     instance.columnsMaps = new Map(meta.columnsMaps);
+
     return instance;
   }
 
   async save(dir: string) {
     fs.mkdirSync(dir, { recursive: true });
-    await this.model.save(tf.io.withSaveHandler(async (artifacts) => {
-      fs.writeFileSync(path.join(dir, "model.json"), JSON.stringify({
-        modelTopology: artifacts.modelTopology, weightSpecs: artifacts.weightSpecs,
-      }));
-      if (artifacts.weightData) {
-        const data = artifacts.weightData instanceof ArrayBuffer ? artifacts.weightData : artifacts.weightData[0];
-        fs.writeFileSync(path.join(dir, "weights.bin"), Buffer.from(data));
-      }
-      return { modelArtifactsInfo: { dateSaved: new Date(), modelTopologyType: "JSON" as const } };
-    }));
-    fs.writeFileSync(path.join(dir, "metadata.json"), JSON.stringify({
-      columnsMaps: Array.from(this.columnsMaps.entries()), classLabels: this.classLabels,
-    }));
+    await this.model.save(
+      tf.io.withSaveHandler(async (artifacts) => {
+        fs.writeFileSync(
+          path.join(dir, "model.json"),
+          JSON.stringify({
+            modelTopology: artifacts.modelTopology,
+            weightSpecs: artifacts.weightSpecs,
+          }),
+        );
+        if (artifacts.weightData) {
+          const data =
+            artifacts.weightData instanceof ArrayBuffer
+              ? artifacts.weightData
+              : artifacts.weightData[0];
+          fs.writeFileSync(path.join(dir, "weights.bin"), Buffer.from(data));
+        }
+        return {
+          modelArtifactsInfo: {
+            dateSaved: new Date(),
+            modelTopologyType: "JSON" as const,
+          },
+        };
+      }),
+    );
+    fs.writeFileSync(
+      path.join(dir, "metadata.json"),
+      JSON.stringify({
+        columnsMaps: Array.from(this.columnsMaps.entries()),
+        classLabels: this.classLabels,
+      }),
+    );
   }
 
   async train(
@@ -83,6 +114,14 @@ export class Model {
       tf.layers.dense({
         inputShape: [numberOfNeurons],
         units: numberOfNeurons,
+        activation: "relu",
+      }),
+    );
+
+    this.model.add(
+      tf.layers.dense({
+        inputShape: [numberOfNeurons],
+        units: numberOfNeurons * 2,
         activation: "relu",
       }),
     );
@@ -181,7 +220,12 @@ export class Model {
         const x = input[i];
         const col = this.columnsMaps.get(i);
         if (!col) {
-          this.columnsMaps.set(i, { min: Number(x), max: Number(x), values: [x], columnHeader: headers[i] });
+          this.columnsMaps.set(i, {
+            min: Number(x),
+            max: Number(x),
+            values: [x],
+            columnHeader: headers[i],
+          });
         } else if (!col.values.includes(x)) {
           col.min = Math.min(col.min, Number(x));
           col.max = Math.max(col.max, Number(x));
