@@ -1,0 +1,22 @@
+{
+  "name": "simple-multi-neural-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && TF_CPP_MIN_LOG_LEVEL=2 TF_ENABLE_ONEDNN_OPTS=0 node --no-warnings dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  },
+  "devDependencies": {
+    "@tensorflow/tfjs-core": "^4.22.0",
+    "@tensorflow/tfjs-layers": "^4.22.0",
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.2"
+  }
+}
